@@ -1,0 +1,37 @@
+start = TEI
+TEI = element TEI {teiHeader, doc}
+teiHeader = element teiHeader {text}
+doc = element text {id, front, body, back}
+id = attribute xml:id {xsd:ID}
+front = element front {docAuthor, docTitle}
+docAuthor = element docAuthor {text}
+docTitle = element docTitle {text}
+body = element body {id, title, p, floatingText}
+back = element back {id, title, p, floatingText}
+# <back> element contains historical summary.
+title = element title {text}
+p = element p {s}
+s = element s {mixed {(name | date | emph | gloss | w | q)*}}
+q = element q {who, mixed {(name | date | emph | gloss | w)*}}
+who = attribute who {xsd:ID}
+name = element name {id}
+date = element date {text}
+emph = element emph {text}
+gloss = element gloss {text}
+# Footnotes belong in the <gloss> element.
+w = element w {type, subtype, text}
+# <w> tag is for language. @type describes verbs or descriptive language.
+# @subtype will describe what type of verb or what type of descriptive language.
+type = attribute type {"verb"|"descLang"}
+subtype = attribute subtype {text}
+floatingText = element floatingText {floatType, lg, sp, opener, closer, text}
+# <floatingText> describes the sections of poetry, letters, and plays within the text.
+# @type describes what form the section takes. We can add more if we come across others.
+floatType = attribute type {"verse"|"letter"|"drama"}
+lg = element lg {l}
+l = element l {mixed{(name | date | emph | gloss | w | q)*}}
+opener = element opener {text}
+closer = element closer {text}
+# <opener> and <closer> are for letter greetings and closings.
+sp = element sp {speaker, text}
+speaker = element speaker {text}
