@@ -14,7 +14,7 @@ p = element p {s*}
 s = element s {mixed {(name | date | emph | gloss | w | q)*}}
 q = element q {who, mixed {(name | date | emph | gloss | w)*}}
 who = attribute who {xsd:IDREFS}
-name = element name {id}
+name = element name {who, text}
 date = element date {text}
 emph = element emph {text}
 gloss = element gloss {text}
@@ -23,8 +23,8 @@ w = element w {type, subtype, text}
 # <w> tag is for language. @type describes verbs or descriptive language.
 # @subtype will describe what type of verb or what type of descriptive language.
 type = attribute type {"verb"|"descLang"}
-subtype = attribute subtype {text}
-floatingText = element floatingText {floatType, lg, sp, opener, closer, text}
+subtype = attribute subtype {"beVerb"|"action"|"adjective"|"adverb"}
+floatingText = element floatingText {mixed{(floatType|lg|sp|opener|closer)*}}
 # <floatingText> describes the sections of poetry, letters, and plays within the text.
 # @type describes what form the section takes. We can add more if we come across others.
 floatType = attribute type {"verse"|"letter"|"drama"}
