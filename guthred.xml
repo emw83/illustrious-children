@@ -5,6 +5,31 @@
         <front>
             <docAuthor>Agnes Strickland</docAuthor>
             <docTitle>Historical Tales of Illustrious Children: Guthred's Tale</docTitle>
+            <profileDesc>
+                    <!-- List of People -->
+                    <!--author-->
+                <person xml:id="Guthred" sex="male">
+                     <persName>Guthred</persName>
+                </person>
+                <person xml:id="Winifred" sex="female">
+                    <persName>Winifred</persName>
+                </person>
+                <person xml:id="Ricsig" sex="male">
+                    <persName>Ricsig</persName>
+                </person>
+                <person xml:id="Eadred" sex="male">
+                    <persName>Eadred</persName>
+                </person>
+                <person xml:id="Selwood" sex="male">
+                    <persName>Selwood</persName>
+                </person>
+                <person xml:id="Swindreda" sex="female">
+                    <persName>Swindreda</persName>
+                </person>
+                <person xml:id="AlfredTheGreat" sex="male">
+                    <persName>Alfred the Great</persName>
+                </person>
+            </profileDesc>
         </front>
         <body xml:id="GuthredsTaleStory">
             <title>Guthred's Tale</title>
