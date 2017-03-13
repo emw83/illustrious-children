@@ -3,9 +3,13 @@ TEI = element TEI {teiHeader, doc}
 teiHeader = element teiHeader {text}
 doc = element text {id, front, body, back}
 id = attribute xml:id {xsd:ID}
-front = element front {docAuthor, docTitle}
+front = element front {docAuthor, docTitle, profileDesc}
 docAuthor = element docAuthor {text}
 docTitle = element docTitle {text}
+profileDesc = element profileDesc {person*}
+person = element person {id, sex, persName}
+sex = attribute sex {"male"|"female"}
+persName = element persName {text}
 body = element body {id, title, p*, floatingText*}
 back = element back {id, title, p*, floatingText*}
 # <back> element contains historical summary.
