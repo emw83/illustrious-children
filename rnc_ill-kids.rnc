@@ -8,7 +8,7 @@ docAuthor = element docAuthor {text}
 docTitle = element docTitle {text}
 profileDesc = element profileDesc {person*}
 person = element person {id, sex, persName}
-sex = attribute sex {"male"|"female"}
+sex = attribute sex {"male"|"female"|"unknown"}
 persName = element persName {text}
 body = element body {id, title, p*, floatingText*}
 back = element back {id, title, p*, floatingText*}
@@ -23,11 +23,11 @@ date = element date {text}
 emph = element emph {text}
 gloss = element gloss {text}
 # Footnotes belong in the <gloss> element.
-w = element w {type, subtype, text}
+w = element w {type, subtype, emph*, text}
 # <w> tag is for language. @type describes verbs or descriptive language.
 # @subtype will describe what type of verb or what type of descriptive language.
 type = attribute type {"verb"|"descLang"}
-subtype = attribute subtype {"beVerb"|"action"|"adjective"|"adverb"}
+subtype = attribute subtype {"beVerb"|"action"|"link"|"adjective"|"adverb"}
 floatingText = element floatingText {mixed{(floatType|lg|sp|opener|closer)*}}
 # <floatingText> describes the sections of poetry, letters, and plays within the text.
 # @type describes what form the section takes. We can add more if we come across others.
