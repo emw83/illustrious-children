@@ -23,7 +23,7 @@ date = element date {text}
 emph = element emph {text}
 gloss = element gloss {text}
 # Footnotes belong in the <gloss> element.
-w = element w {type, subtype, text}
+w = element w {type, subtype, emph*, text}
 # <w> tag is for language. @type describes verbs or descriptive language.
 # @subtype will describe what type of verb or what type of descriptive language.
 type = attribute type {"verb"|"descLang"}
