@@ -1,0 +1,1765 @@
+<TEI>
+    <teiHeader/>
+    <text xml:id="RoyalChaseOfWareham">
+        <front>
+            <docAuthor>Agnes Strickland</docAuthor>
+            <docTitle>Historical Tales of Illustrious British Children: The Royal Chase of
+                Wareham</docTitle>
+            <profileDesc>
+                <!--List of People-->
+                <!--author-->
+                <person xml:id="KingEdgar">
+                    <persName>King Edgar</persName>
+                </person>
+                <person xml:id="PrinceEdward">
+                    <persName>Edward</persName>
+                </person>
+                <person xml:id="PrinceEthelred">
+                    <persName>Ethelred</persName>
+                </person>
+                <person xml:id="QueenDowagerElfrida">
+                    <persName>Elfrida</persName>
+                </person>
+                <person xml:id="ArchbishopDunstan">
+                    <persName>Archbishop Dunstan</persName>
+                </person>
+                <person xml:id="ArchbishopOswald">
+                    <persName>Archbishop Oswald</persName>
+                </person>
+                <person xml:id="Ethelbald">
+                    <persName>Ethelbald</persName>
+                </person>
+                <person xml:id="Wulstan">
+                    <persName>Wulstan</persName>
+                </person>
+            </profileDesc>
+        </front>
+        <body xml:id="RoyalChaseofWarehamStory">
+            <title>The Royal Chase of Wareham</title>
+            <p>
+                <s>On the death of <name who="KingEdgar">Edgar the Second</name>, sirnamed the
+                    peaceable, England <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">distracted</w> by the contentions of two
+                        <w type="descLang" subtype="adjective">adverse</w> factions respecting the
+                    choice of a successor to the crown.</s>
+            </p>
+            <p>
+                <s>At the head of the most powerful party, distinguished by the name of the
+                    Dunstanites, <w type="verb" subtype="beVerb">was</w> the <w type="descLang"
+                        subtype="adjective">famous</w>
+                    <name who="Arch">Archbishop Dunstan</name>,<gloss>Some account of this
+                        celebrated statesman and ecclesiastic will be found in the Historical
+                        Summary.</gloss> who <w type="verb" subtype="action">supported</w> the title
+                    of <name who="PrinceEdward">Edward</name> the Atheling, or prince royal, the <w
+                        type="descLang" subtype="adjective">eldest</w> son of the <w type="descLang"
+                        subtype="adjective">deceased</w> monarch, by his first wife.</s>
+                <s>The other faction called the Anti-Dunstanites, <w type="verb" subtype="beVerb"
+                        >were</w> the partisans of the queen dowager, the <w type="descLang"
+                        subtype="adjective">beautiful</w> but <w type="descLang" subtype="adjective"
+                        >wicked</w>
+                    <name who="QueenDowagerElfrida">Elfrida</name>, who <w type="verb"
+                        subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">ambitious</w> of <w type="verb"
+                        subtype="action">placing</w> her <w type="descLang" subtype="adjective"
+                        >young</w> son <name who="PrinceEthelred">Ethelred</name> on the throne, and
+                        <w type="verb" subtype="action">governing</w> in his name during a <w
+                        type="descLang" subtype="adjective">long</w> minority.</s>
+                <s>But while the whole nation <w type="verb" subtype="beVerb">was</w> divided and
+                    involved in civil discord on this point, and the most <w type="descLang"
+                        subtype="adjective">deadly</w> hatred <w type="verb" subtype="action"
+                        >agitated</w> the minds of those who <w type="verb" subtype="action"
+                        >espoused</w> the rival claims of the sons of <name who="KingEdgar"
+                        >Edgar</name>, it <w type="verb" subtype="beVerb">is</w> an <w
+                        type="descLang" subtype="adjective">interesting</w> fact that the <w
+                        type="descLang" subtype="adjective">youthful</w> princes, though <w
+                        type="descLang" subtype="adverb">only</w> brothers by the half blood, <w
+                        type="verb" subtype="beVerb">were</w> united in the <w type="descLang"
+                        subtype="adjective">tenderest</w> bonds of love.</s>
+            </p>
+            <p>
+                <s><name who="PrinceEdward">Edward</name>, who <w type="verb" subtype="action"
+                        >had</w>
+                    <w type="descLang" subtype="adverb">just</w>
+                    <w type="verb" subtype="action">completed</w> his fourteenth year, <w
+                        type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">named</w> by his <w type="descLang"
+                        subtype="adjective">dying</w> father as his successor.</s>
+                <s>The right of primogeniture <w type="verb" subtype="beVerb">was</w> his also, and
+                    in the Witenagemot or great national council, the <w type="descLang"
+                        subtype="adjective">eloquence</w> and <w type="descLang" subtype="adjective"
+                        >influence</w> of the two archbishops, <name who="ArchbishopDunstan"
+                        >Dunstan</name> and <name who="ArchbishopOswald">Oswald</name>, <w
+                        type="verb" subtype="action">obtained</w> a formal recognition of those
+                    rights, and <name who="PrinceEdward">Prince Edward</name>
+                    <w type="verb" subtype="beVerb">was</w>, in conformity with the will of his <w
+                        type="descLang" subtype="adjective">deceased</w> father, <w type="verb"
+                        subtype="action">placed</w> on the throne of the Anglo Saxons.</s>
+            </p>
+            <p>
+                <s>At the <w type="descLang" subtype="adjective">tender</w> age of seven years the
+                        <w type="descLang" subtype="adjective">baleful</w> passions of ambition <w
+                        type="verb" subtype="action">had</w> no place in the then <w type="descLang"
+                        subtype="adjective">guileless</w> heart of the younger prince.</s>
+                <s>Unconscious of the charms of royalty, of which he <w type="verb" subtype="action"
+                        >had</w> as yet <w type="descLang" subtype="adverb">only</w>
+                    <w type="verb" subtype="action">experienced</w> the restraints, the loss of a
+                    kingdom <w type="verb" subtype="beVerb">was</w> not to him matter of either
+                    disappointment or regret.</s>
+                <s>The <w type="descLang" subtype="adverb">only</w> sorrow of which the decision of
+                    the Witenagemot <w type="verb" subtype="beVerb">was</w> productive to him <w
+                        type="verb" subtype="beVerb">was</w> his separation from that <w
+                        type="descLang" subtype="adjective">beloved</w> elder brother, in whose <w
+                        type="descLang" subtype="adjective">affectionate</w> bosom he <w type="verb"
+                        subtype="action">had</w>, from his earliest remembrance, <w type="verb"
+                        subtype="beVerb">been</w> wont to <w type="verb" subtype="action">repose</w>
+                    his <w type="descLang" subtype="adjective">childish</w> joys and griefs, and who
+                        <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w> his companion, his guide, and his own
+                    sweet familiar friend.</s>
+                <s>Never <w type="verb" subtype="beVerb">were</w> the <w type="descLang"
+                        subtype="adjective">soothing</w> kindness and <w type="descLang"
+                        subtype="adjective">fond</w> endearments he <w type="verb" subtype="action"
+                        >had</w>
+                    <w type="verb" subtype="beVerb">been</w> accustomed to receive from the <w
+                        type="descLang" subtype="adjective">princely</w>
+                    <name who="PrinceEdward">Edward</name> so much required by <name
+                        who="PrinceEthelred">Ethelred</name> as at this period, when all the <w
+                        type="descLang" subtype="adjective">evil</w> passions of his <w
+                        type="descLang" subtype="adjective">haughty</w> mother's nature <w
+                        type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w> roused and called into <w
+                        type="descLang" subtype="adjective">baleful</w> activity during her late
+                    attempts to supplant her royal step-son: and having <w type="verb"
+                        subtype="beVerb">been</w> foiled in her endeavours to <w type="verb"
+                        subtype="action">usurp</w> the royal authority in <name who="PrinceEthelred"
+                        >Ethelred</name>'s name, she <w type="verb" subtype="action">vented</w> her
+                    mortification and <w type="descLang" subtype="adjective">baffled</w> rage on the
+                        <w type="descLang" subtype="adjective">unfortunate</w> object of her <w
+                        type="descLang" subtype="adjective">maternal</w> ambition and defeated
+                    machinations.</s>
+            </p>
+            <p>
+                <s><w type="descLang" subtype="adjective">Weak</w> in body and <w type="descLang"
+                        subtype="adjective">feeble</w> in mind, <name who="PrinceEthelred"
+                        >Ethelred</name> had evidently <w type="verb" subtype="beVerb">been</w>
+                    designed by nature for a private station, and these constitutional defects
+                    frequently subjected him to the <w type="descLang" subtype="adjective"
+                        >bitterest</w> reproaches and most <w type="descLang" subtype="adjective"
+                        >injurious</w> treatment from the <w type="descLang" subtype="adjective"
+                        >imperious</w>
+                    <name who="QueenDowagerElfrida">Elfrida</name>, whose <w type="descLang"
+                        subtype="adjective">unrestrained</w> violence of temper rendered her at all
+                    times an object of terror to him, although occasionally <w type="verb"
+                        subtype="action">experiencing</w> the most <w type="descLang"
+                        subtype="adjective">pernicious</w> indulgence from her when caprice <w
+                        type="verb" subtype="action">inclined</w> her to fondness.</s>
+            </p>
+            <p>
+                <s>Child as he <w type="verb" subtype="beVerb">was</w>, <name who="PrinceEthelred"
+                        >Ethelred</name>
+                    <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adverb">only</w> too <w type="descLang"
+                        subtype="adverb">painfully</w>
+                    <w type="descLang" subtype="adjective">aware</w> of the <w type="descLang"
+                        subtype="adjective">evil</w> traits of his mother's character, and since he
+                        <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">deprived</w> by death of his <w type="descLang"
+                        subtype="adjective">natural </w>protector, and afterwards <w type="verb"
+                        subtype="action">separated</w> from his <w type="descLang"
+                        subtype="adjective">affectionate</w> brother, he <w type="verb"
+                        subtype="action">seemed</w> to <w type="verb" subtype="action">tremble</w>
+                    at the sound of her step, and <w type="verb" subtype="action">sought</w> at all
+                    times to <w type="verb" subtype="action">avoid</w> her presence, while he <w
+                        type="verb" subtype="action">beheld</w> with <w type="descLang"
+                        subtype="adjective">jealous</w> displeasure the caresses she <w type="verb"
+                        subtype="action">bestowed</w> on her little <w type="descLang"
+                        subtype="adjective">cankered</w> dwarf <name who="Wulstan">Wulstan</name>,
+                    whose <w type="descLang" subtype="adjective">droll</w> tricks and <w
+                        type="descLang" subtype="adjective">impish</w> mischief <w type="descLang"
+                        subtype="adverb">occasionally</w>
+                    <w type="verb" subtype="action">possessed</w> the power of <w type="verb"
+                        subtype="action">diverting</w> the <w type="descLang" subtype="adjective"
+                        >black</w> gloom that <w type="verb" subtype="action">oppressed</w> her,
+                    after she <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">compelled</w> to <w type="verb" subtype="action"
+                        >resign</w> the <w type="descLang" subtype="adjective">gaiety</w> and <w
+                        type="descLang" subtype="adjective">splendour</w> of the court for a <w
+                        type="descLang" subtype="adjective">solitary</w> residence in Corfe Castle,
+                    one of the royal demesnes in Dorsetshire, which <w type="verb" subtype="action"
+                        >had</w>
+                    <w type="verb" subtype="beVerb">been</w> the <w type="descLang"
+                        subtype="adjective">favourite</w> hunting palace of her late husband <name
+                        who="KingEdgar">King Edgar</name>, who <w type="verb" subtype="action"
+                        >had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">accustomed</w> to <w type="verb"
+                        subtype="action">spend</w> much of his time there; and thither <name
+                        who="QueenDowagerElfrida">Elfrida</name>
+                    <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">allowed</w> by her <w type="descLang"
+                        subtype="adjective">generous</w> step-son to <w type="verb" subtype="action"
+                        >retire</w>, with her son <name who="PrineEthelred">Prince Ethelred</name>
+                    and a train <w type="descLang" subtype="adjective">suitable</w> to the <w
+                        type="descLang" subtype="adjective">dignity</w> of his father's widow.</s>
+                <s>Instead of <w type="verb" subtype="beVerb">being</w>
+                    <w type="verb" subtype="action">moved</w> by the <w type="descLang"
+                        subtype="adjective">kindness</w> and <w type="descLang" subtype="adjective"
+                        >forbearance</w> of the <w type="descLang" subtype="adjective">young</w>
+                    king, <name who="QueenDowagerElfrida">Elfrida</name>
+                    <w type="verb" subtype="action">continued</w> in secret her <w type="descLang"
+                        subtype="adjective">treasonable</w> practices against him.</s>
+                <s>She <w type="verb" subtype="action">had</w>
+                    <w type="descLang" subtype="adverb">already</w>
+                    <w type="verb" subtype="action">sacrificed</w> her first husband <name
+                        who="Ethelbald">Ethelbald</name> to her ambition, and she <w type="descLang"
+                        subtype="adverb">only</w>
+                    <w type="verb" subtype="action">waited</w> a <w type="descLang"
+                        subtype="adjective">suitable</w> opportunity of <w type="verb"
+                        subtype="action">attemping</w> the life of <name who="PrinceEdward"
+                        >Edward</name>.</s>
+                <s>The <name who="ArchbishopDunstan">Archbishop Dunstan</name>
+                    <w type="verb" subtype="beVerb">was</w>, however, <w type="descLang"
+                        subtype="adverb">fully</w>
+                    <w type="verb" subtype="action">aware</w> of her <w type="descLang"
+                        subtype="adjective">cruel</w> and <w type="descLang" subtype="adjective"
+                        >perfidious</w> disposition, and he <w type="descLang" subtype="adverb"
+                        >strictly</w>
+                    <w type="verb" subtype="action">guarded</w> his royal pupil from all her
+                    machinations and conspiracies against his person, and <w type="verb"
+                        subtype="action">warned</w> him <w type="descLang" subtype="adverb"
+                        >perpetually</w> against the <w type="descLang" subtype="adjective"
+                        >imprudence</w> of either <w type="verb" subtype="action">admitting</w> her
+                    to <w type="verb" subtype="action">visit</w> the court, or <w type="verb"
+                        subtype="action">trusting</w> himself in the vicinity of her abode.</s>
+                <s>So <w type="descLang" subtype="adverb">implicitly</w>
+                    <w type="verb" subtype="action">had</w> the cautions of <name
+                        who="ArchbishopDunstan">Dunstan</name>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">attended</w> to by those about the <w
+                        type="descLang" subtype="adjective">young</w> king, that for a period of
+                    three years he <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">prevented</w> from <w type="verb"
+                        subtype="action">holding</w> the slightest intercourse with <name
+                        who="QueenDowagerElfrida">Elfrida</name> and her son.</s>
+            </p>
+            <p>
+                <s>But the <w type="descLang" subtype="adjective">affectionate</w> heart of <name
+                        who="PrinceEdward">Edward</name>
+                    <w type="verb" subtype="action">yearned</w> towards his <w type="descLang"
+                        subtype="adjective">younger</w> brother, whom he <w type="descLang"
+                        subtype="adverb">earnestly</w>
+                    <w type="verb" subtype="action">desired</w> to <w type="verb" subtype="action"
+                        >embrace</w> once more.</s>
+                <s>The cares of royalty, the sceptre of a divided realm, and the <w type="descLang"
+                        subtype="adjective">severe</w> restraints and self-sacrifices <w type="verb"
+                        subtype="action">imposed</w> upon him by his <w type="descLang"
+                        subtype="adjective">austere</w> but <w type="descLang" subtype="adjective"
+                        >faithful</w> guardian <name who="ArchbishopDunstan">Dunstan</name>, <w
+                        type="verb" subtype="beVerb">were</w>
+                    <w type="descLang" subtype="adjective">grevious</w> to the <w type="descLang"
+                        subtype="adjective">youthful</w> monarch, who, in addition to these, <w
+                        type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">compelled</w> to <w type="verb" subtype="action"
+                        >submit</w> to the <w type="descLang" subtype="adjective">stern</w>
+                    discipline of a <w type="descLang" subtype="adjective">monastic</w> education;
+                    and the mode in which learning <w type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">communicated</w> in those days <w type="verb"
+                        subtype="beVerb">was</w> equally <w type="descLang" subtype="adjective"
+                        >fatiguing</w> to the preceptor and <w type="descLang" subtype="adjective"
+                        >painful</w> to the pupil.</s>
+                <s>Elementary books <w type="verb" subtype="beVerb">were</w> not then <w type="verb"
+                        subtype="action">written</w> to <w type="verb" subtype="action"
+                        >facilitate</w> the progress of education.</s>
+                <s>There <w type="verb" subtype="beVerb">were</w> not above three copies of a <w
+                        type="descLang" subtype="adjective">meagre</w> dictionary in existence in
+                    England, and lessons <w type="verb" subtype="beVerb">were</w>
+                    <w type="verb" subtype="action">learned</w> from dictation, till, by <w
+                        type="descLang" subtype="adjective">frequent</w>
+                    <w type="verb" subtype="action">repetition</w> the student <w type="verb"
+                        subtype="action">committed</w> them to memory, or, according to the <w
+                        type="descLang" subtype="adjective">ancient</w> phrase, <q>"got them by
+                        heart."</q></s>
+            </p>
+            <p>
+                <s>These impositions <w type="verb" subtype="beVerb">were</w>
+                    <w type="descLang" subtype="adjective">distasteful</w> to the <w type="descLang"
+                        subtype="adjective">young</w> king, and <w type="verb" subtype="beVerb"
+                        >were</w> often <w type="descLang" subtype="adverb">sadly</w>
+                    <w type="verb" subtype="action">contrasted</w> by him with the pleasures and <w
+                        type="descLang" subtype="adjective">joyous</w> freedom of his early years,
+                    before his accession to the <w type="descLang" subtype="adjective">regal</w>
+                    dignity <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="action">burdened</w> him with the <w type="verb"
+                        subtype="adjective">heavy</w> fetters of state and <w type="verb"
+                        subtype="action">deprived</w> him of the amusements of his age, and above
+                    all of the company of his brother <name who="PrinceEthelred">Ethelred</name>,
+                    his <w type="descLang" subtype="adjective">tenderly-beloved</w>
+                    <w type="descLang" subtype="adjective">living</w> plaything.</s>
+            </p>
+            <p>
+                <s>The royal manor and castle of Corfe <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w>, as I <w type="verb" subtype="action"
+                        >said</w> before, the <w type="descLang" subtype="adjective">favourite</w>
+                    residence of the <w type="descLang" subtype="adjective">deceased</w> king his
+                    father, during whose reign it <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w> a constant scene of <w type="descLang"
+                        subtype="adjective">gaiety</w> and <w type="descLang" subtype="adjective"
+                        >festivity</w>.</s>
+                <s>The <w type="descLang" subtype="adjective">happy</w> days of <name
+                        who="PrinceEdward">Edward</name>'s childhood <w type="verb" subtype="action"
+                        >had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">spent</w> there, and when he <w type="verb"
+                        subtype="action">compared</w> the <w type="descLang" subtype="adjective"
+                        >gloomy</w> routine and <w type="descLang" subtype="adjective">fatiguing</w>
+                    employments of his present mode of life with the <w type="descLang"
+                        subtype="adjective">sweet</w> remembrances of that <w type="descLang"
+                        subtype="adjective">pleasant</w> time, he <w type="verb" subtype="action"
+                        >felt</w>
+                    <w type="descLang" subtype="adjective">disposed</w> to <w type="verb"
+                        subtype="action">regard</w> the demesne of the queen dowager as a sort of
+                    Eden, <w type="verb" subtype="action">contrasted</w> with which the rest of his
+                    kingdom <w type="verb" subtype="beVerb">was</w> but an <w type="descLang"
+                        subtype="adjective">extensive</w> wilderness.</s>
+            </p>
+            <p>
+                <s>This desire of <w type="verb" subtype="action">revisiting</w> the scenes of his
+                    infancy, "his home," as he <w type="descLang" subtype="adjective"
+                        >emphatically</w> styled Corfe Castle, <w type="verb" subtype="action"
+                        >became</w> more pressing in proportion as it <w type="verb"
+                        subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">resisted</w> by his <w type="descLang"
+                        subtype="adjective">inexorable</w> guardian and the rest of the <w
+                        type="descLang" subtype="adjective">wise</w> counsellors by whose decision
+                    he, while a minor, <w type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">compelled</w> to <w type="verb" subtype="action"
+                        >abide</w>, and he <w type="descLang" subtype="adverb">secretly</w>
+                    <w type="verb" subtype="action">resolved</w> to <w type="verb" subtype="action"
+                        >embrace</w> the first opportunity that might occur for the gratification of
+                    his wish.</s>
+            </p>
+            <p>
+                <s>Meantime, <w type="descLang" subtype="adjective">unremitting</w> application to
+                    the <w type="descLang" subtype="adjective">laborious</w> studies and public
+                    duties which <name who="ArchbishopDunstan">Dunstan</name>
+                    <w type="verb" subtype="action">enjoined</w>, impatience of the restraints <w
+                        type="verb" subtype="action">imposed</w> upon him, and above all, his <w
+                        type="descLang" subtype="adjective">incessant</w>
+                    <w type="verb" subtype="action">pining</w> for the <w type="descLang"
+                        subtype="adjective">beloved</w> scenes and companion of his childhood, <w
+                        type="verb" subtype="linking">produced</w> a visible change in his
+                    health.</s>
+                <s>His <w type="descLang" subtype="adjective">fading</w> cheek, <w type="descLang"
+                        subtype="adjective">heavy</w> eye, and <w type="descLang"
+                        subtype="adjective">languid</w> appearance, at length <w type="verb"
+                        subtype="linking">attracted</w> the attention of <name
+                        who="ArchbishopDunstan">Dunstan</name>, who, in common with most
+                    ecclesiastics of that period, <w type="verb" subtype="linking">possessed</w> a
+                        <w type="descLang" subtype="adjective">considerable</w> knowledge of physic,
+                    and <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">desirous</w> of <w type="verb"
+                        subtype="action">administering</w> to his royal pupil a medicine which he <w
+                        type="verb" subtype="linking">considered</w> might be <w type="descLang"
+                        subtype="adjective">efficacious</w> to him.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"It <w type="verb" subtype="beVerb">is</w> of no avail," <w type="verb"
+                            subtype="action">said</w>
+                        <name who="PrinceEdward">Edward</name>, <w type="verb" subtype="action"
+                            >rejecting</w> as he <w type="verb" subtype="action">spoke</w> the <w
+                            type="descLang" subtype="adjective">proffered</w> cup, "it <w
+                            type="verb" subtype="beVerb">is</w> not a <w type="descLang"
+                            subtype="adjective">nauseous</w> compound of drugs that will <w
+                            type="verb" subtype="action">restore</w> me to health.</s>
+                    <s>It <w type="verb" subtype="beVerb">is</w> the devertisements, the
+                        relaxations, and the companionships of my age that I <w type="verb"
+                            subtype="action">require</w>."</s>
+                </q>
+            </p>
+            <p>
+                <s><q>"<w type="verb" subtype="action">Know</w> you not, Oh! King, that as the lord
+                        of a <w type="descLang" subtype="adjective">mighty</w> nation, you <w
+                            type="verb" subtype="beVerb">are</w>
+                        <w type="verb" subtype="action">called</w> upon to <w type="verb"
+                            subtype="action">put</w> away <w type="descLang" subtype="adjective"
+                            >childish</w> things, and to <w type="verb" subtype="action">employ</w>
+                        your <w type="descLang" subtype="adjective">precious</w> time in <w
+                            type="verb" subtype="action">fitting</w> yourself for the <w type="verb"
+                            subtype="action">performance</w> of the <w type="descLang"
+                            subtype="adjective">important</w> duties which <w type="verb"
+                            subtype="linking">pertain</w> to your <w type="descLang"
+                            subtype="adjective">exalted</w> station?"</q>
+                    <w type="verb" subtype="action">said</w> the archbishop.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"Ah! station full of sorrow!" <w type="verb" subtype="action">exclaimed</w>
+                        the <w type="descLang" subtype="adjective">young</w> king, "how gladly <w
+                            type="verb" subtype="linking">would</w> I <w type="verb"
+                            subtype="action">exchange</w> its <w type="descLang" subtype="adjective"
+                            >gilded</w> fetters for the <w type="descLang" subtype="adjective"
+                            >healthful</w> toils and <w type="descLang" subtype="adjective"
+                            >envied</w> freedom of a shepherd boy!"</s>
+                </q>
+            </p>
+            <p>
+                <s><q>"In the same <w type="descLang" subtype="adjective">sinful</w> spirit of
+                        discontent and rebellion against the dispensations of the Most High, thou <w
+                            type="verb" subtype="linking">wouldst</w>
+                        <w type="verb" subtype="linking">have</w>
+                        <w type="verb" subtype="action">coveted</w>
+                        <w type="descLang" subtype="adjective">regal</w> dignity, <w type="verb"
+                            subtype="action">had</w>st thou <w type="verb" subtype="beVerb">been</w>
+                        <w type="descLang" subtype="adjective">doomed</w> to <w type="verb"
+                            subtype="linking">bear</w> the hardships and privations of a herdsman's
+                        lot,"</q>
+                    <w type="verb" subtype="action">replied</w> the archbishop.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"I <w type="verb" subtype="linking">could</w>
+                        <w type="verb" subtype="action">endure</w> them all <w type="descLang"
+                            subtype="adjective">patiently</w>, yea <w type="descLang"
+                            subtype="adjective">joyfully</w>, <w type="verb" subtype="beVerb"
+                            >were</w> I <w type="verb" subtype="linking">permitted</w> to <w
+                            type="verb" subtype="action">breathe</w> the <w type="descLang"
+                            subtype="adjective">fresh</w>
+                        <w type="descLang" subtype="adjective">free</w> air of dale and down in
+                        liberty," <w type="verb" subtype="action">rejoined</w> the <w
+                            type="descLang" subtype="adjective">youthful</w> monarch, "and to <w
+                            type="verb" subtype="action">solace</w> myself with the company of one
+                            <w type="descLang" subtype="adjective">dear</w>
+                        <w type="descLang" subtype="adjective">familiar</w> friend, <w type="verb"
+                            subtype="beVerb">were</w> it but a day."</s>
+                </q>
+            </p>
+            <p>
+                <q>
+                    <s>"Thou <w type="verb" subtype="beVerb">art</w> a <w type="descLang"
+                            subtype="adjective">perverse</w> boy, and <w type="verb"
+                            subtype="linking">knowest</w> not the value of a <w type="descLang"
+                            subtype="adjective">real</w> friend when thou <w type="verb"
+                            subtype="linking">hast</w> found one," <w type="verb" subtype="action"
+                            >said</w>
+                        <name who="ArchbishopDunstan">Dunstan</name>
+                        <w type="descLang" subtype="adverb">reproachfully</w>.</s>
+                    <s>"Thou <w type="verb" subtype="linking">deemest</w> me <w type="descLang"
+                            subtype="adjective">harsh</w>, and my counsels <w type="descLang"
+                            subtype="adjective">bitter</w>, because, instead of <w type="verb"
+                            subtype="action">dissembling</w> with thy folly, I <w type="verb"
+                            subtype="action">labour</w> to <w type="verb" subtype="action"
+                            >convince</w> thee that a king <w type="verb" subtype="beVerb">is</w>
+                        the property of the nation that <w type="verb" subtype="action">permits</w>
+                        his authority, and that it <w type="verb" subtype="linking">behoves</w> him
+                        to <w type="verb" subtype="action">sacrifice</w> his <w type="descLang"
+                            subtype="adjective">dearest</w> wishes where they <w type="verb"
+                            subtype="linking">interfere</w> with the duty he <w type="verb"
+                            subtype="linking">owes</w> to his people."</s>
+                </q>
+            </p>
+            <p>
+                <q>
+                    <s>"Nay, but, my father," <w type="verb" subtype="action">said</w>
+                        <name who="PrinceEdward">Edward</name>, "my present desire <w type="verb"
+                            subtype="beVerb">is</w> so <w type="descLang" subtype="adjective"
+                            >simple</w> in its nature, that it <w type="verb" subtype="linking"
+                            >concerneth</w> no one beside myself, or I <w type="verb"
+                            subtype="linking">would</w> not <w type="verb" subtype="action">urge</w>
+                        it."</s>
+                </q>
+            </p>
+            <p>
+                <q>
+                    <s>"It <w type="verb" subtype="beVerb">is</w>, I <w type="verb" subtype="action"
+                            >know</w>, of no avail to <w type="verb" subtype="action">reason</w>
+                        with thy perversity to-day," <w type="verb" subtype="action">said</w>
+                        <name who="ArchbishopDunstan">Dunstan</name>
+                        <w type="descLang" subtype="adverb">impatiently</w>.</s>
+                    <s>"What <w type="verb" subtype="action">wouldst</w> thou?"</s>
+                </q>
+            </p>
+            <p>
+                <s><q>"I <w type="verb" subtype="linking">would</w>
+                        <w type="verb" subtype="action">fain</w> hunt the deer in my royal chase of
+                        Wareham,"</q>
+                    <w type="verb" subtype="action">replied</w> the king in a <w type="descLang"
+                        subtype="adjective">hurried</w> voice, <w type="verb" subtype="beVerb"
+                        >being</w>
+                    <w type="verb" subtype="action">awed</w> by the <w type="descLang"
+                        subtype="adjective">stern</w> manner of his preceptor into dissembling half
+                    his wish.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"<w type="verb" subtype="beVerb">Is</w> that all?" <w type="verb"
+                            subtype="action">demanded</w>
+                        <name who="ArchbishopDunstan">Dunstan</name>, <w type="verb"
+                            subtype="action">fixing</w> his <w type="descLang" subtype="adjective"
+                            >penetrating</w> eye upon the <w type="descLang" subtype="adjective"
+                            >varying</w> cheek of the <w type="descLang" subtype="adjective"
+                            >youthful</w> king; "thou <w type="verb" subtype="linking">mightest</w>
+                        well <w type="verb" subtype="action">call</w> thine a <w type="descLang"
+                            subtype="adjective">simple</w> wish, and if thou <w type="verb"
+                            subtype="linking">hadst</w>
+                        <w type="verb" subtype="action">added</w>
+                        <w type="descLang" subtype="adjective">foolish</w> thou <w type="verb"
+                            subtype="linking">hadst</w> not <w type="verb" subtype="action">said</w>
+                        <w type="descLang" subtype="adverb">amiss</w>."</s>
+                </q>
+            </p>
+            <p>
+                <s><q>"I <w type="verb" subtype="action">knew</w> thou <w type="verb"
+                            subtype="linking">wouldst</w>
+                        <w type="verb" subtype="action">call</w> it so, my <name
+                            who="ArchbishopDunstan">Lord Archbishop</name>,"</q>
+                    <w type="verb" subtype="action">said</w> the king, <w type="verb"
+                        subtype="action">turning</w> away.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"Nay, <name who="PrinceEdward">Edward</name>, nay, this <w type="verb"
+                            subtype="beVerb">is</w> mere childishness," <w type="verb"
+                            subtype="action">resumed</w> the archbishop, <w type="verb"
+                            subtype="action">taking</w> the <w type="descLang" subtype="adjective"
+                            >feverish</w> hand of his royal charge, "if <w type="verb"
+                            subtype="action">hunting</w> the deer <w type="verb" subtype="beVerb"
+                            >be</w> thy desire, far <w type="verb" subtype="beVerb">be</w> it from
+                        me to <w type="verb" subtype="action">withstand</w> thee in such a trifle,
+                            <w type="descLang" subtype="adverb">especially</w> as thou <w
+                            type="verb" subtype="linking">thinkest</w> the <w type="descLang"
+                            subtype="adjective">fresh</w> air and <w type="descLang"
+                            subtype="adjective">jocund</w> exercise of <w type="verb"
+                            subtype="action">following</w> the hound horn <w type="verb"
+                            subtype="linking">will</w>
+                        <w type="verb" subtype="action">restore</w> thy health and spirits; but why
+                            <w type="verb" subtype="linking">shouldst</w> thou <w type="verb"
+                            subtype="action">speak</w> of the <w type="descLang" subtype="adjective"
+                            >distant</w> woods of Wareham for thy divertisement, when thou <w
+                            type="verb" subtype="linking">hast</w> thy <w type="descLang"
+                            subtype="adjective">royal</w> and <w type="descLang" subtype="adjective"
+                            >wide</w> extended forest and chase of Waltham so close to thy <w
+                            type="descLang" subtype="adjective">loving</w> city of London, that thou
+                            <w type="verb" subtype="linking">mayest</w>
+                        <w type="verb" subtype="action">enjoy</w>
+                        <w type="descLang" subtype="adjective">goodly</w> pastime there this very
+                        day, with thy <w type="descLang" subtype="adjective">noble</w> thanes, and
+                        earldormen and <w type="descLang" subtype="adjective">trusty</w> burgesses
+                        for thy company and guards?"</s>
+                </q>
+            </p>
+            <p>
+                <q>
+                    <s>"No," <w type="verb" subtype="action">replied</w> the king, "I <w type="verb"
+                            subtype="linking">love</w> not to <w type="verb" subtype="action"
+                            >seek</w> my game amidst such <w type="descLang" subtype="adjective"
+                            >gaping</w> crowds of <w type="descLang" subtype="adjective">idle</w>
+                        followers, and I <w type="verb" subtype="linking">will</w> not <w
+                            type="verb" subtype="action">hunt</w> at Waltham to-day."</s>
+                </q>
+            </p>
+            <p>
+                <q>
+                    <s>"Thou <w type="verb" subtype="linking">shalt</w>
+                        <w type="verb" subtype="action">find</w>
+                        <w type="descLang" subtype="adjective">goodly</w> sport in the <w
+                            type="descLang" subtype="adjective">fair</w> forests of Windsor, if thou
+                            <w type="verb" subtype="linking">wilt</w>
+                        <w type="verb" subtype="action">seek</w> it there," <w type="verb"
+                            subtype="action">said</w>
+                        <name who="ArchbishopDunstan">Dunstan</name>, "or in thy chase at Sheen, or
+                        at Greenwich and the Black-heath."</s>
+                </q>
+            </p>
+            <p>
+                <q>
+                    <s>"I <w type="verb" subtype="linking">do</w> not <w type="verb"
+                            subtype="linking">incline</w> to <w type="verb" subtype="action"
+                            >hunt</w> at Windsor," <w type="verb" subtype="action">replied</w> the
+                        King, "nor yet at Sheen, nor Greenwich, nor the Black-heath, nor any where
+                        but at Wareham, where my <w type="descLang" subtype="adjective">royal</w>
+                        father <w type="verb" subtype="beVerb">was</w>
+                        <w type="descLang" subtype="adjective">wont</w> to <w type="verb"
+                            subtype="action">rouse</w> the deer."</s>
+                </q>
+            </p>
+            <p>
+                <q>
+                    <s>"Wareham <w type="verb" subtype="beVerb">is</w> too near to Corfe Castle, the
+                        abode of the <w type="descLang" subtype="adjective">bold</w>
+                        <w type="descLang" subtype="adjective">bad</w> woman, thy <w type="descLang"
+                            subtype="adjective">guileful</w> stepdame <name
+                            who="QueenDowagerElfrida">Elfrida</name>,' <w type="verb"
+                            subtype="action">replied</w>
+                        <name who="ArchbishopDunstan">Dunstan</name>.</s>
+                    <s>"It <w type="verb" subtype="beVerb">is</w> a vicinity <w type="descLang"
+                            subtype="adjective">fraught</w> with peril to thee, and thou <w
+                            type="verb" subtype="linking">shalt</w> not <w type="verb"
+                            subtype="action">go</w> thither, <name who="PrinceEdward"
+                        >Edward</name>."</s>
+                </q>
+            </p>
+            <p>
+                <s><name who="PrinceEdward">Edward</name>
+                    <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">sad</w> and <w type="descLang"
+                        subtype="adjective">sullen</w> during the remainder of the day.</s>
+            </p>
+            <p>
+                <s>The next morning there <w type="verb" subtype="beVerb">was</w> an <w
+                        type="descLang" subtype="adjective">evident</w> access of the <w
+                        type="descLang" subtype="adjective">low</w> fever that <w type="verb"
+                        subtype="linking">hung</w> about the young king; he <w type="verb"
+                        subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">languid</w> and <w type="descLang"
+                        subtype="adjective">dispirited</w>, and <w type="verb" subtype="linking"
+                        >would</w> neither <w type="verb" subtype="action">attend</w> to his
+                    studies, nor <w type="verb" subtype="action">enter</w> into any of the <w
+                        type="descLang" subtype="adjective">little</w> plans <w type="verb"
+                        subtype="linking">laid</w> out for his amusement by his courtiers at <name
+                        who="ArchbishopDunstan">Dunstan</name>'s <w type="verb" subtype="action"
+                        >instigation</w>.</s>
+            </p>
+            <p>
+                <s>When <name who="ArchbishopDunstan">Dunstan</name>
+                    <w type="verb" subtype="action">perceived</w> this, and <w type="verb"
+                        subtype="action">observed</w> that his <w type="descLang"
+                        subtype="adjective">royal</w> pupil <w type="verb" subtype="action"
+                        >sickened</w> and <w type="verb" subtype="action">rejected</w> his food from
+                    day to day, he <w type="verb" subtype="action">said</w> to him again, <q>"<name
+                            who="PrinceEdward">Edward</name>, what <w type="verb" subtype="action"
+                            >wouldst</w> thou?"</q></s>
+            </p>
+            <p>
+                <q>
+                    <s>"I <w type="verb" subtype="action">told</w> thee before," <w type="verb"
+                            subtype="action">replied</w> the youth, "but it <w type="verb"
+                            subtype="beVerb">was</w> in vain, that I <w type="verb"
+                            subtype="linking">did</w> but <w type="verb" subtype="linking"
+                            >desire</w> to <w type="verb" subtype="action">breathe</w> the <w
+                            type="descLang" subtype="adjective">sweet</w> air of the Dorsetshire
+                        hills and downs, and to <w type="verb" subtype="action">hunt</w> the deer in
+                        my <w type="descLang" subtype="adjective">pleasant</w> woods of Wareham, and
+                        lo! thou <w type="verb" subtype="linking">didst</w>
+                        <w type="verb" subtype="action">refuse</w> me this <w type="descLang"
+                            subtype="adjective">little</w> thing."</s>
+                </q>
+            </p>
+            <p>
+                <q>
+                    <s>"Because I <w type="verb" subtype="action">saw</w> thou <w type="verb"
+                            subtype="linking">wert</w> like a <w type="descLang" subtype="adjective"
+                            >foolish</w> bird, <w type="descLang" subtype="adverb">wilfully</w>
+                        <w type="verb" subtype="linking">bent</w> on <w type="verb" subtype="action"
+                            >falling</w> into the snare of the <w type="descLang"
+                            subtype="adjective">cunning</w> fowler," <w type="verb" subtype="action"
+                            >returned</w>
+                        <name who="ArchbishopDunstan">Dunstan</name>, "and I <w type="verb"
+                            subtype="linking">know</w> thou <w type="verb" subtype="linking"
+                            >hast</w> now <w type="descLang" subtype="adverb">only</w>
+                        <w type="verb" subtype="action">revealed</w> a part of thy purpose, which <w
+                            type="verb" subtype="beVerb">is</w> to <w type="verb" subtype="action"
+                            >visit</w> Corfe Castle."</s>
+                </q>
+            </p>
+            <p>
+                <s>A <w type="descLang" subtype="adjective">deep</w> blush <w type="verb"
+                        subtype="linking">overspread</w> the <w type="descLang" subtype="adjective"
+                        >pale</w> cheek of the <w type="descLang" subtype="adjective">young</w>
+                    king, as he <w type="verb" subtype="action">protested</w> that he <w type="verb"
+                        subtype="action">had</w> no such intention.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"I <w type="verb" subtype="action">fear</w> thou <w type="verb"
+                            subtype="linking">dost</w>
+                        <w type="verb" subtype="action">dissemble</w> with thy <w type="descLang"
+                            subtype="adjective">true</w> friend, <name who="PrinceEdward">King
+                            Edward</name>," <w type="verb" subtype="action">said</w> the
+                        archbishop.</s>
+                    <s>"In troth, my son, it <w type="verb" subtype="beVerb">is</w>
+                        <w type="descLang" subtype="adverb">only</w>
+                        <w type="descLang" subtype="adjective">natural</w> that thou <w type="verb"
+                            subtype="linking">shouldst</w>
+                        <w type="verb" subtype="linking">desire</w> to <w type="verb"
+                            subtype="action">embrace</w> thy brother <name who="PrinceEthelred"
+                            >Ethelred</name>; but, <w type="verb" subtype="action">give</w> up this
+                            <w type="descLang" subtype="adjective">wild</w> whim of thine, and I <w
+                            type="verb" subtype="linking">will</w>
+                        <w type="verb" subtype="action">send</w> for the <w type="descLang"
+                            subtype="adjective">young</w> prince to London when a <w type="descLang"
+                            subtype="adjective">convenient</w> season <w type="verb"
+                            subtype="linking">shall</w>
+                        <w type="verb" subtype="action">befall</w>."</s>
+                </q>
+            </p>
+            <p>
+                <s>A feeling of <w type="descLang" subtype="adjective">false</w> shame <w
+                        type="verb" subtype="linking">withheld</w> the king from <w type="verb"
+                        subtype="action">acknowledging</w> that he <w type="verb" subtype="action"
+                        >had</w> not <w type="verb" subtype="action">dealt</w>
+                    <w type="descLang" subtype="adverb">candidly</w> in the matter, and he <w
+                        type="verb" subtype="action">redoubled</w> his protestations that his whole
+                    desire <w type="verb" subtype="beVerb">was</w> simply to <w type="verb"
+                        subtype="action">spend</w> a few days in <w type="verb" subtype="action"
+                        >hunting</w> the game in Wareham forest, which he <w type="verb"
+                        subtype="linking">prayed</w> the archbishop not to <w type="verb"
+                        subtype="action">deny</w> him.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"Thou <w type="verb" subtype="linking">shalt</w> go," <w type="verb"
+                            subtype="action">said</w>
+                        <name who="ArchbishopDunstan">Dunstan</name> after a long pause, "but on
+                        condition that thou <w type="verb" subtype="linking">dost</w> not <w
+                            type="verb" subtype="action">visit</w> Corfe Castle, nor <w type="verb"
+                            subtype="action">hold</w> any intercourse with the <name
+                            who="QueenDowagerElfrida">Queen Elfrida</name>, nor any of her
+                        people."</s>
+                </q>
+            </p>
+            <p>
+                <s><name who="PrinceEdward">Edward</name>
+                    <w type="verb" subtype="action">accepted</w> the terms, but in the <w
+                        type="descLang" subtype="adjective">secret</w> hope that accident <w
+                        type="verb" subtype="linking">would</w>
+                    <w type="verb" subtype="action">bring</w> him to a sight of his brother without
+                    a direct violation of his promise.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"The word of a king <w type="verb" subtype="linking">ought</w> to <w
+                            type="verb" subtype="beVerb">be</w> an obligation more <w
+                            type="descLang" subtype="adjective">sacred</w> than the oath of another
+                        man," <w type="verb" subtype="action">said</w>
+                        <name who="ArchbishopDunstan">Dunstan</name> when they <w type="verb"
+                            subtype="action">parted</w>; "as you <w type="verb" subtype="action"
+                            >observe</w> yours, so <w type="verb" subtype="beVerb">be</w> your
+                        speed, my son."</s>
+                </q>
+            </p>
+            <p>
+                <s><w type="descLang" subtype="adjective">Indisposition</w>, <w type="descLang"
+                        subtype="adjective">languor</w>, and <w type="descLang" subtype="adjective"
+                        >melancholy</w>, <w type="verb" subtype="beVerb">were</w> alike <w
+                        type="verb" subtype="action">forgotten</w> by <name who="PrinceEdward"
+                        >Edward</name>, when, with a <w type="descLang" subtype="adjective"
+                        >gallant</w> train of nobles and gentles, <w type="verb" subtype="linking"
+                        >attended</w> by <w type="descLang" subtype="adjective">jolly</w> hunters
+                    and falconers, with hawks and hounds, he <w type="verb" subtype="linking"
+                        >left</w> London to <w type="verb" subtype="action">follow</w> the <w
+                        type="descLang" subtype="adjective">sylvan</w> sports in the <w
+                        type="descLang" subtype="adjective">fair</w> wolds and vales of
+                    Dorsetshire.</s>
+            </p>
+            <p>
+                <s>They <w type="verb" subtype="linking">set</w> forth with <w type="descLang"
+                        subtype="adjective">merry</w>
+                    <w type="verb" subtype="action">blasts</w> of horns, <w type="verb"
+                        subtype="action">baying</w> of hounds, <w type="verb" subtype="action"
+                        >prancing</w> of steeds, <w type="verb" subtype="action">waving</w> of
+                    plumes and broidered scarfs and mantles, <w type="verb" subtype="action"
+                        >jingling</w> of falcon bells and <w type="descLang" subtype="adjective"
+                        >blithsome</w>
+                    <w type="verb" subtype="action">caroling</w> of <w type="descLang"
+                        subtype="adjective">jocund</w> voices, so that all who <w type="verb"
+                        subtype="action">met</w> them <w type="verb" subtype="linking">paused</w> to
+                        <w type="verb" subtype="action">admire</w> their <w type="descLang"
+                        subtype="adjective">goodly</w> array and <w type="descLang"
+                        subtype="adjective">sprightly</w> cheer; but <name who="ArchbishopDunstan"
+                        >Dunstan</name>
+                    <w type="verb" subtype="linking">beheld</w> the <w type="verb" subtype="action"
+                        >departure</w> of his <w type="descLang" subtype="adjective">royal</w>
+                    charge with a sort of <w type="descLang" subtype="adjective">prophetic</w> fear
+                    which he <w type="verb" subtype="linking">could</w> neither <w type="verb"
+                        subtype="action">repress</w> nor <w type="verb" subtype="action"
+                    >hide</w>.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"Thou <w type="verb" subtype="linking">goest</w>, <name who="PrinceEdward"
+                            >Edward</name>," <w type="verb" subtype="action">said</w> he, when he <w
+                            type="verb" subtype="linking">bestowed</w> his <w type="verb"
+                            subtype="action">parting</w> blessing upon him" thou <w type="verb"
+                            subtype="linking">goest</w> like a <w type="descLang"
+                            subtype="adjective">foolish</w> bird from beneath its mother's wing ere
+                        it be <w type="descLang" subtype="adverb">fully</w>
+                        <w type="descLang" subtype="adjective">fledged</w> for flight; God <w
+                            type="verb" subtype="action">grant</w> that thou <w type="verb"
+                            subtype="action">escape</w> the jaws of the serpent that are even now
+                        expanded to <w type="verb" subtype="action">devour</w> thee."</s>
+                </q>
+            </p>
+            <p>
+                <s><name who="PrinceEdward">Edward</name>
+                    <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">touched</w>, and indeed <w
+                        type="descLang" subtype="adjective">surprised</w>, at the <w type="descLang"
+                        subtype="adjective">pathetic</w> tenderness of his <w type="descLang"
+                        subtype="adjective">stern</w> preceptor's <w type="descLang"
+                        subtype="adjective">solemn</w> farewell; for <name who="ArchbishopDunstan"
+                        >Dunstan</name>
+                    <w type="verb" subtype="beVerb">was</w> an <w type="descLang"
+                        subtype="adjective">austere</w> man, who, <w type="descLang"
+                        subtype="adverb">generally</w>
+                    <w type="verb" subtype="linking">speaking</w>, <w type="verb" subtype="action"
+                        >appeared</w>
+                    <w type="descLang" subtype="adjective">dead</w> to all human affections, and <w
+                        type="descLang" subtype="adjective">insensible</w> to the <w type="descLang"
+                        subtype="adjective">softer</w> emotions of the human heart. Yet now he <w
+                        type="verb" subtype="action">folded</w> the young king in his arms, and <w
+                        type="verb" subtype="action">wept</w> over him like a mother over the child
+                    of her bosom, who <w type="verb" subtype="beVerb">is</w> about to be <w
+                        type="verb" subtype="action">torn</w> from her for ever.</s>
+            </p>
+            <p>
+                <s><name who="PrinceEdward">Edward</name>'s purpose <w type="verb" subtype="beVerb"
+                        >was</w>
+                    <w type="verb" subtype="action">shaken</w>, and for a moment he <w type="verb"
+                        subtype="linking">felt</w>
+                    <w type="verb" subtype="action">disposed</w> to <w type="verb" subtype="action"
+                        >forego</w> his <w type="descLang" subtype="adjective">long-wished</w> and
+                        <w type="descLang">eagerly</w>
+                    <w type="descLang" subtype="adjective">anticipated</w> journey, but the
+                    temptation <w type="verb" subtype="beVerb">was</w> too <w type="descLang"
+                        subtype="adjective">strong</w> to be thus <w type="descLang"
+                        subtype="adjective">easily</w>
+                    <w type="verb" subtype="action">resigned</w>.</s>
+                <s>It <w type="verb" subtype="beVerb">is</w> a <w type="descLang"
+                        subtype="adjective">difficult</w> matter for <w type="descLang"
+                        subtype="adjective">young</w> people, especially princes, to <w type="verb"
+                        subtype="linking">know</w> who <w type="verb" subtype="beVerb">are</w> their
+                    real friends.</s>
+                <s>The <w type="descLang" subtype="adjective">young</w> king, who <w type="verb"
+                        subtype="action">had</w> always <w type="verb" subtype="beVerb">been</w>
+                    accustomed in his childhood to <w type="verb" subtype="action">receive</w>
+                    <w type="descLang" subtype="adjective">deceitful</w> flattery and caresses from
+                        <name who="QueenDowagerElfrida">Elfrida</name>, could not <w type="verb"
+                        subtype="action">prevail</w> upon himself, notwithstanding her <w
+                        type="descLang" subtype="adjective">treasonable</w> attempts to <w
+                        type="verb" subtype="action">supplant</w> him in the succession, to <w
+                        type="verb" subtype="action">regard</w> her as a personal enemy.</s>
+                <s>He <w type="verb" subtype="linking">knew</w> her to <w type="verb"
+                        subtype="beVerb">be</w>
+                    <w type="descLang" subtype="adjective">ambitious</w>, but he <w type="verb"
+                        subtype="linking">could</w> not <w type="verb" subtype="action">believe</w>
+                    that she <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">wicked</w>; on the contrary, he <w
+                        type="verb" subtype="linking">excused</w> her <w type="verb"
+                        subtype="action">conspiring</w> to <w type="verb" subtype="action"
+                        >exclude</w> him from the throne on the plea of her natural preference for
+                    her own son, and he <w type="descLang" subtype="adverb">secretly</w>
+                    <w type="verb" subtype="action">considered</w>
+                    <name who="ArchbishopDunstan">Dunstan</name>'s opinions <w type="verb"
+                        subtype="linking">respecting</w> her as <w type="descLang"
+                        subtype="adjective">harsh</w> and <w type="descLang" subtype="adjective"
+                        >injurious</w>, although he <w type="verb" subtype="action">had</w> never <w
+                        type="verb" subtype="linking">ventured</w> in <w type="descLang"
+                        subtype="adjective">direct</w> terms to <w type="verb" subtype="action"
+                        >tell</w> him so.</s>
+                <s>The archbishop, though <w type="descLang" subtype="adverb">tenderly</w>
+                    <w type="verb" subtype="linking">attached</w> to his pupil, and <w type="verb"
+                        subtype="action">labouring</w>
+                    <w type="descLang" subtype="adverb">incessantly</w> to <w type="verb"
+                        subtype="linking">promote</w> his interest, <w type="verb" subtype="beVerb"
+                        >was</w> of too <w type="descLang" subtype="adjective">stern</w> and <w
+                        type="descLang" subtype="adjective">unbending</w> a character to <w
+                        type="verb" subtype="action">study</w> to <w type="verb" subtype="action"
+                        >please</w> him.</s>
+                <s>He <w type="verb" subtype="action">had</w> a <w type="descLang"
+                        subtype="adjective">plain</w> and <w type="descLang" subtype="adjective"
+                        >uncompromising</w> manner of <w type="verb" subtype="action">reproving</w>
+                    his faults and <w type="verb" subtype="action">telling</w> him <w
+                        type="descLang" subtype="adjective">unwelcome</w> truths, which <w
+                        type="verb" subtype="action">had</w> the effect of <w type="verb"
+                        subtype="action">wounding</w> his self-love and <w type="verb"
+                        subtype="action">offending</w> his pride.</s>
+            </p>
+            <p>
+                <s>It <w type="verb" subtype="beVerb">is</w> a <w type="descLang"
+                        subtype="adjective">correct</w> observation, that people will sooner <w
+                        type="verb" subtype="linking">forgive</w> a <w type="descLang"
+                        subtype="adjective">serious</w> injury than <w type="verb" subtype="linking"
+                        >overlook</w> an affront, and <name>Edward</name>, although his step-mother
+                        <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="linking">endeavoured</w> to <w type="verb"
+                        subtype="action">deprive</w> him of a throne, <w type="verb"
+                        subtype="beVerb">was</w>
+                    <w type="verb" subtype="linking">inclined</w> to <w type="verb" subtype="action"
+                        >regard</w> her more in the light of a friend than the man who <w
+                        type="verb" subtype="action">had</w>
+                    <w type="descLang" subtype="adverb">successfully</w>
+                    <w type="verb" subtype="action">vindicated</w> his rights, and <w type="verb"
+                        subtype="action">watched</w> day and night for his weal.</s>
+                <s>But then, <name who="QueenDowagerElfrida">Elfrida</name>
+                    <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="action">flattered</w> his foibles, and during his
+                    father's life <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="action">procured</w> him a thousand <w type="descLang"
+                        subtype="adjective">improper</w> indulgences; while <name
+                        who="ArchbishopDunstan">Dunstan</name>
+                    <w type="verb" subtype="action">controled</w> his inclinations wherever he <w
+                        type="verb" subtype="action">considered</w> it for his interest so to do,
+                    and <w type="verb" subtype="action">subjected</w> him to the restraints of a <w
+                        type="descLang" subtype="adjective">useful</w> and <w type="descLang"
+                        subtype="adjective">virtuous</w> education.</s>
+            </p>
+            <p>
+                <s>It <w type="verb" subtype="beVerb">was</w> with feelings of the deepest regret
+                    that this <w type="descLang" subtype="adjective">faithful</w> guardian <w
+                        type="verb" subtype="linking">consented</w> to the <w type="verb"
+                        subtype="action">departure</w> of his <w type="descLang" subtype="adjective"
+                        >royal</w> pupil, <w type="descLang" subtype="adverb">especially</w> as he
+                        <w type="verb" subtype="linking">considered</w> it <w type="descLang"
+                        subtype="adjective">incompatible</w> with his <w type="descLang"
+                        subtype="adjective">sacred</w> calling, <w type="descLang"
+                        subtype="adjective">venerable</w> age, and <w type="descLang"
+                        subtype="adjective">high</w> vocation, to <w type="verb" subtype="action"
+                        >accompany</w> the court on a <w type="verb" subtype="action">hunting</w>
+                    party.</s>
+                <s>To the best of his power he <w type="verb" subtype="linking">provided</w> against
+                    any <w type="descLang" subtype="adjective">imprudence</w> on the part of the <w
+                        type="descLang" subtype="adjective">young</w> king, by <w type="verb"
+                        subtype="action">surrounding</w> his person with a sufficient number of <w
+                        type="descLang" subtype="adjective">grave</w> and <w type="descLang"
+                        subtype="adjective">incorruptible</w> counsellors, whose <w type="verb"
+                        subtype="adjective">wisdom</w> and <w type="descLang" subtype="adjective"
+                        >authority</w> he <w type="verb" subtype="linking">hoped</w> would <w
+                        type="verb" subtype="action">restrain</w> the vivacity and <w
+                        type="descLang" subtype="adjective">rash</w> daring of that <w
+                        type="descLang" subtype="adjective">gay</w> company.</s>
+            </p>
+            <p>
+                <s>The impression of his guardian's <w type="descLang" subtype="adjective"
+                        >solemn</w> warning and <w type="descLang" subtype="adjective">unwonted</w>
+                    tears at <w type="verb" subtype="action">parting</w>, <w type="verb"
+                        subtype="linking">remained</w> for some days on the mind of the <w
+                        type="descLang" subtype="adjective">young</w> king, and <w type="verb"
+                        subtype="linking">strengthened</w> his resolution of <w type="verb"
+                        subtype="action">doing</w> nothing in direct violation of his promise,
+                    though he <w type="verb" subtype="linking">continued</w> to <w type="verb"
+                        subtype="action">indulge</w> a <w type="descLang" subtype="adjective"
+                        >secret</w> hope that some <w type="descLang" subtype="adjective">lucky</w>
+                    chance might <w type="verb" subtype="linking">afford</w> him the pleasure of an
+                    interview with <name who="PrinceEthelred">Prince Ethelred</name> and the Queen,
+                    for he <w type="descLang" subtype="adverb">certainly</w>
+                    <w type="verb" subtype="linking">cherished</w> a desire of <w type="verb"
+                        subtype="action">seeing</w> the <w type="descLang" subtype="adjective"
+                        >guileful</w>
+                    <name who="QueenDowagerElfrida">Elfrida</name> as well as her son.</s>
+                <s>Wareham Chase <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adverb">only</w> six miles distant from Corfe
+                    Castle, and, contrary to the advice of the <w type="descLang"
+                        subtype="adjective">sage</w> monitors to whom the archbishop <w type="verb"
+                        subtype="action">had</w>
+                    <w type="verb" subtype="linking">delegated</w> his trust, he <w type="verb"
+                        subtype="linking">continued</w> to <w type="verb" subtype="action"
+                        >follow</w> the game in that vicinity.</s>
+            </p>
+            <p>
+                <s>One day, when he <w type="verb" subtype="action">had</w>, as much by design as
+                    accident, <w type="verb" subtype="linking">outridden</w> his train in pursuit of
+                    a white doe of <w type="descLang" subtype="adjective">peculiar</w> beauty and
+                    fleetness, he <w type="verb" subtype="linking">perceived</w> through a forest
+                    vista the towers of Corfe Castle <w type="verb" subtype="action">rising</w> in
+                    the distance, over wood and vale, like the <w type="descLang"
+                        subtype="adjective">gray</w> crown of the <w type="descLang"
+                        subtype="adjective">richly-varied</w> landscape.</s>
+            </p>
+            <p>
+                <s>At that sight a thousand <w type="descLang" subtype="adjective">sweet</w> and <w
+                        type="descLang" subtype="adjective">pleasant</w> remembrances of his early
+                    days, <w type="verb" subtype="linking">connected</w> with that <w
+                        type="descLang" subtype="adjective">beloved</w> spot, <w type="verb"
+                        subtype="action">rushed</w> to the mind of the <w type="descLang"
+                        subtype="adjective">young</w> king, and <w type="verb" subtype="action"
+                        >filled</w> his eyes with tears. The <w type="descLang" subtype="adjective"
+                        >boisterous</w> excitement of the chase <w type="verb" subtype="beVerb"
+                        >was</w>
+                    <w type="verb" subtype="action">forgotten</w>, and <w type="verb"
+                        subtype="action">dropping</w> his <w type="descLang" subtype="adjective"
+                        >silken</w> bridle on the neck of his <w type="descLang" subtype="adjective"
+                        >gallant</w> gray, he <w type="verb" subtype="linking">gave</w> himself up
+                    to <w type="descLang" subtype="adjective">pensive</w> and <w type="descLang"
+                        subtype="adjective">regretful</w> feelings on the subject of its <w
+                        type="verb" subtype="beVerb">being</w>
+                    <w type="verb" subtype="linking">denied</w> him to <w type="verb"
+                        subtype="action">revisit</w> the home of his childhood.</s>
+            </p>
+            <p>
+                <q>
+                    <s>"And thou, my <w type="descLang" subtype="adjective">fair-haired</w>
+                        brother," <w type="verb" subtype="action">said</w> he, "who <w type="verb"
+                            subtype="beVerb">art</w> now, perchance, <w type="verb" subtype="action"
+                            >tossing</w> the ball in the castle court, or <w type="verb"
+                            subtype="action">chasing</w> the butterfly from flower to flower over
+                        the garden lawns and gay parterres, in the <w type="descLang"
+                            subtype="adjective">thoughtless</w> glee of <w type="descLang"
+                            subtype="adjective">thine</w> happy age, thou <w type="verb"
+                            subtype="linking">thinkest</w> not, I <w type="verb" subtype="action"
+                            >ween</w>, that the <w type="descLang" subtype="adjective">fond</w>
+                        brother in whose bosom thou <w type="verb" subtype="beVerb">wert</w>
+                        <w type="verb" subtype="linking">wont</w> so oft to <w type="verb"
+                            subtype="action">nestle</w> when <w type="descLang" subtype="adjective"
+                            >tired</w> with <w type="descLang" subtype="adjective">playful</w>
+                        gambols, <w type="verb" subtype="beVerb">is</w> so near, if indeed thou <w
+                            type="verb" subtype="linking">dost</w> still <w type="verb"
+                            subtype="action">remember</w> him."</s>
+                </q>
+            </p>
+            <p>
+                <s>While the <w type="adjective" subtype="adjective">young</w> king <w type="verb"
+                        subtype="beVerb">was</w> still <w type="verb" subtype="action">indulging</w>
+                    in these thoughts, a <w type="descLang" subtype="adjective">strange</w> sharp
+                    cry near him <w type="verb" subtype="linking">caused</w> him to <w type="verb"
+                        subtype="action">look</w> round, when, to his surprise, a <w type="descLang"
+                        subtype="adjective">grotesque</w>
+                    <w type="descLang" subtype="adjective">little</w> creature, that <w type="verb"
+                        subtype="linking">appeared</w> neither like a child nor an animal, but
+                    something between both, <w type="verb" subtype="action">sprang</w> out of a
+                    thicket near him, and <w type="verb" subtype="action">coiling</w> itself up in
+                    the form of a ball, <w type="verb" subtype="linking">rolled</w> down the hill
+                    before him.</s>
+                <s><name who="PrinceEdward">Edward</name>'s curiosity <w type="verb"
+                        subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">excited</w>, and he <w type="verb"
+                        subtype="linking">spurred</w> his horse forward to <w type="verb"
+                        subtype="action">overtake</w> it, but when the creature <w type="verb"
+                        subtype="linking">perceived</w> his intention, he <w type="verb"
+                        subtype="linking">bounded</w> up, and <w type="verb" subtype="action"
+                        >erecting</w> himself to his full height, which did not appear to be above
+                    two feet, he <w type="verb" subtype="linking">whirled</w> his long lean arms
+                    aloft, and <w type="verb" subtype="action">clapping</w> his hands above his
+                    head, <w type="verb" subtype="linking">uttered</w> a cry so long and shrill that
+                    it <w type="verb" subtype="linking">pierced</w> the king's ears with a <w
+                        type="descLang" subtype="adjective">painful</w> sensation, and <w
+                        type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="linking">answered</w> back by a thousand echoes from
+                    grot and hill, in the deep solitude of Wareham forest.</s>
+                <s>The tales of malign faries and woodland imps <w type="verb" subtype="beVerb"
+                        >was</w> then in common belief, and the <w type="descLang"
+                        subtype="adjective">young</w> king <w type="verb" subtype="action"
+                        >thought</w> it possible that this <w type="descLang" subtype="adjective"
+                        >singular</w> creature, whom he <w type="verb" subtype="action">had</w> thus
+                        <w type="descLang" subtype="adverb">unexpectedly</w>
+                    <w type="verb" subtype="linking">encountered</w>, might <w type="verb"
+                        subtype="beVerb">be</w> one of these <w type="descLang" subtype="adjective"
+                        >mysterious</w> beings of whom he <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="action">heard</w> so much.</s>
+                <s>But then he <w type="verb" subtype="action">had</w> also a <w type="descLang"
+                        subtype="adverb">shadowy</w>
+                    <w type="verb" subtype="linking">remembrance</w> of <w type="verb"
+                        subtype="action">having</w>
+                    <w type="verb" subtype="action">seen</w> in his early childhood a <w
+                        type="descLang" subtype="adjective">sprightly</w> animal that <w type="verb"
+                        subtype="linking">bore</w> a <w type="descLang" subtype="adjective"
+                        >grotesque</w> resemblance, both in form and face, to a diminutive man,
+                    which <w type="verb" subtype="linking">played</w> a thousand antic tricks, and
+                        <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adverb">greatly</w>
+                    <w type="verb" subtype="linking">caressed</w> by the queen and her ladies; but
+                    it <w type="verb" subtype="action">had</w> either <w type="verb"
+                        subtype="beVerb">been</w> stolen or <w type="verb" subtype="linking"
+                        >made</w> its escape from the palace of Corfe in the neighbouring woods; and
+                    though a period of nine or ten years <w type="verb" subtype="action">had</w>
+                    elapsed since this event, <name who="PrinceEdward">King Edward</name>
+                    <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">simple</w> enough to <w type="verb"
+                        subtype="action">believe</w> that this <w type="verb" subtype="beVerb"
+                        >was</w> the <w type="descLang" subtype="adjective">veritable</w> creature
+                    whose loss <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w> so <w type="descLang" subtype="adverb"
+                        >deeply</w>
+                    <w type="verb" subtype="linking">lamented</w> by all the pages and females of
+                    the royal household, and he <w type="verb" subtype="linking">determined</w> to
+                        <w type="verb" subtype="action">overtake</w> it, if possible, whether it <w
+                        type="verb" subtype="beVerb">were</w> monkey, fairy, or imp.</s>
+            </p>
+            <p>
+                <s>But the object of his pursuit, however <w type="descLang" subtype="adjective"
+                        >diminutive</w> in person, <w type="verb" subtype="beVerb">was</w> more than
+                    a match in swiftness of foot for the fleet hunter on which the king<q>
+                        <w type="verb" subtype="beVerb">was</w>
+                        <w type="verb" subtype="linking">mounted</w>, and, like the goblin page in
+                        Sir Walter Scott's Lay of the Last Minstrel, where <name who="PrinceEdward"
+                            >Edward</name> "<w type="verb" subtype="linking">rode</w> one mile he <w
+                            type="verb" subtype="linking">ran</w> four,"</q> yet with provoking
+                    subtlety he <w type="verb" subtype="linking">continued</w> always to <w
+                        type="verb" subtype="action">keep</w> in sight, as if he <w type="verb"
+                        subtype="linking">enjoyed</w> the race and <w type="verb" subtype="linking"
+                        >wished</w> to <w type="verb" subtype="action">continue</w> it.</s>
+                <s>Sometimes, when he <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="linking">climbed</w> a hill, whose steep rugged ascent
+                        <w type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="linking">scaled</w> with difficulty by the royal steed,
+                    he <w type="verb" subtype="linking">paused</w> on the brow, <w type="verb"
+                        subtype="action">laughing</w> with <w type="descLang" subtype="adjective"
+                        >malicious</w> glee, and <w type="verb" subtype="action">swinging</w>
+                    himself from bough to bough among the embowering trees, till the king <w
+                        type="verb" subtype="beVerb">was</w> nearly upon him, then <w type="verb"
+                        subtype="action">darting</w> forward with the speed of an arrow, he <w
+                        type="verb" subtype="linking">resumed</w> his flight, and in a few minutes
+                        <w type="verb" subtype="linking">distanced</w> his pursuer.</s>
+                <s>Sometimes, when <name who="PrinceEdward">Edward</name>
+                    <w type="verb" subtype="linking">thought</w> he <w type="verb" subtype="action"
+                        >had</w> entirely <w type="verb" subtype="action">lost</w> all trace of the
+                        <w type="descLang" subtype="adjective">tantalizing</w> elf, and <w
+                        type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">meditating</w> how he <w type="verb"
+                        subtype="linking">should</w>
+                    <w type="verb" subtype="action">recover</w> the track from which he <w
+                        type="verb" subtype="action">had</w> so <w type="descLang" subtype="adverb"
+                        >widely</w>
+                    <w type="verb" subtype="action">deviated</w>, he <w type="verb" subtype="action"
+                        >heard</w> the same sharp shrill cry that <w type="verb" subtype="action"
+                        >had</w> first <w type="verb" subtype="linking">announced</w> his appearance
+                    close to his ear, and <w type="verb" subtype="linking">perceived</w> a round
+                    rough head, <w type="verb" subtype="linking">covered</w> with shaggy brown locks
+                    of tangled hair, through which <w type="verb" subtype="linking">peered</w> a
+                    pair of small keen black eyes, <w type="verb" subtype="action">peeping</w>
+                    amidst the foliage or <w type="verb" subtype="action">clustering</w> ivy of some
+                    gnarled oak that <w type="verb" subtype="linking">wreathed</w> its low fantastic
+                    arms across the path, from which, as soon as he <w type="verb" subtype="linking"
+                        >perceived</w> he <w type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">observed</w>, he <w type="verb" subtype="action"
+                        >leaped</w> with a sudden bound, and <w type="verb" subtype="action"
+                        >clapping</w> his hands and <w type="verb" subtype="action">shouting</w> at
+                    the top of his voice, <w type="verb" subtype="linking">started</w> away again
+                    down some opening glade of the forest, <w type="verb" subtype="action"
+                        >leaving</w> horse and rider far behind.</s>
+                <s>Both <w type="verb" subtype="beVerb">were</w> now thoroughly hot and weary ; the
+                        <w type="descLang" subtype="adjective">young</w> king, who <w type="verb"
+                        subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w> on horseback ever since daybreak, and
+                        <w type="verb" subtype="action">fasting</w> withal, <w type="verb"
+                        subtype="linking">thought</w> of <w type="verb" subtype="action">giving</w>
+                    up this unprofitable chase as a matter of necessity, on account of the jaded
+                    condition of his good steed, and his own fatigue and faintness.</s>
+                <s>But the object of his pursuit <w type="verb" subtype="linking">appeared</w> in
+                    still worse plight, <w type="verb" subtype="linking">limped</w> as if lame, and
+                    sometimes <w type="verb" subtype="linking">rested</w> on the green turf as if <w
+                        type="descLang" subtype="adverb">thoroughly</w>
+                    <w type="descLang" subtype="adjective">exhausted</w>
+                    <w type="verb" subtype="action">weeping</w> and <w type="verb" subtype="action"
+                        >uttering</w> low moaning plaints, and <name who="PrinceEdward">King
+                        Edward</name>
+                    <w type="verb" subtype="linking">thought</w> he <w type="verb" subtype="beVerb"
+                        >was</w> now secure of his prize, especially as they <w type="verb"
+                        subtype="action">had</w>
+                    <w type="verb" subtype="linking">reached</w> the farthest boundary of the
+                    forest, and <w type="verb" subtype="beVerb">were</w> on the verge of an open
+                    park, towards which the urchin <w type="verb" subtype="linking">began</w> to <w
+                        type="verb" subtype="action">creep</w> on all fours, <w type="descLang"
+                        subtype="adverb">occasionally</w>
+                    <w type="verb" subtype="action">rolling</w> himself over and over at a great
+                    rate.</s>
+            </p>
+            <p>
+                <s><q>"This," <w type="verb" subtype="action">thought</w> the <w type="descLang"
+                            subtype="adjective">young</w> king, "is his last effort, and I <w
+                            type="descLang" subtype="adverb">presently</w>
+                        <w type="verb" subtype="linking">shall</w>
+                        <w type="verb" subtype="action">overtake</w> him on the plain when once he
+                            <w type="verb" subtype="linking">loses</w> the vantage of the underwood
+                        and thickets;"</q> and lest he <w type="verb" subtype="linking">should</w>
+                    <w type="verb" subtype="linking">alarm</w> him into <w type="verb"
+                        subtype="action">plunging</w> amidst its tangled mazes once more, he <w
+                        type="verb" subtype="linking">followed</w> him at a cautious distance till
+                    he <w type="verb" subtype="linking">emerged</w> from the forest shades, and <w
+                        type="verb" subtype="action">proceeded</w> at a gentle pace across the park,
+                    the enclosure of which they <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="action">entered</w>.</s>
+            </p>
+            <p>
+                <s><name who="PrinceEdward">Edward</name>
+                    <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">led</w> on from glade to glade through the green
+                    mead, in his <w type="descLang" subtype="adverb">eager</w>
+                    <w type="verb" subtype="action">pursuit</w> of the <w type="descLang"
+                        subtype="adjective">wily</w> urchin, without <w type="verb" subtype="action"
+                        >pausing</w> to <w type="verb" subtype="action">examine</w> the scenery
+                    through which he rode, or he might <w type="descLang" subtype="adverb"
+                        >possibly</w>
+                    <w type="verb" subtype="linking">have</w>
+                    <w type="verb" subtype="action">recognized</w> many objects familiar to him in
+                    days long past; nor <w type="verb" subtype="beVerb">was</w> it till he <w
+                        type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="action">leaped</w> the enclosure of the park, and <w
+                        type="verb" subtype="action">looked</w> around, that he <w type="verb"
+                        subtype="linking">discovered</w> he <w type="verb" subtype="beVerb">was</w>
+                    in the immediate vicinity, almost at the gates of Corfe Castle, which <w
+                        type="verb" subtype="linking">rose</w> before him in all its well remembered
+                        <w type="descLang" subtype="adjective">regal</w> grandeur, as in the days
+                    when his father, <name who="KingEdgar">King Edgar</name>, <w type="verb"
+                        subtype="linking">kept</w> court there.</s>
+                <s>The intermediate time, the important events that <w type="verb" subtype="action"
+                        >had</w> since <w type="verb" subtype="action">befallen</w> the <w
+                        type="descLang" subtype="adjective">youthful</w> monarch, the <w
+                        type="descLang" subtype="adjective">solemn</w> warning of his guardian
+                    against his <w type="verb" subtype="action">venturing</w> near this much <w
+                        type="descLang" subtype="adjective">loved</w> abode of his childhood, and
+                    his own promise not to do so, <w type="verb" subtype="beVerb">were</w> alike <w
+                        type="verb" subtype="linking">forgotten</w> by <name who="PrinceEdward">King
+                        Edward</name> when he <w type="verb" subtype="action">found</w> himself so
+                        <w type="descLang" subtype="adverb">unexpectedly</w> on the spot to which he
+                        <w type="verb" subtype="action">had</w>, in fact, <w type="verb"
+                        subtype="beVerb">been</w> artfully <w type="verb" subtype="linking"
+                        >lured</w> by <name who="Wulstan">Wulstan</name>, the queen's dwarf, the <w
+                        type="descLang" subtype="adjective">misshapen</w> little elf, who <w
+                        type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="linking">led</w> him such a weary chase through the
+                    forest, and now, <w type="verb" subtype="action">uttering</w> an impish yell, <w
+                        type="verb" subtype="linking">fled</w> down the broad avenue of oaks that <w
+                        type="verb" subtype="linking">led</w> to the castle with the speed of a
+                    lapwing, and <w type="verb" subtype="action">seizing</w> the bugle that <w
+                        type="verb" subtype="linking">hung</w> at the portal, <w type="verb"
+                        subtype="action">blew</w> a blast that <w type="verb" subtype="linking"
+                        >drew</w> all the inhabitants to the windows and balconies, to <w
+                        type="verb" subtype="action">learn</w> the meaning of the summons.</s>
+            </p>
+            <p>
+                <s>The king, <w type="verb" subtype="action">perceiving</w> that it <w type="verb"
+                        subtype="linking">would</w> now be impossible for him to <w type="verb"
+                        subtype="action">withdraw</w> unobserved, <w type="verb" subtype="linking"
+                        >considered</w> that it <w type="verb" subtype="linking">would</w>
+                    <w type="verb" subtype="linking">have</w> a very mean appearance, if, after <w
+                        type="verb" subtype="action">having</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">seen</w> on the demesne of <name
+                        who="QueenDowagerElfrida">Queen Elfrida</name>, he <w type="verb"
+                        subtype="linking">retreated</w> without <w type="verb" subtype="action"
+                        >paying</w> his respects to her; and by no means <w type="verb"
+                        subtype="action">regretting</w> that the rules of courtesy <w type="verb"
+                        subtype="linking">would</w>
+                    <w type="verb" subtype="action">afford</w> an excuse to himself for <w
+                        type="verb" subtype="action">departing</w> from a promise which <w
+                        type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w> so <w type="descLang" subtype="adverb"
+                        >reluctantly</w>
+                    <w type="verb" subtype="action">wrung</w> from him, he <w type="verb"
+                        subtype="action">advanced</w> towards the castle.</s>
+            </p>
+            <p>
+                <s>The queen, who <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adverb">perfectly</w>
+                    <w type="verb" subtype="linking">aware</w> of his approach, <w type="verb"
+                        subtype="liking">hastened</w> to the gates to <w type="verb"
+                        subtype="action">receive</w> him, and <w type="verb" subtype="action"
+                        >offering</w> him the homage of her knee, <w type="verb" subtype="linking"
+                        >entreated</w> him <q>"to <w type="verb" subtype="action">enter</w> and <w
+                            type="verb" subtype="action">partake</w> of the banquet which she <w
+                            type="verb" subtype="action">had</w>
+                        <w type="verb" subtype="linking">prepared</w> in anticipation of this visit,
+                        on <w type="verb" subtype="action">hearing</w> that he <w type="verb"
+                            subtype="beVerb">was</w>
+                        <w type="verb" subtype="action">hunting</w> the deer in the neighbouring
+                        forest of Wareham."</q></s>
+            </p>
+            <p>
+                <s>Notwithstanding the <w type="descLang" subtype="adjective">fascinating</w>
+                    <w type="descLang" subtype="adjective">sweetness</w> of the queen's address, and
+                    the <w type="descLang" subtype="adjective">persuasive</w>
+                    <w type="descLang" subtype="adjective">softness</w> of her voice and language,
+                    there <w type="verb" subtype="beVerb">was</w> an expression <w type="verb"
+                        subtype="action">lurking</w> in the sidelong glance of her large blue eye,
+                    and sometimes in the <w type="descLang" subtype="adjective">deceitful</w>
+                    <w type="descLang" subtype="adjective">blandishment</w> of her voice and manner,
+                    that, in spite of his partial opinion of her character, <w type="verb"
+                        subtype="linking">recalled</w> the archbishop's <w type="descLang"
+                        subtype="adjective">impressive</w> warning, and <w type="verb"
+                        subtype="linking">gave</w> the king an idea that she <w type="verb"
+                        subtype="linking">meditated</w> some <w type="descLang" subtype="adjective"
+                        >sinister</w> design.</s>
+            </p>
+            <p>
+                <s>This <w type="descLang" subtype="adjective">secret</w> misgiving <w type="verb"
+                        subtype="linking">induced</w> him to <w type="verb" subtype="linking"
+                        >decline</w>
+                    <w type="verb" subtype="action">entering</w> the castle, <q>"on account," he <w
+                            type="verb" subtype="action">said</w>, "of the lateness of the hour, and
+                        the expediency of his <w type="verb" subtype="action">returning</w>
+                        <w type="descLang" subtype="adverb">immediately</w> to Wareham, lest his
+                        court <w type="verb" subtype="linking">should</w>
+                        <w type="verb" subtype="action">take</w> the alarm at his protracted
+                        absence."</q></s>
+            </p>
+            <p>
+                <s>
+                    <q>"Thou <w type="verb" subtype="beVerb">art</w>
+                        <w type="descLang" subtype="adjective">hot</w> and <w type="descLang"
+                            subtype="adjective">weary</w>, my <w type="descLang" subtype="adjective"
+                            >royal</w> lord," <w type="verb" subtype="action">replied</w> the queen,
+                            <w type="descLang" subtype="adverb">respectfully</w>
+                        <w type="verb" subtype="action">kissing</w> the hand of the <w
+                            type="descLang" subtype="adjective">youthful</w> monarch, "and thou <w
+                            type="verb" subtype="linking">wilt</w> not <w type="descLang"
+                            subtype="adverb">surely</w>
+                        <w type="verb" subtype="linking">depart</w> till thou <w type="verb"
+                            subtype="linking">hast</w>, at least, <w type="verb" subtype="linking"
+                            >tasted</w> a cup of spiced hippocras, if thou will not <w type="verb"
+                            subtype="linking">feast</w> with me to-day."</q>
+                </s>
+            </p>
+            <p>
+                <s><name who="PrinceEdward">Edward</name>
+                    <w type="verb" subtype="beVerb">was</w> not <w type="verb" subtype="action"
+                        >willing</w> to <w type="verb" subtype="linking">offend</w> the queen by <w
+                        type="verb" subtype="action">declining</w> this offer, <w type="descLang"
+                        subtype="adverb">especially</w> as he <w type="verb" subtype="beVerb"
+                        >was</w>
+                    <w type="verb" subtype="linking">fatigued</w>, and <w type="verb"
+                        subtype="linking">stood</w> in need of refreshment, and <w type="verb"
+                        subtype="beVerb">was</w>, moreover, too much <w type="verb"
+                        subtype="linking">inclined</w> to <w type="verb" subtype="action">linger</w>
+                    near the <w type="descLang" subtype="adjective">much-loved</w> abode of his
+                    childhood ; and while <name who="QueenDowagerElfrida">Elfrida</name>
+                    <w type="verb" subtype="linking">took</w> the silver goblet from her bower
+                    maiden, who <w type="verb" subtype="linking">stood</w>
+                    <w type="verb" subtype="action">holding</w> it on a richly chased salver, he <w
+                        type="descLang" subtype="adverb">eagerly</w>
+                    <w type="verb" subtype="linking">inquired</w> for his <w type="descLang"
+                        subtype="adjective">young</w> brother.</s>
+            </p>
+            <p>
+                <s>
+                    <q>"Thy servant, <name who="PrinceEthelred">Ethelred</name>, <w type="verb"
+                            subtype="beVerb">is</w>
+                        <w type="verb" subtype="linking">sick</w> within the castle, or he <w
+                            type="verb" subtype="action">had</w>
+                        <w type="verb" subtype="linking">come</w> with me to the gate to <w
+                            type="verb" subtype="linking">offer</w> homage to his lord," <w
+                            type="verb" subtype="action">replied</w> the queen. "He <w type="verb"
+                            subtype="linking">hath</w>
+                        <w type="descLang" subtype="adverb">long</w>
+                        <w type="verb" subtype="linking">pined</w> for thy presence, like a plant
+                        that <w type="verb" subtype="linking">hath</w>
+                        <w type="verb" subtype="beVerb">been</w>
+                        <w type="verb" subtype="linking">deprived</w> of sunshine."</q>
+                </s>
+            </p>
+            <p>
+                <s>
+                    <q>"<w type="verb" subtype="action">Send</w>
+                        <w type="descLang" subtype="adverb">quickly</w>, my lady mother, and <w
+                            type="verb" subtype="action">fetch</w> him hither," <w type="verb"
+                            subtype="linking">exclaimed</w> the king: "I also <w type="verb"
+                            subtype="linking">have</w>
+                        <w type="verb" subtype="linking">panted</w> to <w type="verb"
+                            subtype="action">embrace</w> him."</q>
+                </s>
+            </p>
+            <p>
+                <s><q>"<w type="verb" subtype="action">Drink</w> hael<gloss>The Saxon phrase for
+                            drinking health, from which expression that once general custom <w
+                                type="verb" subtype="beVerb">was</w> derived, which means, <q>"Wish
+                                health," or "I wish your health."</q></gloss> first, my <w
+                            type="descLang" subtype="adjective">gracious</w> lord,"</q>
+                    <w type="verb" subtype="linking">replied</w>
+                    <name who="QueenDowagerElfrida">Elfrida</name>, <w type="verb" subtype="action"
+                        >presenting</w> the cup to the king.</s>
+            </p>
+            <p>
+                <s>He <w type="verb" subtype="linking">received</w> it with a smile, and <w
+                        type="verb" subtype="action">bowing</w>
+                    <w type="descLang" subtype="adverb">courteously</w> to the queen, <w type="verb"
+                        subtype="linking">repeated</w> the accustomed salutation of <q>"Waes
+                        hael,"</q> and <w type="verb" subtype="linking">raised</w> it to his lips,
+                    but the same moment he <w type="verb" subtype="linking">felt</w> the stab of an
+                    assassin's dagger from behind.</s>
+                <s>He <w type="verb" subtype="linking">dropped</w> the <w type="descLang"
+                        subtype="adjective">fatal</w> goblet from his hand, and <w type="verb"
+                        subtype="action">cast</w> a look of keen but silent reproach on his <w
+                        type="descLang" subtype="adjective">perfidious</w> step-mother; but ere he
+                        <w type="verb" subtype="linking">could</w>
+                    <w type="verb" subtype="linking">recover</w> his bridle reign, to <w type="verb"
+                        subtype="action">turn</w> his steed for <w type="verb" subtype="action"
+                        >flight</w>, the deadly thrust <w type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="linking">repeated</w>, and his <w type="descLang"
+                        subtype="adjective">treacherous</w> assailants <w type="verb"
+                        subtype="linking">closed</w> about him to <w type="verb" subtype="action"
+                        >prevent</w> his escape.</s>
+            </p>
+            <p>
+                <s>Indignation at the deep-laid iniquity of the snare into which he <w type="verb"
+                        subtype="action">had</w>
+                    <w type="verb" subtype="linking">suffered</w> himself to <w type="verb"
+                        subtype="action">fall</w> thus <w type="descLang" subtype="adverb"
+                        >easily</w>, <w type="verb" subtype="linking">rendered</w> the <w
+                        type="descLang" subtype="adjective">young</w> king <w type="descLang"
+                        subtype="adjective">insensible</w> for a moment to the smart of his wounds;
+                    but <w type="descLang" subtype="adverb">fully</w>
+                    <w type="verb" subtype="action">aware</w> of the desperation of his situation,
+                    he <w type="verb" subtype="linking">struck</w> the rowels into the side of his
+                    mettled gray, and the good steed as if equally <w type="verb" subtype="action"
+                        >conscious</w> of his master's peril, with one gallant bound <w type="verb"
+                        subtype="linking">broke</w> through the murderous circle, and <w type="verb"
+                        subtype="linking">dashed</w> across the plain with the speed of an arrow
+                    just <w type="verb" subtype="linking">discharged</w> from the bow, and <w
+                        type="descLang" subtype="adverb">presently</w>
+                    <w type="verb" subtype="linking">distanced</w> the pursuit of the traitors, who
+                        <w type="verb" subtype="linking">continued</w> to <w type="verb"
+                        subtype="action">trace</w> the course the <w type="descLang"
+                        subtype="adjective">wounded</w> king <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="linking">taken</w> by the red life-drops that <w
+                        type="verb" subtype="linking">tracked</w> his path through the forest.</s>
+            </p>
+            <p>
+                <s>The last sound that <w type="verb" subtype="linking">fell</w> on <name
+                        who="PrinceEdward">Edward</name>'s ear <w type="verb" subtype="beVerb"
+                        >was</w> the <w type="descLang" subtype="adjective">piercing</w> cry of a
+                    child in mingled <w type="descLang" subtype="adjective">grief</w> and <w
+                        type="descLang" subtype="adjective">terror</w>, it <w type="verb"
+                        subtype="beVerb">was</w> the voice of his brother <name who="PrinceEthelred"
+                        >Ethelred</name>, who, on <w type="verb" subtype="action">beholding</w> the
+                        <w type="descLang" subtype="adjective">barbarous</w> deed from a window of
+                    the castle, <w type="verb" subtype="linking">filled</w> the air with his shrieks
+                    and lamentations. The assurances of his <w type="descLang" subtype="adjective"
+                        >guilty</w> mother, that it <w type="verb" subtype="beVerb">was</w> for his
+                    sake, and to <w type="verb" subtype="linking">make</w> him a king, that the
+                    crime <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="linking">perpetrated</w>, instead of <w type="verb"
+                        subtype="action">consoling</w> him, <w type="verb" subtype="linking"
+                        >increased</w> his distress to such a <w type="descLang" subtype="adjective"
+                        >passionate</w> degree, that the queen, who <w type="verb" subtype="linking"
+                        >considered</w> that his tears a reproach to herself, <w type="verb"
+                        subtype="action">becoming</w>
+                    <w type="verb" subtype="linking">infuriated</w> at what she <w type="verb"
+                        subtype="linking">styled</w> his unseasonable sorrow, <w type="verb"
+                        subtype="linking">threw</w> herself upon him, and <w type="verb"
+                        subtype="linking">beat</w> him in so violent a manner<gloss><q>"With a wax
+                            altar-taper;" say the Saxon chroniclers that being the first weapon that
+                            fell in the way of this furious and unreasonable woman.</q></gloss> that
+                    it <w type="verb" subtype="beVerb">was</w> for some time a matter of doubt to
+                    those about her whether she <w type="verb" subtype="action">had</w> not <w
+                        type="verb" subtype="linking">slain</w> her own son in the <w
+                        type="descLang" subtype="adjective">ungovernable</w>
+                    <w type="verb" subtype="linking">transport</w> of her rage,that son, for whose
+                    advancement she <w type="verb" subtype="action">had</w> the moment previous <w
+                        type="verb" subtype="linking">caused</w> so <w type="descLang"
+                        subtype="adverb">deadly</w> a crime to be <w type="verb" subtype="linking"
+                        >perpetrated</w> in her very presence.</s>
+            </p>
+            <p>
+                <s>The unfortunate <name who="PrinceEdward">Edward</name> meantime, though he <w
+                        type="verb" subtype="linking">had</w>
+                    <w type="verb" subtype="linking">succeeded</w> in <w type="verb"
+                        subtype="action">outstripping</w> the pursuit of his <w type="descLang"
+                        subtype="adjective">ruthless</w> enemies, <w type="verb" subtype="beVerb"
+                        >was</w>
+                    <w type="descLang" subtype="adjective">sensible</w> of the <w type="verb"
+                        subtype="action">approach</w> of a foe whom he <w type="verb"
+                        subtype="linking">could</w> neither <w type="verb" subtype="action"
+                        >resist</w> nor <w type="verb" subtype="action">flee</w> from.</s>
+                <s>Life <w type="verb" subtype="linking">ebbed</w> apace from the unstanched wounds,
+                    the landscape <w type="verb" subtype="linking">reeled</w> in confusion before
+                    his <w type="verb" subtype="action">swimming</w> eyes, he <w type="verb"
+                        subtype="linking">struggled</w> with the <w type="descLang" subtype="adverb"
+                        >deadly</w> faintness that <w type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">stealing</w> over him, and <w type="verb"
+                        subtype="linking">laboured</w> to <w type="verb" subtype="action">rally</w>
+                    his <w type="verb" subtype="action">failing</w> powers; but the hand of death <w
+                        type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adjective">heavy</w> at his heart; the reigns <w
+                        type="verb" subtype="linking">dropped</w> from his <w type="verb"
+                        subtype="action">relaxing</w> grasp, and he <w type="verb" subtype="linking"
+                        >fell</w> from the saddle to the ground.</s>
+            </p>
+
+            <p>
+                <s>It <w type="verb" subtype="beVerb">is</w>
+                    <w type="verb" subtype="linking">related</w> that his foot <w type="descLang"
+                        subtype="adverb">unfortunately</w>
+                    <w type="verb" subtype="action">catching</w> in the stirrup, the body of the
+                    king, whether <w type="descLang" subtype="adjective">dead</w> or <w
+                        type="descLang" subtype="adjective">living</w>
+                    <w type="verb" subtype="beVerb">is</w> not <w type="descLang" subtype="adverb"
+                        >exactly</w>
+                    <w type="verb" subtype="linking">known</w>, <w type="verb" subtype="beVerb"
+                        >was</w> much <w type="verb" subtype="linking">mangled</w>, in consequence
+                    of <w type="verb" subtype="linking">being</w>
+                    <w type="verb" subtype="linking">dragged</w> at a rapid rate along the ground by
+                    the terrified horse, which at length <w type="verb" subtype="linking"
+                        >stopped</w> of his own accord, at the gate of a blind woman's cottage.</s>
+                <s>This <w type="descLang" subtype="adjective">lonely</w> woman, notwithstanding the
+                    deprivation of sight under which she <w type="verb" subtype="linking"
+                        >laboured</w>, <w type="verb" subtype="linking">ascertained</w> that some
+                    fatal accident <w type="verb" subtype="action">had</w>
+                    <w type="verb" subtype="linking">befallen</w> the <w type="descLang"
+                        subtype="adjective">unfortunate</w> youth, and though <w type="descLang"
+                        subtype="adjective">ignorant</w> of his rank, she <w type="descLang"
+                        subtype="adjective">humanely</w>
+                    <w type="verb" subtype="linking">carried</w> the <w type="descLang"
+                        subtype="adjective">bleeding</w> body into her humble dwelling, and <w
+                        type="verb" subtype="linking">laid</w> it on her own bed, while she <w
+                        type="verb" subtype="linking">hastened</w> to <w type="verb"
+                        subtype="action">procure</w> assistance.</s>
+                <s>The <w type="descLang" subtype="adjective">wicked</w>
+                    <name who="QueenDowagerElfrida">Elfrida</name>, whose emissaries <w type="verb"
+                        subtype="action">had</w>
+                    <w type="verb" subtype="linking">tracked</w> the horse to this place, <w
+                        type="verb" subtype="linking">sought</w> to <w type="verb" subtype="action"
+                        >conceal</w> her crime by <w type="verb" subtype="action">causing</w> the
+                    corpse of the <w type="descLang" subtype="adjective">murdered</w> king to <w
+                        type="verb" subtype="beVerb">be</w>
+                    <w type="verb" subtype="action">thrown</w> down a deep well; but there, in
+                    consequence of the evidence of the blind widow, it <w type="verb"
+                        subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adverb">presently</w>
+                    <w type="verb" subtype="linking">discovered</w> by his <w type="descLang"
+                        subtype="adjective">sorrowful</w> friends, and her guilt <w type="verb"
+                        subtype="beVerb">was</w>
+                    <w type="verb" subtype="linking">proclaimed</w> to the whole world, by the <w
+                        type="descLang" subtype="adjective">indignant</w>
+                    <name who="ArchbishopDunstan">Archbishop Dunstan</name>, at the coronation of
+                    her son <name who="PrinceEthelred">Ethelred</name>, and he then <w type="verb"
+                        subtype="linking">predicted</w> that a crown so <w type="verb"
+                        subtype="linking">obtained</w>
+                    <w type="verb" subtype="linking">could</w> never <w type="verb" subtype="action"
+                        >prosper</w> with the descendants of this <w type="descLang"
+                        subtype="adjective">bad</w> woman.</s>
+            </p>
+            <p>
+                <s>The high rank of the queen <w type="verb" subtype="linking">protected</w> her
+                    from the punishment due to her crime; but she <w type="verb" subtype="beVerb"
+                        >was</w>
+                    <w type="verb" subtype="linking">regarded</w> with hatred and contempt by all
+                    mankind; and <w type="verb" subtype="action">feeling</w> herself an object of
+                    horror to her own son, for whose advancement she <w type="verb" subtype="action"
+                        >had</w>
+                    <w type="verb" subtype="linking">perpetrated</w> this <w type="descLang"
+                        subtype="adjective">barbarous</w> deed, and above all, <w type="verb"
+                        subtype="linking">tormented</w> by the <w type="descLang"
+                        subtype="adjective">fearful</w> stings of her own accusing conscience, she
+                        <w type="verb" subtype="linking">retired</w> to the gloomy shades of a
+                    convent, where she <w type="verb" subtype="linking">spent</w> the residue of her
+                    days, <w type="descLang" subtype="adverb">vainly</w>
+                    <w type="verb" subtype="action">endeavouring</w>, by constant penances and
+                    fasts, to <w type="verb" subtype="action">expiate</w> her crime.</s>
+            </p>
+        </body>
+        <back>When <name>Edward</name>, the eldest son of <name>Edgar the Peaceable</name>,
+            succeeded to his father's throne, under the guardianship, or regency, of <name
+                who="ArchbishopDunstan">Archbishop Dunstan</name>, his dominions <w type="verb"
+                subtype="beVerb">were</w> exceeding prosperous ; besides swaying the sceptre of the
+            united Saxon heptarchy, he <w type="verb" subtype="beVerb">was</w> bretwalda, or emperor
+            over the whole island of Great Britian, the kings of Scotland and Wales paying him
+            vassal homage for their several domains; in short, he held the same rule that
+                <name>Edward</name> Plantagenet the First afterwards endeavoured to obtain, and
+            succeeded <w type="descLang" subtype="adverb">only</w> in regard to Wales. The united
+            wisdom of <name>Edgar</name> the Peaceable and his prime minister, <name
+                who="ArchbishopDunstan">Dunstan</name>, established the English sceptre in peace and
+            prosperity. During his reign the native Danes <w type="verb" subtype="beVerb">were</w>
+            kept in bounds, and the invading ones repelled. This desirable order of things <w
+                type="verb" subtype="beVerb">was</w> entirely subverted by the crime of <name
+                who="QueenDowagerElfrida">Elfrida</name>, the stepmother of King
+            <name>Edward</name>; for, during the weak reign of her son and pupil, <name
+                who="Ethelred">Ethelred</name>, the Danes obtained the mastery of England, and
+            inexpressible miseries ensued to the country, which Had a pause when <name>Edward</name>
+            the Confessor succeeded to the throne, and <w type="verb" subtype="beVerb">were</w>
+            afterwards renewed, with tenfold horror, by the invasion of another set of Northmen,
+            under William the Conqueror. The whole of this wretchedness may be traced to the
+            personal wickedness of one woman. <p><name who="QueenDowagerElfrida">Elfrida</name>
+                <w type="verb" subtype="beVerb">was</w> the <w type="descLang" subtype="adverb"
+                    >only</w> child of the Earl of Devonshire, and <w type="verb" subtype="beVerb"
+                    >was</w> considered the greatest beauty and the richest heiress in England. The
+                king, <name>Edgar</name>, who <w type="verb" subtype="beVerb">was</w> then a
+                widower, having lost his wife, Elfleda the Fair, the mother of his eldest son,
+                    <name>Edward</name>, thought that the heiress of Devonshire <w type="verb"
+                    subtype="beVerb">was</w> worthy to be his consort; but, as she <w type="verb"
+                    subtype="action">had</w>
+                <w type="verb" subtype="beVerb">been</w> brought up in great retirement, and
+                    <name>Edgar</name> required beauty and grace in a queen, as well as riches, he
+                thought that report might have exaggerated these qualities in <name
+                    who="QueenDowagerElfrida">Elfrida</name>, and sent Ethelwold, his favourite, to
+                visit <name who="QueenDowagerElfrida">Elfrida</name>, and give him a true account of
+                her claims to personal beauty. Ethelwold went accordingly, and found the young lady
+                so charming that he fell in love with her, and wooed her for himself instead of his
+                master, to whom he gave a false testimony, declaring that <name
+                    who="QueenDowagerElfrida">Elfrida</name>
+                <w type="verb" subtype="action">had</w> no charms but in her rich inheritance.
+                    <name>Edgar</name> immediately relinquished the design of marrying her, and his
+                favourite observed, that although <name who="QueenDowagerElfrida">Elfrida</name>
+                <w type="verb" subtype="beVerb">was</w> not qualified to be the wife of a great
+                king, she <w type="verb" subtype="beVerb">was</w> a wealthy match, and he should, if
+                the king would permit him, marry her himself forthwith. King <name>Edgar</name>
+                consented, and Ethelwold soon after wedded the fair heiress, who, being unconscious
+                of the greater honour intended her, thought she <w type="verb" subtype="action"
+                    >had</w> made a good match. In a little time the fair wife of Ethelwold began to
+                be malcontent at finding that her husband kept her mewed up at her own castle,
+                instead of bringing her to the capital, to share in the festivities of the most
+                splendid court in Europe. At last a report reached <name>Edgar</name>'s ears that he
+                    <w type="verb" subtype="action">had</w>
+                <w type="verb" subtype="beVerb">been</w> deceived, and after vainly questioning his
+                favourite, why he never brought his bride to court, the king announced his intention
+                of paying a visit to Ethelwold and his wife. Terrified at this information,
+                Ethelwold went to his lady and confessed his deception, imploring her to appear as
+                ugly and awkward as she could, and rather strive to disgust the king than otherwise;
+                for if she seemed as lovely as nature <w type="verb" subtype="action">had</w> made
+                her, the king would never forgive him the false witness he <w type="verb"
+                    subtype="action">had</w> borne. <name who="QueenDowagerElfrida">Elfrida</name>
+                promised all things, and as her husband thought he <w type="verb" subtype="action"
+                    >had</w> her heart, he <w type="verb" subtype="beVerb">was</w> a little calmed.
+                Nevertheless, both the vanity and ambition of <name who="QueenDowagerElfrida"
+                    >Elfrida</name> being mortified, she <w type="verb" subtype="beVerb">was</w>
+                enraged at losing a crown, and still more so at having <w type="verb"
+                    subtype="beVerb">been</w> so misrepresented. She did her utmost to charm King
+                    <name>Edgar</name>, who <w type="verb" subtype="beVerb">was</w> enfuriated at
+                the falsehood of Ethelwold. The unfortunate husband <w type="verb" subtype="beVerb"
+                    >was</w> soon after found murdered in a wood, when on a hunting party. Whether
+                he <w type="verb" subtype="beVerb">was</w> assassinated by the order of the king, or
+                his wife, <w type="verb" subtype="beVerb">was</w> never clearly understood ; but
+                soon after <name>Edgar</name> made <name who="QueenDowagerElfrida">Elfrida</name>
+                his queen, and she became the mother of his youngest boy, <name who="Ethelred"
+                    >Ethelred</name>, who <w type="verb" subtype="beVerb">was</w> seven years old
+                when his father died.</p>
+            <p>At the death of <name>Edgar</name> the councils of the kingdom <w type="verb"
+                    subtype="beVerb">were</w> divided into Dunstanites and Anti-Dunstanites. The
+                partisans of <name who="ArchbishopDunstan">Dunstan</name>
+                <w type="verb" subtype="beVerb">were</w> the advocates of church government, as
+                dependent on the pope; these <w type="verb" subtype="action">supported</w> the
+                claims of <name>Edgar</name>'s eldest son, <name>Edward</name>, and the opposite
+                party set up those of <name who="Ethelred">Ethelred</name>, the son of <name
+                    who="QueenDowagerElfrida">Elfrida</name>. Between <name who="ArchbishopDunstan"
+                    >Dunstan</name> and the queen the most implacable hatred subsisted, which <w
+                    type="verb" subtype="beVerb">was</w> not abated when that great prelate and
+                minister carried his point, and established his pupil and ward on the throne, which
+                it <w type="verb" subtype="beVerb">is</w> to be noticed, although hereditary in one
+                family, <w type="verb" subtype="beVerb">was</w> not confined to the eldest son,
+                being rather elective in the royal family. <name who="QueenDowagerElfrida"
+                    >Elfrida</name> retired to the royal domain of Corfe Castle, and privately
+                meditated mischief, which, owing to the vigorous government of <name
+                    who="ArchbishopDunstan">Archbishop Dunstan</name>, and his power with the
+                Witenagemot, she <w type="verb" subtype="beVerb">was</w> not, for three years able
+                to carry into effect.</p>
+            <p>It <w type="verb" subtype="beVerb">is</w> here desirable to inform the youthful
+                reader the meaning of the word Witenagemot, more than once mentioned in this tale.
+                The Saxon word Witenagemot signifies a <q>"Meeting of the Wise."</q> It <w
+                    type="verb" subtype="beVerb">was</w> the name of the grand legislative assembly
+                of the Anglo-Saxon empire, bearing some resemblance to the parliaments of the
+                present day. It <w type="verb" subtype="beVerb">was</w> originally composed of five
+                estates, or ranks of men. The king <w type="verb" subtype="beVerb">was</w> the first
+                estate, and the head of the assembly. Next to him sat the clergy, which <w
+                    type="verb" subtype="beVerb">were</w> bishops, abbots, and priests and monks,
+                elected for their superior abilities from different dioceses; the clergy being the
+                    <w type="descLang" subtype="adverb">only</w> learned men in the kingdom, and as
+                knowledge <w type="verb" subtype="beVerb">is</w> more powerful than strength, they
+                took precedence of the nobles and warriors, and sat next the king: the clergy ranked
+                as the second estate. The great earls, or heads of counties, then called aldermen,
+                sat with the tributary princes of Scotland and Wales, with whom they ranked equally,
+                and, like them, wore gold collars and caps of maintenance: these <w type="verb"
+                    subtype="beVerb">were</w> the nobles, and <w type="verb" subtype="beVerb"
+                    >were</w> reckoned the third estate. They filled the station of the present
+                house of lords, <w type="descLang" subtype="adverb">only</w> they are mixed with the
+                clergy, as our house of peers has bishops, or spiritual lords, among its members.
+                The fourth estate <w type="verb" subtype="beVerb">was</w> composed of thanes, or
+                warriors, but, as well as warriors, they <w type="verb" subtype="beVerb">were</w>
+                obliged to be landowners. An East Anglian (or Norfolk and Suffolk thane) <w
+                    type="verb" subtype="beVerb">was</w> obliged to possess forty hydes of land to
+                enable him to sit in the Witan: but a thane from Wessex, or the south of England, <w
+                    type="descLang" subtype="adverb">only</w> needed to possess five hydes (a hyde
+                of land <w type="verb" subtype="beVerb">is</w> one hundred acres). This fourth
+                estate <w type="verb" subtype="beVerb">is</w> similar to our knights of the shire,
+                or members returned for counties. The fifth estate <w type="verb" subtype="beVerb"
+                    >were</w> farmers and tradesmen, called in the Saxon language churls and
+                burgesses, or burghers; they stood at the lower end of the hall, and when a law or
+                doom <w type="verb" subtype="beVerb">was</w> passed, seldom <w type="verb"
+                    subtype="action">said</w> more than yea, yea, or nay, nay; these <w type="verb"
+                    subtype="beVerb">were</w> elected by their neighbours from every town and
+                village, four good men and the reeve, or manager of the parish money, from each. It
+                    <w type="verb" subtype="beVerb">is</w> plainly to be seen that the fourth and
+                fifth estate of the Witenagemot, united together, <w type="verb" subtype="beVerb"
+                    >were</w> the origin of our house of commons; but a century after the Norman
+                Conquest, they turned out the farmers and peasants, and <w type="descLang"
+                    subtype="adverb">only</w> kept the burgesses, or representatives of towns and
+                cities. It <w type="verb" subtype="beVerb">is</w> likewise to be noted, that the
+                Witenagemot <w type="verb" subtype="beVerb">was</w> held in one great hall, or on a
+                heath or common, while the house of lords and the house of commons, in our days, sit
+                in council in different halls, excepting they meet together when the king convenes
+                or dismisses them.</p>
+            <p>Tradition says, that the Witan existed before the Saxons or Romans conquered Britain,
+                and <w type="verb" subtype="beVerb">was</w> held by our British ancestors at
+                Stonehenge, that surprising circle of masses of stone which <w type="verb"
+                    subtype="beVerb">is</w> still to be seen in the midst of Salisbury Plain. In the
+                times of our Saxon ancestors, when a law passed in the Witan it <w type="verb"
+                    subtype="beVerb">was</w> called a doom, instead of our modern phrase of act of
+                parliament, or a statute.</p>
+            <p>In our days the kingdom of Sweden, which <w type="verb" subtype="beVerb">was</w>
+                partly the mother country of the Anglo Saxons, still retains the grand national
+                tribunal of the five estates, and the last (the peasants) are a grave, venerable
+                body, men of few words, but of great respectability, and not without power in the
+                commonwealth.</p>
+            <p>It <w type="verb" subtype="beVerb">was</w> the great council of the Witenagemot that
+                confirmed the title of young <name>Edward</name>, and placed him under the tutelage
+                and guardianship of <name who="ArchbishopDunstan">Archbishop Dunstan</name>, who <w
+                    type="verb" subtype="beVerb">was</w> a most austere man, deserving the
+                reprobation of posterity as a fanatic and persecutor; but during the short reign of
+                    <name>Edward</name>, and the long one of <name>Edgar</name> his father, he <w
+                    type="verb" subtype="beVerb">was</w> a great statesman, and most able prime
+                minister over a happy people and a flourishing country. <name
+                    who="QueenDowagerElfrida">Elfrida</name> and her partisans <w type="verb"
+                    subtype="beVerb">were</w> kept in awe by his vigorous administration; but that
+                which public rebellion dared not attempt, accident and private malice effected.
+                    <name>Edward</name> and <name who="Ethelred">Ethelred</name>, though their
+                several parties might strive to render them enemies, <w type="verb" subtype="beVerb"
+                    >were</w> united by strong ties of brotherly affection. <name>Edward</name>
+                chose to hunt the deer at Wareham, in the neighbourhood of Corfe Castle, in
+                Dorsetshire, where <name who="QueenDowagerElfrida">Elfrida</name> and <name
+                    who="Ethelred">Ethelred</name> then resided. It <w type="verb" subtype="beVerb"
+                    >is</w>
+                <w type="verb" subtype="action">said</w> that with youthful curiosity he <w
+                    type="verb" subtype="beVerb">was</w> purposely allured to the castle by the
+                tricks of Wulstan, the queen's little cankered dwarf, and he advanced alone to the
+                lofty hall of his mother-in-law. She received him at the doorway, and kissed him.
+                Before the king alighted, a cup <w type="verb" subtype="beVerb">was</w> offered, and
+                as he <w type="verb" subtype="beVerb">was</w> quaffing the draught, one of <name
+                    who="QueenDowagerElfrida">Elfrida</name>'s attendants (some say herself) stabbed
+                him. The wounded prince <w type="verb" subtype="action">had</w> yet strength enough
+                to spur his horse, but fainting on the road, his body <w type="verb"
+                    subtype="beVerb">was</w> dragged in the stirrup by the affrighted animal, who
+                stopped at the cottage of a blind widow. Life <w type="verb" subtype="beVerb"
+                    >was</w> then extinct in the young king, whose bloody corpse <w type="verb"
+                    subtype="beVerb">was</w> frightfully mangled by the rough road over which he <w
+                    type="verb" subtype="action">had</w>
+                <w type="verb" subtype="beVerb">been</w> hurried. <name who="QueenDowagerElfrida"
+                    >Elfrida</name> thus gained her wicked ends, for <name who="Ethelred"
+                    >Ethelred</name>, the younger son of <name>Edgar</name>, <w type="verb"
+                    subtype="beVerb">was</w> then sole heir. So little did the boy exult in his
+                mother's successful crime, that, when told of his brother's dreadful death, he wept
+                most bitterly; this conduct enraged his violent mother to that degree, that she
+                seized a wax taper and so belaboured her child with it that she almost killed him.
+                This vile woman became afterwards abjectedly penitent; she built a convent on the
+                spot where <name>Edward</name>'s body <w type="verb" subtype="beVerb">was</w> found,
+                and ended her life in childish penances; among others, history records that her
+                terror of the supposed approach of the evil one <w type="verb" subtype="beVerb"
+                    >was</w> so great, that she sought to evade his clutch by covering her body all
+                over with little crosses. She died in extreme horror.</p>
+            <p>There are two terms that require explanation in this tale, the expressions Drink heal
+                and Weas heal. They <w type="verb" subtype="beVerb">were</w> the forerunners of a
+                custom not entirely obselete among us, and simply meant an invitation to drink one's
+                health, and the answer before drinking of<q>" Wish health." A little after this
+                    time, when the lawless Danes filled the land with violence and treachery, and
+                    actions similar to this murder of <name who="QueenDowagerElfrida"
+                    >Elfrida</name>'s became of daily occurrence in the land, the custom of pledging
+                    a companion when drinking <w type="verb" subtype="beVerb">was</w> usual; and the
+                    phrase of "I pledge you,"</q> still in use in country places, meant originally,
+                Your honour <w type="verb" subtype="beVerb">is</w> pledged not to stab me while the
+                cup <w type="verb" subtype="beVerb">is</w> at my lips. </p>
+            <p><name who="Ethelred">Ethelred</name>, who seems to have <w type="verb"
+                    subtype="action">had</w>, naturally, kindly feelings, being brought up under the
+                misrule of his violent, capricious mother, proved a weak and bad king, and his
+                misgovernment laid the foundation of nearly three centuries of misery to his
+                country, which might have <w type="verb" subtype="beVerb">been</w> averted, if his
+                brother <name>Edward</name>, a prince of great promise, and assisted by able
+                ministers, <w type="verb" subtype="action">had</w> not <w type="verb"
+                    subtype="beVerb">been</w> cut off by the murderous <name
+                    who="QueenDowagerElfrida">Elfrida</name>.</p></back>
+
+    </text>
+</TEI>
