@@ -1,4 +1,4 @@
-<?xml-model href="rnc_ill-kids.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../rnc_ill-kids.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
     <teiHeader/>
     <text xml:id="LadyLucysPetition">
@@ -26,6 +26,18 @@
                 </person>
                 <person xml:id="BridgetOldworth" sex="female">
                     <persName>Bridget Oldworth</persName>
+                </person>
+                <person xml:id="Dalrymple" sex="male">
+                    <persName>Sir John Dalrymple</persName>
+                </person>
+                <person xml:id="Ashton" sex="male">
+                    <persName>Mr. Ashton</persName>
+                </person>
+                <person xml:id="Edward" sex="male">
+                    <persName>Edward</persName>
+                </person>
+                <person xml:id="LordWiddrington" sex="male">
+                    <persName>Lord Widdrington</persName>
                 </person>
             </profileDesc>
         </front>
@@ -537,244 +549,476 @@
                     <w type="verb" subtype="action">dispose</w> the event <w type="descLang"
                         subtype="adverb">prosperously</w> for her.</s>
             </p>
-            <!-- pick up here -->
             <p>
-                <s>The <w type="descLang" subtype="adjective">next</w> morning, before the lark had
-                    sung her matins, <name who="Lucy">Lady Lucy</name>
-                    <w type="verb" subtype="beVerb">was</w> up and dressed in a suit of deep
-                    mourning, which <name who="Amy">Amy</name> had provided, considering it the most
-                    suitable garb for a child whose <w type="descLang" subtype="adverb">only</w>
-                    surviving parent <w type="verb" subtype="beVerb">was</w> under sentence of
-                    death.</s>
+                <s>The <w type="descLang" subtype="adjective">next</w> morning, before the lark <w
+                        type="verb" subtype="link">had</w>
+                    <w type="verb" subtype="action">sung</w> her matins, <name who="Lucy">Lady
+                        Lucy</name>
+                    <w type="verb" subtype="beVerb">was</w> up and dressed in a suit of <w
+                        type="descLang" subtype="adjective">deep</w> mourning, which <name who="Amy"
+                        >Amy</name>
+                    <w type="verb" subtype="link">had</w>
+                    <w type="verb" subtype="action">provided</w>, <w type="verb" subtype="action"
+                        >considering</w> it the <w type="descLang" subtype="adverb">most</w>
+                    <w type="descLang" subtype="adjective">suitable</w> garb for a child whose <w
+                        type="descLang" subtype="adverb">only</w>
+                    <w type="descLang" subtype="adjective">surviving</w> parent <w type="verb"
+                        subtype="beVerb">was</w> under sentence of death.</s>
             </p>
             <p>
-                <s>The servants, who had <w type="verb" subtype="beVerb">been</w> informed of their
-                    young lady's intention to solicit the queen for her father's pardon, were all
-                    assembled in the entrance hall to see her depart, and as she passed through
-                    them, leaning on her nurse's arm, and attended by her father's confidential
-                    secretary and the old butler, they shed tears, and bade God bless her and
-                    prosper her in her pious design.</s>
+                <s>The servants, who <w type="verb" subtype="link">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">informed</w> of their <w type="descLang"
+                        subtype="adjective">young</w> lady's intention to <w type="verb"
+                        subtype="action">solicit</w> the queen for her father's pardon, <w
+                        type="verb" subtype="beVerb">were</w> all <w type="verb" subtype="action"
+                        >assembled</w> in the entrance hall to <w type="verb" subtype="action"
+                        >see</w> her <w type="verb" subtype="action">depart</w>, and as she <w
+                        type="verb" subtype="action">passed</w> through them, <w type="verb"
+                        subtype="action">leaning</w> on her nurse's arm, and <w type="verb"
+                        subtype="action">attended</w> by her father's <w type="descLang"
+                        subtype="adjective">confidential</w> secretary and the <w type="descLang"
+                        subtype="adjective">old</w> butler, they <w type="verb" subtype="action"
+                        >shed</w> tears, and <w type="verb" subtype="action">bade</w> God <w
+                        type="verb" subtype="action">bless</w> her and <w type="verb"
+                        subtype="action">prosper</w> her in her <w type="descLang"
+                        subtype="adjective">pious</w> design.</s>
             </p>
             <p>
-                <s>Lady Lucy arrived at Hampton Court, and <w type="verb" subtype="beVerb">was</w>
-                    introduced into the Countess of Clarendon's apartment before her ladyship <w
-                        type="verb" subtype="beVerb">was</w> out of bed ; and having told her
-                    artless tale with great earnestness, delivered her father's letter.</s>
+                <s>Lady Lucy <w type="verb" subtype="action">arrived</w> at Hampton Court, and <w
+                        type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">introduced</w> into the Countess of Clarendon's
+                    apartment before her ladyship <w type="verb" subtype="beVerb">was</w> out of bed
+                    ; and <w type="verb" subtype="action">having</w>
+                    <w type="verb" subtype="action">told</w> her <w type="descLang"
+                        subtype="adjective">artless</w> tale with <w type="descLang"
+                        subtype="adjective">great</w> earnestness, <w type="verb" subtype="action"
+                        >delivered</w> her father's letter.</s>
             </p>
             <p>
                 <s><name who="LadyClarendon">Lady Clarendon</name>, who <w type="verb"
-                        subtype="beVerb">was</w> wife to the queen's uncle, received her young
-                    god-daughter very affectionately, but plainly told her, she must not reckon on
-                    her influence with the queen, because the Earl of Clarendon <w type="verb"
-                        subtype="beVerb">was</w> in disgrace on account of being suspected of
-                    carrying on a correspondence with <name who="KingJames">King James</name>, his
-                    brother-in-law; therefore she dared not solicit the queen on behalf of her
-                    friend <name who="LordPreston">Lord Preston</name>, against whom her majesty <w
-                        type="verb" subtype="beVerb">was</w> so deeply exasperated that she had
-                    declared she would not show him any mercy.</s>
+                        subtype="beVerb">was</w> wife to the queen's uncle, <w type="verb"
+                        subtype="action">received</w> her young god-daughter <w type="descLang"
+                        subtype="adverb">very</w>
+                    <w type="descLang" subtype="adverb">affectionately</w>, but <w type="descLang"
+                        subtype="adverb">plainly</w>
+                    <w type="verb" subtype="action">told</w> her, she <w type="verb" subtype="link"
+                        >must</w> not <w type="verb" subtype="action">reckon</w> on her influence
+                    with the queen, because the Earl of Clarendon <w type="verb" subtype="beVerb"
+                        >was</w> in disgrace on account of <w type="verb" subtype="link">being</w>
+                    <w type="verb" subtype="action">suspected</w> of <w type="verb" subtype="action"
+                        >carrying</w> on a correspondence with <name who="KingJames">King
+                        James</name>, his brother-in-law; therefore she <w type="verb"
+                        subtype="action">dared</w> not <w type="verb" subtype="action">solicit</w>
+                    the queen on behalf of her friend <name who="LordPreston">Lord Preston</name>,
+                    against whom her majesty <w type="verb" subtype="beVerb">was</w> so <w
+                        type="descLang" subtype="adverb">deeply</w>
+                    <w type="descLang" subtype="adjective">exasperated</w> that she <w type="verb"
+                        subtype="link">had</w>
+                    <w type="verb" subtype="action">declared</w> she <w type="verb" subtype="link"
+                        >would</w> not <w type="verb" subtype="action">show</w> him any mercy.</s>
             </p>
             <p>
                 <s><q who="Lucy">Oh!</q>
-                    <w type="verb" subtype="action">said</w> the little girl, <q who="Lucy">if I
-                        could <w type="descLang" subtype="adverb">only</w> see the queen myself, I
-                        would not wish any one to speak for me, for I should plead so earnestly to
-                        her for my dear papa's life that she could not refuse me, I <w type="verb"
-                            subtype="beVerb">am</w> sure.</q></s>
+                    <w type="verb" subtype="action">said</w> the <w type="descLang"
+                        subtype="adjective">little</w> girl, <q who="Lucy">if I could <w
+                            type="descLang" subtype="adverb">only</w>
+                        <w type="verb" subtype="action">see</w> the queen myself, I <w type="verb"
+                            subtype="link">would</w> not <w type="verb" subtype="action">wish</w>
+                        any one to <w type="verb" subtype="action">speak</w> for me, for I <w
+                            type="verb" subtype="link">should</w>
+                        <w type="verb" subtype="action">plead</w> so <w type="descLang"
+                            subtype="adverb">earnestly</w> to her for my <w type="descLang"
+                            subtype="adjective">dear</w> papa's life that she <w type="verb"
+                            subtype="link">could</w> not <w type="verb" subtype="action">refuse</w>
+                        me, I <w type="verb" subtype="beVerb">am</w> sure.</q></s>
             </p>
             <p>
-                <s><q who="LadyClarendon">Poor child! what could you say to the queen?</q> asked the
-                    countess compassionately.</s>
+                <s><q who="LadyClarendon"><w type="descLang" subtype="adjective">Poor</w> child!
+                        what <w type="verb" subtype="link">could</w> you <w type="verb"
+                            subtype="action">say</w> to the queen?</q>
+                    <w type="verb" subtype="action">asked</w> the countess <w type="descLang"
+                        subtype="adverb">compassionately</w>.</s>
             </p>
             <p>
-                <s><q who="Lucy">Only let me see her, and you shall hear,</q>
+                <s><q who="Lucy">Only <w type="verb" subtype="link">let</w> me <w type="verb"
+                            subtype="action">see</w> her, and you <w type="verb" subtype="link"
+                            >shall</w>
+                        <w type="verb" subtype="action">hear</w>,</q>
                     <w type="verb" subtype="action">said</w>
                     <name who="Lucy">Lady Lucy</name>.</s>
             </p>
             <p>
-                <s><q who="LadyClarendon">Well, my love, it were a pity but what thou shouldst have
-                        an opportunity,</q>
+                <s><q who="LadyClarendon">Well, my love, it <w type="verb" subtype="beVerb">were</w>
+                        a pity but what thou <w type="verb" subtype="link">shouldst</w>
+                        <w type="verb" subtype="action">have</w> an opportunity,</q>
                     <w type="verb" subtype="action">said</w>
                     <name who="LadyClarendon">Lady Clarendon</name>; <q who="LadyClarendon">but much
-                        I fear thy little heart will fail thee, when thou seest the queen face to
-                        face, and thou wilt not <w type="verb" subtype="beVerb">be</w> able to utter
-                        a syllable.</q></s>
+                        I <w type="verb" subtype="action">fear</w> thy <w type="descLang"
+                            subtype="adjective">little</w> heart <w type="verb" subtype="link"
+                            >will</w>
+                        <w type="verb" subtype="action">fail</w> thee, when thou <w type="verb"
+                            subtype="action">seest</w> the queen face to face, and thou <w
+                            type="verb" subtype="link">wilt</w> not <w type="verb" subtype="beVerb"
+                            >be</w> able to <w type="verb" subtype="action">utter</w> a
+                        syllable.</q></s>
             </p>
             <p>
-                <s><q who="Lucy">God will inspire me with courage, and direct the words of my
-                        lips,</q>
-                    <w type="verb" subtype="action">said</w> the little girl, with tears in her
-                    eyes.</s>
+                <s><q who="Lucy">God <w type="verb" subtype="link">will</w>
+                        <w type="verb" subtype="action">inspire</w> me with courage, and <w
+                            type="verb" subtype="action">direct</w> the words of my lips,</q>
+                    <w type="verb" subtype="action">said</w> the <w type="descLang"
+                        subtype="adjective">little</w> girl, with tears in her eyes.</s>
             </p>
             <p>
-                <s>The countess <w type="verb" subtype="beVerb">was</w> impressed with the piety and
-                    filial tenderness of her young god-daughter, and she hastened to rise and dress,
-                    that she might, without further delay, conduct the child into the palace
-                    gallery, where the queen usually passed an hour in walking, after her return
-                    from chapel, which she attended every morning.</s>
+                <s>The countess <w type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">impressed</w> with the piety and <w
+                        type="descLang" subtype="adjective">filial</w> tenderness of her <w
+                        type="descLang" subtype="adjective">young</w> god-daughter, and she <w
+                        type="verb" subtype="action">hastened</w> to <w type="verb" subtype="action"
+                        >rise</w> and <w type="verb" subtype="action">dress</w>, that she <w
+                        type="verb" subtype="link">might</w>, without <w type="descLang"
+                        subtype="adjective">further</w> delay, <w type="verb" subtype="action"
+                        >conduct</w> the child into the <w type="descLang" subtype="adjective"
+                        >palace</w> gallery, where the queen <w type="descLang" subtype="adverb"
+                        >usually</w>
+                    <w type="verb" subtype="action">passed</w> an hour in walking, after her return
+                    from chapel, which she <w type="verb" subtype="action">attended</w>
+                    <w type="descLang" subtype="adjective">every</w> morning.</s>
             </p>
             <p>
-                <s>Her majesty had not left the chapel when <name who="LadyClarendon">Lady
-                        Clarendon</name> and Lucy entered the gallery, and her ladyship endeavoured
-                    to divert the anxious impatience of her little friend, by pointing out to her
-                    the portraits with which it <w type="verb" subtype="beVerb">was</w> adorned.</s>
+                <s>Her majesty <w type="verb" subtype="link">had</w> not <w type="verb"
+                        subtype="action">left</w> the chapel when <name who="LadyClarendon">Lady
+                        Clarendon</name> and Lucy <w type="verb" subtype="action">entered</w> the
+                    gallery, and her ladyship <w type="verb" subtype="action">endeavoured</w> to <w
+                        type="verb" subtype="action">divert</w> the <w type="descLang"
+                        subtype="adjective">anxious</w> impatience of her <w type="descLang"
+                        subtype="adjective">little</w> friend, by <w type="verb" subtype="action"
+                        >pointing</w> out to her the portraits with which it <w type="verb"
+                        subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">adorned</w>.</s>
             </p>
             <p>
-                <s><q who="Lucy">I know that gentleman well,</q>
-                    <w type="verb" subtype="action">said</w> the child, pointing to a noble
-                    whole-length portrait of James the Second.</s>
+                <s><q who="Lucy">I <w type="verb" subtype="action">know</w> that gentleman well,</q>
+                    <w type="verb" subtype="action">said</w> the child, <w type="verb"
+                        subtype="action">pointing</w> to a <w type="descLang" subtype="adjective"
+                        >noble</w> whole-length portrait of James the Second.</s>
             </p>
             <p>
                 <s><q who="LadyClarendon">That <w type="verb" subtype="beVerb">is</w> the portrait
-                        of the deposed <name who="KingJames">King James</name>, Queen Mary's
-                        father,</q> observed the Countess, sighing, <q who="LadyClarendon">and a
-                        very striking likeness it <w type="verb" subtype="beVerb">is</w> of that
-                        unfortunate monarch; but hark! here comes the queen, with her chamberlain
-                        and ladies, from chapel,now, Lucy, <w type="verb" subtype="beVerb">is</w>
-                        the time! I will step into the recess yonder; but you must remain alone
-                        standing where you are, and when her majesty approaches near enough, kneel
-                        down on one knee before her, and present your father's petition. She, who
-                        walks a little in advance of the other ladies, <w type="verb"
-                            subtype="beVerb">is</w> the queen. Be of good courage, and address
-                        yourself to her.</q></s>
+                        of the <w type="descLang" subtype="adjective">deposed</w>
+                        <name who="KingJames">King James</name>, Queen Mary's father,</q>
+                    <w type="verb" subtype="action">observed</w> the Countess, <w type="verb"
+                        subtype="action">sighing</w>, <q who="LadyClarendon">and a <w
+                            type="descLang" subtype="adverb">very</w>
+                        <w type="verb" subtype="action">striking</w> likeness it <w type="verb"
+                            subtype="beVerb">is</w> of that <w type="descLang" subtype="adjective"
+                            >unfortunate</w> monarch; but hark! here <w type="verb" subtype="action"
+                            >comes</w> the queen, with her chamberlain and ladies, from chapel, now,
+                        Lucy, <w type="verb" subtype="beVerb">is</w> the time! I <w type="verb"
+                            subtype="link">will</w>
+                        <w type="verb" subtype="action">step</w> into the recess <w type="descLang"
+                            subtype="adjective">yonder</w>; but you <w type="verb" subtype="link"
+                            >must</w>
+                        <w type="verb" subtype="action">remain</w>
+                        <w type="descLang" subtype="adjective">alone</w> standing where you <w
+                            type="verb" subtype="beVerb">are</w>, and when her majesty <w
+                            type="verb" subtype="action">approaches</w> near enough, <w type="verb"
+                            subtype="action">kneel</w> down on one knee before her, and <w
+                            type="verb" subtype="action">present</w> your father's petition. She,
+                        who <w type="verb" subtype="action">walks</w> a little in advance of the <w
+                            type="descLang" subtype="adjective">other</w> ladies, <w type="verb"
+                            subtype="beVerb">is</w> the queen. <w type="verb" subtype="beVerb"
+                            >Be</w> of <w type="descLang" subtype="adjective">good</w> courage, and
+                            <w type="verb" subtype="action">address</w> yourself to her.</q></s>
             </p>
             <p>
-                <s><name who="LadyClarendon">Lady Clarendon</name> then made a hasty retreat. <name
-                        who="Lucy">Lady Lucy</name>'s heart fluttered violently when she found
-                    herself alone, but her resolution did not fail her; and while her lips moved
-                    silently in fervent prayer to the Almighty for his assistance in this trying
-                    moment, she stood with folded hands, pale, but composed and motionless as a
-                    statue, awaiting the queen's approach; and when her majesty drew near the spot,
-                    she advanced a step forward, knelt, and presented the petition.</s>
+                <s><name who="LadyClarendon">Lady Clarendon</name> then <w type="verb"
+                        subtype="action">made</w> a <w type="descLang" subtype="adjective">hasty</w>
+                    retreat. <name who="Lucy">Lady Lucy</name>'s heart <w type="verb"
+                        subtype="action">fluttered</w>
+                    <w type="descLang" subtype="adverb">violently</w> when she <w type="verb"
+                        subtype="action">found</w> herself alone, but her resolution <w type="verb"
+                        subtype="link">did</w> not <w type="verb" subtype="action">fail</w> her; and
+                    while her lips <w type="verb" subtype="action">moved</w>
+                    <w type="descLang" subtype="adverb">silently</w> in <w type="descLang"
+                        subtype="adjective">fervent</w> prayer to the Almighty for his assistance in
+                    this <w type="descLang" subtype="adjective">trying</w> moment, she <w
+                        type="verb" subtype="action">stood</w> with <w type="descLang"
+                        subtype="adjective">folded</w> hands, <w type="descLang" subtype="adjective"
+                        >pale</w>, but <w type="descLang" subtype="adjective">composed</w> and <w
+                        type="descLang" subtype="adjective">motionless</w> as a statue, <w
+                        type="verb" subtype="action">awaiting</w> the queen's approach; and when her
+                    majesty <w type="verb" subtype="action">drew</w> near the spot, she <w
+                        type="verb" subtype="action">advanced</w> a step forward, <w type="verb"
+                        subtype="action">knelt</w>, and <w type="verb" subtype="action"
+                        >presented</w> the petition.</s>
             </p>
             <p>
-                <s>The extreme beauty of the child, her deep mourning, the touching sadness of her
-                    look and manner, and, above all, the fast flowing tears which bedewed her
-                    innocent face, excited the queen's attention and interest; she paused, spoke
-                    kindly to her, and took the offered paper; but when she saw the name of <name
-                        who="LordPreston">Lord Preston</name>, her colour rose, she frowned, cast
-                    the petition from her, and would have passed on, but Lucy, who had watched her
-                    countenance with a degree of anxious interest that amounted to agony, losing all
-                    awe for royalty in her fears for her father's life, put forth her hand, and
-                    grasping the queen's robe, cried in an imploring tone, <q who="Lucy">Spare my
-                        father,my deardear father, royal lady!</q></s>
+                <s>The <w type="descLang" subtype="adjective">extreme</w> beauty of the child, her
+                        <w type="descLang" subtype="adjective">deep</w> mourning, the <w
+                        type="descLang" subtype="adjective">touching</w> sadness of her look and
+                    manner, and, above all, the <w type="descLang" subtype="adverb">fast</w>
+                    <w type="descLang" subtype="adjective">flowing</w> tears which <w type="verb"
+                        subtype="action">bedewed</w> her <w type="descLang" subtype="adjective"
+                        >innocent</w> face, <w type="verb" subtype="action">excited</w> the queen's
+                    attention and interest; she <w type="verb" subtype="action">paused</w>, <w
+                        type="verb" subtype="action">spoke</w>
+                    <w type="descLang" subtype="adverb">kindly</w> to her, and <w type="verb"
+                        subtype="action">took</w> the <w type="descLang" subtype="adjective"
+                        >offered</w> paper; but when she <w type="verb" subtype="action">saw</w> the
+                    name of <name who="LordPreston">Lord Preston</name>, her colour <w type="verb"
+                        subtype="action">rose</w>, she <w type="verb" subtype="action">frowned</w>,
+                        <w type="verb" subtype="action">cast</w> the petition from her, and <w
+                        type="verb" subtype="link">would</w>
+                    <w type="verb" subtype="link">have</w>
+                    <w type="verb" subtype="action">passed</w> on, but Lucy, who <w type="verb"
+                        subtype="link">had</w>
+                    <w type="verb" subtype="action">watched</w> her countenance with a degree of <w
+                        type="descLang" subtype="adjective">anxious</w> interest that <w type="verb"
+                        subtype="action">amounted</w> to agony, <w type="verb" subtype="action"
+                        >losing</w> all awe for royalty in her fears for her father's life, <w
+                        type="verb" subtype="action">put</w> forth her hand, and <w type="verb"
+                        subtype="action">grasping</w> the queen's robe, <w type="verb"
+                        subtype="action">cried</w> in an <w type="descLang" subtype="adjective"
+                        >imploring</w> tone, <q who="Lucy"><w type="verb" subtype="action">Spare</w>
+                        my father, my <w type="descLang" subtype="adjective">dear</w>, <w
+                            type="descLang" subtype="adjective">dear</w> father, <w type="descLang"
+                            subtype="adjective">royal</w> lady!</q></s>
             </p>
             <p>
-                <s>Lucy had meant to say many persuasive things, but she forgot them all in her sore
-                    distress, and could <w type="descLang" subtype="adverb">only</w> repeat the
-                    words, <q who="Lucy">Mercy, mercy for my father, gracious queen!</q> till her
-                    vehement emotion choked her voice, and throwing her arms round the queen's
-                    knees, she leaned her head against her majesty's person for support, while her
-                    rich profusion of flaxen ringlets, which partly concealed her fair face, floated
-                    over the queen's dress; she sobbed aloud in the uncontrolable anguish of her
-                    heart.</s>
+                <s>Lucy <w type="verb" subtype="link">had</w>
+                    <w type="verb" subtype="action">meant</w> to <w type="verb" subtype="action"
+                        >say</w>
+                    <w type="descLang" subtype="adjective">many</w>
+                    <w type="descLang" subtype="adjective">persuasive</w> things, but she <w
+                        type="verb" subtype="action">forgot</w> them all in her <w type="descLang"
+                        subtype="adjective">sore</w> distress, and <w type="verb" subtype="link"
+                        >could</w>
+                    <w type="descLang" subtype="adverb">only</w>
+                    <w type="verb" subtype="action">repeat</w> the words, <q who="Lucy">Mercy, mercy
+                        for my father, <w type="descLang" subtype="adjective">gracious</w>
+                        queen!</q> till her <w type="descLang" subtype="adjective">vehement</w>
+                    emotion <w type="verb" subtype="action">choked</w> her voice, and <w type="verb"
+                        subtype="action">throwing</w> her arms round the queen's knees, she <w
+                        type="verb" subtype="action">leaned</w> her head against her majesty's
+                    person for support, while her <w type="descLang" subtype="adjective">rich</w>
+                    profusion of <w type="descLang" subtype="adjective">flaxen</w> ringlets, which
+                        <w type="descLang" subtype="adverb">partly</w>
+                    <w type="verb" subtype="action">concealed</w> her <w type="descLang"
+                        subtype="adjective">fair</w> face, <w type="verb" subtype="action"
+                        >floated</w> over the queen's dress; she <w type="verb" subtype="action"
+                        >sobbed</w> aloud in the <w type="descLang" subtype="adjective"
+                        >uncontrolable</w> anguish of her heart.</s>
             </p>
             <p>
-                <s>The intense sorrow of a child <w type="verb" subtype="beVerb">is</w> always
-                    peculiarly touching; but the circumstances under which Lucy appeared were more
-                    than commonly affecting.</s>
+                <s>The <w type="descLang" subtype="adjective">intense</w> sorrow of a child <w
+                        type="verb" subtype="beVerb">is</w> always <w type="descLang"
+                        subtype="adverb">peculiarly</w>
+                    <w type="descLang" subtype="adjective">touching</w>; but the circumstances under
+                    which Lucy <w type="verb" subtype="action">appeared</w>
+                    <w type="verb" subtype="beVerb">were</w> more than <w type="descLang"
+                        subtype="adverb">commonly</w>
+                    <w type="descLang" subtype="adjective">affecting</w>.</s>
             </p>
             <p>
                 <s>It <w type="verb" subtype="beVerb">was</w> a daughter, not beyond the season of
-                    infancy, overcoming the timidity of that tender age, to become a suppliant of an
-                    offended sovereign for the life of a father.</s>
+                    infancy, <w type="verb" subtype="action">overcoming</w> the timidity of that <w
+                        type="descLang" subtype="adjective">tender</w> age, to <w type="verb"
+                        subtype="action">become</w> a suppliant of an <w type="descLang"
+                        subtype="adjective">offended</w> sovereign for the life of a father.</s>
             </p>
             <p>
-                <s><name who="QueenMary">Queen Mary</name> pitied the distress of the young
-                    petitioner; but as she considered the death of <name who="LordPreston">Lord
-                        Preston</name> a measure of political expediency, she told Lucy mildly, but
-                    firmly, that <q who="QueenMary">she could not grant her request.</q></s>
+                <s><name who="QueenMary">Queen Mary</name>
+                    <w type="verb" subtype="action">pitied</w> the distress of the <w
+                        type="descLang" subtype="adjective">young</w> petitioner; but as she <w
+                        type="verb" subtype="action">considered</w> the death of <name
+                        who="LordPreston">Lord Preston</name> a measure of <w type="descLang"
+                        subtype="adjective">political</w>
+                    <w type="descLang" subtype="adjective">expediency</w>, she <w type="verb"
+                        subtype="action">told</w> Lucy <w type="descLang" subtype="adverb"
+                        >mildly</w>, but <w type="descLang" subtype="adverb">firmly</w>, that <q
+                        who="QueenMary">she <w type="verb" subtype="link">could</w> not <w
+                            type="verb" subtype="action">grant</w> her request.</q></s>
             </p>
             <p>
-                <s><q who="Lucy">And will you kill my dear papa, who <w type="verb" subtype="beVerb"
-                            >is</w> so good and kind to every one?</q>
-                    <w type="verb" subtype="action">said</w> Lucy, raising her blue eyes, which were
-                    swimming in tears, to the face of the queen.</s>
+                <s><q who="Lucy">And <w type="verb" subtype="link">will</w> you <w type="verb"
+                            subtype="action">kill</w> my <w type="descLang" subtype="adjective"
+                            >dear</w> papa, who <w type="verb" subtype="beVerb">is</w> so <w
+                            type="descLang" subtype="adjective">good</w> and <w type="descLang"
+                            subtype="adjective">kind</w> to every one?</q>
+                    <w type="verb" subtype="action">said</w> Lucy, <w type="verb" subtype="action"
+                        >raising</w> her <w type="descLang" subtype="adjective">blue</w> eyes, which
+                        <w type="verb" subtype="link">were</w>
+                    <w type="verb" subtype="action">swimming</w> in tears, to the face of the
+                    queen.</s>
             </p>
             <p>
-                <s><q who="QueenMary">He may <w type="verb" subtype="beVerb">be</w> so, my
-                        child,</q> returned her majesty, <q who="QueenMary">but he has broken the
-                        laws of his country, and therefore he must die.</q></s>
+                <s><q who="QueenMary">He <w type="verb" subtype="link">may</w>
+                        <w type="verb" subtype="beVerb">be</w> so, my child,</q>
+                    <w type="verb" subtype="action">returned</w> her majesty, <q who="QueenMary">but
+                        he <w type="verb" subtype="link">has</w>
+                        <w type="verb" subtype="action">broken</w> the laws of his country, and
+                        therefore he <w type="verb" subtype="action">must</w>
+                        <w type="verb" subtype="action">die</w>.</q></s>
             </p>
             <p>
-                <s><q who="Lucy">But you can pardon him if you choose to do so, madam,</q> replied
-                    Lucy; <q who="Lucy">and I have read that God <w type="verb" subtype="beVerb"
-                            >is</w> well pleased with those who forgive, for he has <w type="verb"
-                            subtype="action">said</w>, ' Blessed <w type="verb" subtype="beVerb"
-                            >are</w> the merciful, for they shall obtain mercy.'</q></s>
+                <s><q who="Lucy">But you <w type="verb" subtype="link">can</w>
+                        <w type="verb" subtype="action">pardon</w> him if you <w type="verb"
+                            subtype="action">choose</w> to <w type="verb" subtype="action">do</w>
+                        so, madam,</q>
+                    <w type="verb" subtype="action">replied</w> Lucy; <q who="Lucy">and I <w
+                            type="verb" subtype="link">have</w>
+                        <w type="verb" subtype="action">read</w> that God <w type="verb"
+                            subtype="beVerb">is</w>
+                        <w type="descLang" subtype="adverb">well</w>
+                        <w type="verb" subtype="action">pleased</w> with those who <w type="verb"
+                            subtype="action">forgive</w>, for he <w type="verb" subtype="link"
+                            >has</w>
+                        <w type="verb" subtype="action">said</w>, ' Blessed <w type="verb"
+                            subtype="beVerb">are</w> the <w type="descLang" subtype="adjective"
+                            >merciful</w>, for they <w type="verb" subtype="link">shall</w>
+                        <w type="verb" subtype="action">obtain</w> mercy.'</q></s>
             </p>
             <p>
-                <s><q who="QueenMary">It does not become a little girl like you to attempt to
-                        instruct me,</q> replied the queen, gravely; <q who="QueenMary">I <w
-                            type="verb" subtype="beVerb">am</w> acquainted with my duty, and as it
-                            <w type="verb" subtype="beVerb">is</w> my place to administer justice
-                        impartially, it <w type="verb" subtype="beVerb">is</w> not possible for me
-                        to pardon your father, however painful it may <w type="verb"
-                            subtype="beVerb">be</w> for me to deny the request of so dutiful a
-                        child.</q></s>
+                <s><q who="QueenMary">It <w type="verb" subtype="link">does</w> not <w type="verb"
+                            subtype="action">become</w> a <w type="descLang" subtype="adjective"
+                            >little</w> girl like you to <w type="verb" subtype="action">attempt</w>
+                        to <w type="verb" subtype="action">instruct</w> me,</q>
+                    <w type="verb" subtype="action">replied</w> the queen, <w type="descLang"
+                        subtype="adverb">gravely</w>; <q who="QueenMary">I <w type="verb"
+                            subtype="beVerb">am</w>
+                        <w type="verb" subtype="action">acquainted</w> with my duty, and as it <w
+                            type="verb" subtype="beVerb">is</w> my place to <w type="verb"
+                            subtype="action">administer</w> justice <w type="descLang"
+                            subtype="adverb">impartially</w>, it <w type="verb" subtype="beVerb"
+                            >is</w> not possible for me to <w type="verb" subtype="action"
+                            >pardon</w> your father, however <w type="descLang" subtype="adjective"
+                            >painful</w> it may <w type="verb" subtype="beVerb">be</w> for me to <w
+                            type="verb" subtype="action">deny</w> the request of so <w
+                            type="descLang" subtype="adjective">dutiful</w> a child.</q></s>
             </p>
             <p>
-                <s>Lucy did not reply, she <w type="descLang" subtype="adverb">only</w> raised her
-                    streaming eyes, with an appealing look to the queen, and then turned them
-                    expressively on the portrait of <name who="KingJames">King James</name>,
-                    opposite to which her majesty was standing.</s>
+                <s>Lucy <w type="verb" subtype="link">did</w> not <w type="verb" subtype="action"
+                        >reply</w>, she <w type="descLang" subtype="adverb">only</w>
+                    <w type="verb" subtype="action">raised</w> her <w type="descLang"
+                        subtype="adjective">streaming</w> eyes, with an <w type="descLang"
+                        subtype="adjective">appealing</w> look to the queen, and then <w type="verb"
+                        subtype="action">turned</w> them <w type="descLang" subtype="adverb"
+                        >expressively</w> on the portrait of <name who="KingJames">King
+                    James</name>, opposite to which her majesty <w type="verb" subtype="beVerb"
+                        >was</w>
+                    <w type="verb" subtype="action">standing</w>.</s>
             </p>
             <p>
-                <s>There <w type="verb" subtype="beVerb">was</w> something in that look which bore
-                    no ordinary meaning, and the queen, whose curiosity <w type="verb"
-                        subtype="beVerb">was</w> excited by the peculiar manner of the child, could
-                    not refrain from asking her, <q who="QueenMary">wherefore she gazed so earnestly
-                        on that picture?</q></s>
+                <s>There <w type="verb" subtype="beVerb">was</w> something in that look which <w
+                        type="verb" subtype="action">bore</w> no <w type="descLang"
+                        subtype="adjective">ordinary</w> meaning, and the queen, whose curiosity <w
+                        type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">excited</w> by the <w type="descLang"
+                        subtype="adjective">peculiar</w> manner of the child, <w type="verb"
+                        subtype="link">could</w> not <w type="verb" subtype="action">refrain</w>
+                    from <w type="verb" subtype="action">asking</w> her, <q who="QueenMary"
+                        >wherefore she <w type="verb" subtype="action">gazed</w> so <w
+                            type="descLang" subtype="adjective">earnestly</w> on that
+                    picture?</q></s>
             </p>
             <p>
-                <s><q who="Lucy">I <w type="verb" subtype="beVerb">was</w> thinking,</q> replied
-                        <name who="Lucy">Lady Lucy</name>, <q who="Lucy">how strange it <w
-                            type="verb" subtype="beVerb">was</w> that you should wish to kill my
-                        father, only because he loved yours so faithfully.</q></s>
+                <s><q who="Lucy">I <w type="verb" subtype="beVerb">was</w>
+                        <w type="verb" subtype="action">thinking</w>,</q>
+                    <w type="verb" subtype="action">replied</w>
+                    <name who="Lucy">Lady Lucy</name>, <q who="Lucy">how strange it <w type="verb"
+                            subtype="beVerb">was</w> that you <w type="verb" subtype="link"
+                            >should</w>
+                        <w type="verb" subtype="action">wish</w> to <w type="verb" subtype="action"
+                            >kill</w> my father, <w type="descLang" subtype="adverb">only</w>
+                        because he <w type="verb" subtype="action">loved</w> yours so <w
+                            type="descLang" subtype="adverb">faithfully</w>.</q></s>
             </p>
             <p>
-                <s>This wise, but artless reproof, from the lips of infant innocence, went to the
-                    heart of the queen.</s>
-                <s>She raised her eyes to the once dear and honoured countenance of a parent, who,
-                    whatever were his political errors as a king, had ever <w type="verb"
-                        subtype="beVerb">been</w> the tenderest of fathers to her; and when the
-                    remembrance that he <w type="verb" subtype="beVerb">was</w> an exile in a
-                    foreign land, relying on the bounty of strangers for his daily bread, while she
-                    and her husband were invested with the regal inheritance of which he had <w
-                        type="verb" subtype="beVerb">been</w> deprived, pressed upon her mind, the
-                    thought of the contrast of her conduct as a daughter, when compared with the
-                    filial piety of the child before her (whom a sentence of hers <w type="verb"
-                        subtype="beVerb">was</w> about to render an orphan), smote her heart, and
-                    she burst into tears.</s>
+                <s>This <w type="descLang" subtype="adjective">wise</w>, but <w type="descLang"
+                        subtype="adjective">artless</w> reproof, from the lips of <w type="descLang"
+                        subtype="adjective">infant</w> innocence, <w type="verb" subtype="action"
+                        >went</w> to the heart of the queen.</s>
+                <s>She <w type="verb" subtype="action">raised</w> her eyes to the <w type="descLang"
+                        subtype="adverb">once</w>
+                    <w type="descLang" subtype="adjective">dear</w> and <w type="descLang"
+                        subtype="adjective">honoured</w> countenance of a parent, who, whatever <w
+                        type="verb" subtype="beVerb">were</w> his <w type="descLang"
+                        subtype="adjective">political</w> errors as a king, <w type="verb"
+                        subtype="link">had</w> ever <w type="verb" subtype="beVerb">been</w> the <w
+                        type="descLang" subtype="adjective">tenderest</w> of fathers to her; and
+                    when the remembrance that he <w type="verb" subtype="beVerb">was</w> an exile in
+                    a <w type="descLang" subtype="adjective">foreign</w> land, <w type="verb"
+                        subtype="action">relying</w> on the bounty of strangers for his <w
+                        type="descLang" subtype="adjective">daily</w> bread, while she and her
+                    husband <w type="verb" subtype="link">were</w>
+                    <w type="verb" subtype="action">invested</w> with the <w type="descLang"
+                        subtype="adjective">regal</w> inheritance of which he <w type="verb"
+                        subtype="link">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">deprived</w>, <w type="verb" subtype="action"
+                        >pressed</w> upon her mind, the thought of the contrast of her conduct as a
+                    daughter, when <w type="verb" subtype="action">compared</w> with the <w
+                        type="descLang" subtype="adjective">filial</w> piety of the child before her
+                    (whom a sentence of hers <w type="verb" subtype="beVerb">was</w> about to <w
+                        type="verb" subtype="action">render</w> an orphan), <w type="verb"
+                        subtype="action">smote</w> her heart, and she <w type="verb"
+                        subtype="action">burst</w> into tears.</s>
             </p>
             <p>
-                <s><q who="QueenMary">Rise, dear child,</q>
-                    <w type="verb" subtype="action">said</w> she. <q who="QueenMary">Thou hast
-                        prevailed, thy father shall not die. I grant his pardon at thy entreaty, thy
-                        filial love has saved him.</q></s>
+                <s><q who="QueenMary"><w type="verb" subtype="action">Rise</w>, <w type="descLang"
+                            subtype="adjective">dear</w> child,</q>
+                    <w type="verb" subtype="action">said</w> she. <q who="QueenMary">Thou <w
+                            type="verb" subtype="link">hast</w>
+                        <w type="verb" subtype="action">prevailed</w>, thy father <w type="verb"
+                            subtype="action">shall</w> not die. I <w type="verb" subtype="action"
+                            >grant</w> his pardon at thy entreaty, thy <w type="descLang"
+                            subtype="adjective">filial</w> love has <w type="verb" subtype="action"
+                            >saved</w> him.</q></s>
             </p>
         </body>
         <back xml:id="LadyLucysPetitionSummary">
             <title>Historical Summary</title>
             <p>
-                <s>The conspiracy against the government of William the Third, and to effect the
-                    restoration of his exiled father-in-law, James the Second, for which <name
-                        who="LordPreston">Lord Preston</name> and his friend, Mr. Ashton, were
-                    condemned to death, took place in 1692.</s>
+                <s>The conspiracy against the government of William the Third, and to <w type="verb"
+                        subtype="action">effect</w> the restoration of his <w type="descLang"
+                        subtype="adjective">exiled</w> father-in-law, James the Second, for which
+                        <name who="LordPreston">Lord Preston</name> and his friend, <name
+                        who="Ashton">Mr. Ashton</name>, <w type="verb" subtype="beVerb">were</w>
+                    <w type="verb" subtype="action">condemned</w> to death, <w type="verb"
+                        subtype="action">took</w> place in <date>1692</date>.</s>
             </p>
             <p>
-                <s>Sir John Dalyrymple relates the anecdote of the courageous child of <name
+                <s><name who="Dalrymple">Sir John Dalyrymple</name>
+                    <w type="verb" subtype="action">relates</w> the anecdote of the <w
+                        type="descLang" subtype="adjective">courageous</w> child of <name
                         who="LordPreston">Lord Preston</name>, in his Memoirs.</s>
-                <s>Ashton <w type="verb" subtype="beVerb">was</w> put to death, but the presence of
-                    mind of the young lady saved <name who="LordPreston">Lord Preston</name>'s
-                    life.</s>
+                <s><q who="Dalrymple"><name who="Ashton">Ashton</name>
+                        <w type="verb" subtype="beVerb">was</w>
+                        <w type="verb" subtype="action">put</w> to death, but the presence of mind
+                        of the <w type="descLang" subtype="adjective">young</w> lady <w type="verb"
+                            subtype="action">saved</w>
+                        <name who="LordPreston">Lord Preston</name>'s life.</q></s>
             </p>
             <p>
-                <s>Her name <w type="verb" subtype="beVerb">was</w> Catherine, and not Lucy.</s>
-                <s>Her brother Edward dying young, she, with her two sisters, became her father's
-                    co-heiresses; at seventeen she married a gallant young nobleman, the son of Lord
-                    Widdrington, with whom she led a most happy life.</s>
-                <s>Her memory <w type="verb" subtype="beVerb">is</w> still greatly respected for her
-                    virtues and talents, in Lancashire, her native count v.</s>
+                <s>Her name <w type="verb" subtype="beVerb">was</w>
+                    <name who="Lucy">Catherine</name>, and not <name who="Lucy">Lucy</name>.</s>
+                <s>Her brother <name who="Edward">Edward</name>
+                    <w type="verb" subtype="action">dying</w>
+                    <w type="descLang" subtype="adjective">young</w>, she, with her two sisters, <w
+                        type="verb" subtype="action">became</w> her father's co-heiresses; at
+                    seventeen she <w type="verb" subtype="action">married</w> a <w type="descLang"
+                        subtype="adjective">gallant</w>
+                    <w type="descLang" subtype="adjective">young</w> nobleman, the son of <name
+                        who="LordWiddrington">Lord Widdrington</name>, with whom she <w type="verb"
+                        subtype="action">led</w> a <w type="descLang" subtype="adverb">most</w>
+                    <w type="descLang" subtype="adjective">happy</w> life.</s>
+                <s>Her memory <w type="verb" subtype="beVerb">is</w>
+                    <w type="descLang" subtype="adverb">still</w>
+                    <w type="descLang" subtype="adjective">greatly</w>
+                    <w type="verb" subtype="action">respected</w> for her virtues and talents, in
+                    Lancashire, her <w type="descLang" subtype="adjective">native</w> county.</s>
             </p>
         </back>
     </text>
