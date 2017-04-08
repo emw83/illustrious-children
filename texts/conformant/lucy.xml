@@ -1,11 +1,35 @@
 <?xml-model href="../rnc_ill-kids.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
-    <teiHeader/>
-    <text xml:id="LadyLucysPetition">
-        <front>
-            <docAuthor>Agnes Strickland</docAuthor>
-            <docTitle>Lady Lucy's Petition to the Queen</docTitle>
-            <profileDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Historical Tales of Illustrious British Children</title>
+                <author>Agnes Strickland</author>
+                <respStmt>
+                    <name>Emily Weiss</name>
+                    <resp>data entry, proof correction, and conversion to TEI-conformant markup</resp>
+                    <name>Katherine Mentecki</name>
+                    <resp>data entry, proof correction, and conversion to TEI-conformant markup</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    Originally published in 1833 by Nathaniel Hailes in London. Retrieved from Google Books using Calibre under a _____license. Proofed and converted to TEI conformant markup by Emily Weiss and Katherine Mentecki. Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Strickland, Agnes. Historical Tales of Illustrious British Children. London: Nathaniel Hailes, 1833. Print.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>
+                We did markup on names, descriptive language, and verbs to find connections between male and female characters and their treatment within the texts.
+            </p>
+        </encodingDesc>
+        <profileDesc>
+            <particDesc>
+                <!-- List of People -->
+                <!--author-->
                 <person xml:id="Lucy" sex="female">
                     <persName>Lady Lucy</persName>
                 </person>
@@ -39,7 +63,14 @@
                 <person xml:id="LordWiddrington" sex="male">
                     <persName>Lord Widdrington</persName>
                 </person>
-            </profileDesc>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc/>
+    </teiHeader>
+    <text xml:id="LadyLucysPetition">
+        <front>
+            <docAuthor>Agnes Strickland</docAuthor>
+            <docTitle>Lady Lucy's Petition to the Queen</docTitle>
         </front>
         <body xml:id="LadyLucysPetitionStory">
             <title>Lady Lucy's Petition to the Queen</title>

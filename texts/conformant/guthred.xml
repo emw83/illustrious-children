@@ -1,11 +1,34 @@
-<?xml-model href="rnc_ill-kids.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../rnc_ill-kids.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
-    <teiHeader/>
-    <text xml:id="GuthredsTale">
-        <front>
-            <docAuthor>Agnes Strickland</docAuthor>
-            <docTitle>Historical Tales of Illustrious Children: Guthred's Tale</docTitle>
-            <profileDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Historical Tales of Illustrious British Children</title>
+                <author>Agnes Strickland</author>
+                <respStmt>
+                    <name>Emily Weiss</name>
+                    <resp>data entry, proof correction, and conversion to TEI-conformant markup</resp>
+                    <name>Katherine Mentecki</name>
+                    <resp>data entry, proof correction, and conversion to TEI-conformant markup</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    Originally published in 1833 by Nathaniel Hailes in London. Retrieved from Google Books using Calibre under a _____license. Proofed and converted to TEI conformant markup by Emily Weiss and Katherine Mentecki. Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Strickland, Agnes. Historical Tales of Illustrious British Children. London: Nathaniel Hailes, 1833. Print.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>
+                We did markup on names, descriptive language, and verbs to find connections between male and female characters and their treatment within the texts.
+            </p>
+        </encodingDesc>
+        <profileDesc>
+            <particDesc>
                 <!-- List of People -->
                 <!--author-->
                 <person xml:id="Guthred" sex="male">
@@ -41,7 +64,14 @@
                 <person xml:id="SaxonChronicler" sex="unknown">
                     <persName>Saxon Chronicler</persName>
                 </person>
-            </profileDesc>
+            </particDesc>
+        </profileDesc>
+        <revisionDesc/>
+    </teiHeader>
+    <text xml:id="GuthredsTale">
+        <front>
+            <docAuthor>Agnes Strickland</docAuthor>
+            <docTitle>Historical Tales of Illustrious Children: Guthred's Tale</docTitle>
         </front>
         <body xml:id="GuthredsTaleStory">
             <title>Guthred's Tale</title>
@@ -2112,13 +2142,16 @@
                     <name who="Ricsig">Ricsig</name> (for it <w type="verb" subtype="beVerb">was</w>
                     no other).</s>
                 <s><q who="Ricsig">I <w type="verb" subtype="action">remember</w> thee now by the
-                    token of that <w type="descLang" subtype="adjective">shrill</w> voice of thine, and for the sake of the <w type="descLang" subtype="adjective">excellent</w> <w type="descLang" subtype="adjective">plum</w>
-                        porridge and metheglin whereof thou <w type="verb" subtype="action">speak
-                            est</w>, the like of which I <w type="verb" subtype="link">have</w> not
-                            <w type="verb" subtype="action">tasted</w> since, I <w type="verb"
-                            subtype="link">will</w> now <w type="verb" subtype="action">stand</w>
-                        thy friend, and <w type="verb" subtype="action">help</w> thee and thy son to
-                        a place whence thou <w type="verb" subtype="link">mayest</w>
+                        token of that <w type="descLang" subtype="adjective">shrill</w> voice of
+                        thine, and for the sake of the <w type="descLang" subtype="adjective"
+                            >excellent</w>
+                        <w type="descLang" subtype="adjective">plum</w> porridge and metheglin
+                        whereof thou <w type="verb" subtype="action">speak est</w>, the like of
+                        which I <w type="verb" subtype="link">have</w> not <w type="verb"
+                            subtype="action">tasted</w> since, I <w type="verb" subtype="link"
+                            >will</w> now <w type="verb" subtype="action">stand</w> thy friend, and
+                            <w type="verb" subtype="action">help</w> thee and thy son to a place
+                        whence thou <w type="verb" subtype="link">mayest</w>
                         <w type="verb" subtype="action">see</w> the bishop, and <w type="verb"
                             subtype="action">hear</w> him <w type="verb" subtype="action"
                         >speak</w>.</q>
@@ -2126,74 +2159,149 @@
             </p>
             <p>
                 <s><name who="Winifred">Winifred</name>
-                    <w type="verb" subtype="beVerb">was</w> <w type="descLang" subtype="adverb">profuse</w> in her acknowledgments to the
-                    holda; but, with the pride that <w type="verb" subtype="action">formed</w> a <w type="descLang" subtype="adjective">prominent</w> part of her character, she
-                    <w type="verb" subtype="action">thought</w> <w type="descLang" subtype="adverb">proper</w> to <w type="verb" subtype="action">inform</w> him that the <w type="descLang" subtype="adjective">young</w> man <w type="verb" subtype="beVerb"
-                        >was</w> not her son, but her thrall; <q who="Winifred">The <w type="descLang" subtype="adjective">very</w> lad,</q>
-                    <w type="verb" subtype="action">pursued</w> she, <q who="Winifred">whom you <w type="verb" subtype="action">gave</w> to my <w type="descLang" subtype="adjective">poor</w> <w type="descLang" subtype="adjective">dear</w> husband, <name
-                        who="Selwood">Selwood</name>, for his <w type="descLang" subtype="adverb">carved</w> <w type="descLang" subtype="adjective">ivory</w> <w type="descLang" subtype="adjective">drinking</w>
-                    horn.</q></s>
+                    <w type="verb" subtype="beVerb">was</w>
+                    <w type="descLang" subtype="adverb">profuse</w> in her acknowledgments to the
+                    holda; but, with the pride that <w type="verb" subtype="action">formed</w> a <w
+                        type="descLang" subtype="adjective">prominent</w> part of her character, she
+                        <w type="verb" subtype="action">thought</w>
+                    <w type="descLang" subtype="adverb">proper</w> to <w type="verb"
+                        subtype="action">inform</w> him that the <w type="descLang"
+                        subtype="adjective">young</w> man <w type="verb" subtype="beVerb">was</w>
+                    not her son, but her thrall; <q who="Winifred">The <w type="descLang"
+                            subtype="adjective">very</w> lad,</q>
+                    <w type="verb" subtype="action">pursued</w> she, <q who="Winifred">whom you <w
+                            type="verb" subtype="action">gave</w> to my <w type="descLang"
+                            subtype="adjective">poor</w>
+                        <w type="descLang" subtype="adjective">dear</w> husband, <name who="Selwood"
+                            >Selwood</name>, for his <w type="descLang" subtype="adverb">carved</w>
+                        <w type="descLang" subtype="adjective">ivory</w>
+                        <w type="descLang" subtype="adjective">drinking</w> horn.</q></s>
             </p>
             <p>
-                <s>Notwithstanding all <name who="Guthred">Guthred</name>'s magnanimity and <w type="descLang" subtype="adjective">acquired</w>
-                    philosophy, he <w type="verb" subtype="action">felt</w> <w type="descLang" subtype="adjective">mortified</w> at the feeling of littleness in his mistress,
-                    which <w type="verb" subtype="action">prompted</w> her to <w type="verb" subtype="action">make</w> this communication to the holda; and he <w type="verb" subtype="action">thought</w> from
-                    the <w type="descLang" subtype="adjective">eager</w> manner in which his <w type="descLang" subtype="adjective">former</w> master <w type="verb" subtype="action">turned</w> about and <w type="verb" subtype="action">scrutinized</w> him
+                <s>Notwithstanding all <name who="Guthred">Guthred</name>'s magnanimity and <w
+                        type="descLang" subtype="adjective">acquired</w> philosophy, he <w
+                        type="verb" subtype="action">felt</w>
+                    <w type="descLang" subtype="adjective">mortified</w> at the feeling of
+                    littleness in his mistress, which <w type="verb" subtype="action">prompted</w>
+                    her to <w type="verb" subtype="action">make</w> this communication to the holda;
+                    and he <w type="verb" subtype="action">thought</w> from the <w type="descLang"
+                        subtype="adjective">eager</w> manner in which his <w type="descLang"
+                        subtype="adjective">former</w> master <w type="verb" subtype="action"
+                        >turned</w> about and <w type="verb" subtype="action">scrutinized</w> him
                     from head to foot, that it <w type="verb" subtype="beVerb">was</w> more than
-                    probable he <w type="verb" subtype="link">might</w> <w type="verb" subtype="action">think</w> <w type="descLang" subtype="adverb">proper</w> to <w type="verb" subtype="action">reclaim</w> him.</s>
-                <s>But <name who="Ricsig">Ricsig</name>, <w type="verb" subtype="action">clapping</w> his hands together, <w type="verb" subtype="action">shouted</w> in a
-                    <w type="descLang" subtype="adjective">loud</w> voice, <q who="Ricsig">He <w type="verb" subtype="beVerb">is</w> <w type="verb" subtype="action">found</w>,
-                        Bishop! the <w type="descLang" subtype="adjective">lost</w> son of Hardacanute, the last of the <w type="descLang" subtype="adjective">god-like</w> race of Odin,
-                        the king whom you <w type="verb" subtype="link">have</w> <w type="verb" subtype="action">named</w> and we <w type="verb" subtype="link">have</w> <w type="verb" subtype="action">chosen</w>, <w type="verb"
-                            subtype="beVerb">is</w> here! <w type="verb" subtype="action">Behold</w>, ye <w type="descLang" subtype="adjective">valiant</w> Danes, the <w type="descLang" subtype="adjective">dark</w> eyes
-                        and <w type="descLang" subtype="adjective">raven</w> hair of the <w type="descLang" subtype="adjective">royal</w> line of the 'king of men,' whose descendants
-                        alone <w type="verb" subtype="beVerb">are</w> <w type="verb" subtype="action">meet</w> to <w type="verb" subtype="action">sway</w> a <w type="descLang" subtype="adjective">Danish</w> sceptre.
+                    probable he <w type="verb" subtype="link">might</w>
+                    <w type="verb" subtype="action">think</w>
+                    <w type="descLang" subtype="adverb">proper</w> to <w type="verb"
+                        subtype="action">reclaim</w> him.</s>
+                <s>But <name who="Ricsig">Ricsig</name>, <w type="verb" subtype="action"
+                        >clapping</w> his hands together, <w type="verb" subtype="action"
+                        >shouted</w> in a <w type="descLang" subtype="adjective">loud</w> voice, <q
+                        who="Ricsig">He <w type="verb" subtype="beVerb">is</w>
+                        <w type="verb" subtype="action">found</w>, Bishop! the <w type="descLang"
+                            subtype="adjective">lost</w> son of Hardacanute, the last of the <w
+                            type="descLang" subtype="adjective">god-like</w> race of Odin, the king
+                        whom you <w type="verb" subtype="link">have</w>
+                        <w type="verb" subtype="action">named</w> and we <w type="verb"
+                            subtype="link">have</w>
+                        <w type="verb" subtype="action">chosen</w>, <w type="verb" subtype="beVerb"
+                            >is</w> here! <w type="verb" subtype="action">Behold</w>, ye <w
+                            type="descLang" subtype="adjective">valiant</w> Danes, the <w
+                            type="descLang" subtype="adjective">dark</w> eyes and <w type="descLang"
+                            subtype="adjective">raven</w> hair of the <w type="descLang"
+                            subtype="adjective">royal</w> line of the 'king of men,' whose
+                        descendants alone <w type="verb" subtype="beVerb">are</w>
+                        <w type="verb" subtype="action">meet</w> to <w type="verb" subtype="action"
+                            >sway</w> a <w type="descLang" subtype="adjective">Danish</w> sceptre.
                         Lo! <name who="Ricsig">Ricsig</name>, the son of Kingvar, <w type="verb"
-                            subtype="beVerb">is</w> the first to <w type="verb" subtype="action">bow</w> the knee before him in
-                        homage.</q></s>
+                            subtype="beVerb">is</w> the first to <w type="verb" subtype="action"
+                            >bow</w> the knee before him in homage.</q></s>
             </p>
             <p>
-                <s>The bishop of Lindisfairne, at these words, <w type="verb" subtype="action">descended</w> from the <w type="descLang" subtype="adjective">rude</w> <w type="descLang" subtype="adjective">episcopal</w>
-                    throne, which<w type="verb" subtype="link">had</w><w type="verb"
-                        subtype="beVerb">been</w> <w type="verb" subtype="action">raised</w> for him on the <w type="descLang" subtype="adjective">green</w> turf, and, <w type="verb" subtype="action">revealing</w>
-                    to the <w type="verb" subtype="action">astonished</w> eyes of <name who="Guthred">Guthred</name> the <w type="descLang" subtype="adverb">dearly</w> <w type="descLang" subtype="adjective">loved</w>
-                    and <w type="descLang" subtype="adjective">unforgotten</w> features of his friend and instructor, <name who="Eadred"
-                        >Eadred</name>, <w type="verb" subtype="action">folded</w> him to his bosom for a moment; then, amidst the
-                    <w type="descLang" subtype="adjective">mingling</w> acclamations of Saxons and Danes, <w type="verb" subtype="action">conducted</w> him to the summit of the
-                    hill of Oswindune, where the <w type="descLang" subtype="adjective">royal</w> inaugurations of the <w type="descLang" subtype="adjective">Northumbrian</w> monarchs <w
-                        type="descLang" subtype="adverb">always</w> <w type="verb" subtype="action">took</w> place, and <w type="verb" subtype="action">pouring</w> the
-                    <w type="descLang" subtype="adjective">consecrated</w> oil on his head, <w type="verb" subtype="action">exchanged</w> the <w type="descLang" subtype="adjective">iron</w> badge of thraldom for the <w type="descLang" subtype="adjective">golden</w>
-                    bracelets and circlet of royalty, and <w type="verb" subtype="action">presented</w> him to the <w type="descLang" subtype="adjective">mixed</w> multitude of
-                    <w type="descLang" subtype="adjective">Northumbrian</w> Danes and Saxons as their king.</s>
+                <s>The bishop of Lindisfairne, at these words, <w type="verb" subtype="action"
+                        >descended</w> from the <w type="descLang" subtype="adjective">rude</w>
+                    <w type="descLang" subtype="adjective">episcopal</w> throne, which<w type="verb"
+                        subtype="link">had</w><w type="verb" subtype="beVerb">been</w>
+                    <w type="verb" subtype="action">raised</w> for him on the <w type="descLang"
+                        subtype="adjective">green</w> turf, and, <w type="verb" subtype="action"
+                        >revealing</w> to the <w type="verb" subtype="action">astonished</w> eyes of
+                        <name who="Guthred">Guthred</name> the <w type="descLang" subtype="adverb"
+                        >dearly</w>
+                    <w type="descLang" subtype="adjective">loved</w> and <w type="descLang"
+                        subtype="adjective">unforgotten</w> features of his friend and instructor,
+                        <name who="Eadred">Eadred</name>, <w type="verb" subtype="action">folded</w>
+                    him to his bosom for a moment; then, amidst the <w type="descLang"
+                        subtype="adjective">mingling</w> acclamations of Saxons and Danes, <w
+                        type="verb" subtype="action">conducted</w> him to the summit of the hill of
+                    Oswindune, where the <w type="descLang" subtype="adjective">royal</w>
+                    inaugurations of the <w type="descLang" subtype="adjective">Northumbrian</w>
+                    monarchs <w type="descLang" subtype="adverb">always</w>
+                    <w type="verb" subtype="action">took</w> place, and <w type="verb"
+                        subtype="action">pouring</w> the <w type="descLang" subtype="adjective"
+                        >consecrated</w> oil on his head, <w type="verb" subtype="action"
+                        >exchanged</w> the <w type="descLang" subtype="adjective">iron</w> badge of
+                    thraldom for the <w type="descLang" subtype="adjective">golden</w> bracelets and
+                    circlet of royalty, and <w type="verb" subtype="action">presented</w> him to the
+                        <w type="descLang" subtype="adjective">mixed</w> multitude of <w
+                        type="descLang" subtype="adjective">Northumbrian</w> Danes and Saxons as
+                    their king.</s>
             </p>
             <p>
-                <s>To the <w type="descLang" subtype="adjective">enfranchised</w> slave, so <w type="descLang" subtype="adverb">lately</w> the sport of <w type="descLang" subtype="adjective">adverse</w> fortune, this <w type="descLang" subtype="adjective">sudden</w>
-                    elevation <w type="verb" subtype="action">appeared</w> like a <w type="descLang" subtype="adjective">strange</w> dream; but when he <w type="verb"
-                        subtype="beVerb">was</w> <w type="verb" subtype="action">admitted</w> into the presence of the <w type="descLang" subtype="adjective">royal</w> Alfred, to
-                    <w type="verb" subtype="action">swear</w> the oath of fealty to him as his <w type="descLang" subtype="adjective">liege</w> lord, he <w type="verb" subtype="action">learned</w> from his lips that
-                        he <w type="verb" subtype="link">had</w> <w type="verb" subtype="beVerb"
-                            >been</w> <w type="descLang" subtype="adverb">long</w> <w type="verb" subtype="action">marked</w> by him to <w type="verb" subtype="action">fill</w> the <w type="descLang" subtype="adjective">vassal</w> throne of Northumbria on the
-                    recommendation of his friend and counsellor, the bishop of Lindisfairne, who <w
-                        type="verb" subtype="link">had</w> educated and (unknown to himself) <w type="verb" subtype="action">fitted</w>
-                    him for the discharge of <w type="descLang" subtype="adjective">royal</w> duties, while he <w type="verb" subtype="action">wore</w> the <w type="descLang" subtype="adjective">iron</w> badge of
-                    servitude.</s>
-                <s>Nor <w type="verb" subtype="action">did</w> <name who="Guthred">Guthred</name>, when <w type="verb" subtype="action">intrusted</w> with the <w type="descLang" subtype="adjective">awful</w>
-                    responsibility of <w type="descLang" subtype="adjective">despotic</w> power, <w type="verb" subtype="action">prove</w> <w type="descLang" subtype="adjective">unworthy</w> of the confidence <w type="verb" subtype="action">reposed</w> in
-                    him.</s>
-                <s>The <w type="descLang" subtype="adjective">illustrious</w> Alfred <w type="verb" subtype="action">found</w> in him a <w type="descLang" subtype="adjective">faithful</w> friend, and an <w type="descLang" subtype="adjective">able</w> coadjutor in
-                    <w type="verb" subtype="action">establishing</w> equitable laws, <w type="verb" subtype="action">reforming</w> abuses, and <w type="verb" subtype="action">diffusing</w> the pure light of
-                    Christianity through a <w type="descLang" subtype="adjective">semi-barbarous</w> land, and <w type="verb" subtype="action">introducing</w> the refinements and
-                    virtues of civilization among the <w type="descLang" subtype="adjective">rugged</w> race over, which he <w type="verb" subtype="action">reigned</w>, in peace
-                    and prosperity, during <w type="descLang" subtype="adverb">many</w> years.</s>
+                <s>To the <w type="descLang" subtype="adjective">enfranchised</w> slave, so <w
+                        type="descLang" subtype="adverb">lately</w> the sport of <w type="descLang"
+                        subtype="adjective">adverse</w> fortune, this <w type="descLang"
+                        subtype="adjective">sudden</w> elevation <w type="verb" subtype="action"
+                        >appeared</w> like a <w type="descLang" subtype="adjective">strange</w>
+                    dream; but when he <w type="verb" subtype="beVerb">was</w>
+                    <w type="verb" subtype="action">admitted</w> into the presence of the <w
+                        type="descLang" subtype="adjective">royal</w> Alfred, to <w type="verb"
+                        subtype="action">swear</w> the oath of fealty to him as his <w
+                        type="descLang" subtype="adjective">liege</w> lord, he <w type="verb"
+                        subtype="action">learned</w> from his lips that he <w type="verb"
+                        subtype="link">had</w>
+                    <w type="verb" subtype="beVerb">been</w>
+                    <w type="descLang" subtype="adverb">long</w>
+                    <w type="verb" subtype="action">marked</w> by him to <w type="verb"
+                        subtype="action">fill</w> the <w type="descLang" subtype="adjective"
+                        >vassal</w> throne of Northumbria on the recommendation of his friend and
+                    counsellor, the bishop of Lindisfairne, who <w type="verb" subtype="link"
+                        >had</w> educated and (unknown to himself) <w type="verb" subtype="action"
+                        >fitted</w> him for the discharge of <w type="descLang" subtype="adjective"
+                        >royal</w> duties, while he <w type="verb" subtype="action">wore</w> the <w
+                        type="descLang" subtype="adjective">iron</w> badge of servitude.</s>
+                <s>Nor <w type="verb" subtype="action">did</w>
+                    <name who="Guthred">Guthred</name>, when <w type="verb" subtype="action"
+                        >intrusted</w> with the <w type="descLang" subtype="adjective">awful</w>
+                    responsibility of <w type="descLang" subtype="adjective">despotic</w> power, <w
+                        type="verb" subtype="action">prove</w>
+                    <w type="descLang" subtype="adjective">unworthy</w> of the confidence <w
+                        type="verb" subtype="action">reposed</w> in him.</s>
+                <s>The <w type="descLang" subtype="adjective">illustrious</w> Alfred <w type="verb"
+                        subtype="action">found</w> in him a <w type="descLang" subtype="adjective"
+                        >faithful</w> friend, and an <w type="descLang" subtype="adjective">able</w>
+                    coadjutor in <w type="verb" subtype="action">establishing</w> equitable laws, <w
+                        type="verb" subtype="action">reforming</w> abuses, and <w type="verb"
+                        subtype="action">diffusing</w> the pure light of Christianity through a <w
+                        type="descLang" subtype="adjective">semi-barbarous</w> land, and <w
+                        type="verb" subtype="action">introducing</w> the refinements and virtues of
+                    civilization among the <w type="descLang" subtype="adjective">rugged</w> race
+                    over, which he <w type="verb" subtype="action">reigned</w>, in peace and
+                    prosperity, during <w type="descLang" subtype="adverb">many</w> years.</s>
             </p>
             <p>
-                <s><name who="Guthred">Guthred</name>'s <w type="descLang" subtype="adjective">first</w> exercise of <w type="descLang" subtype="adjective">regal</w> authority <w
-                    type="verb" subtype="beVerb">was</w> to <w type="verb" subtype="action">raise</w> his friend and instructor,
-                        <name who="Eadred">Eadred</name>, to the bishopric of Durham, which he
-                    <w type="descLang" subtype="adverb">richly</w> <w type="verb" subtype="action">endowed</w>; nor <w type="verb" subtype="beVerb">was</w> he <w type="descLang" subtype="adjective">forgetful</w> of his
-                    <w type="descLang" subtype="adjective">old</w> mistress, <name who="Winifred">Winifred</name>, whom he <w type="verb" subtype="action">cherished</w> with the
-                    <w type="descLang" subtype="adjective">greatest</w> tenderness, and <w type="verb" subtype="action">watched</w> over her <w type="descLang" subtype="adjective">declining</w> years with the <w type="descLang" subtype="adjective">dutiful</w>
-                    affection of a son.</s>
+                <s><name who="Guthred">Guthred</name>'s <w type="descLang" subtype="adjective"
+                        >first</w> exercise of <w type="descLang" subtype="adjective">regal</w>
+                    authority <w type="verb" subtype="beVerb">was</w> to <w type="verb"
+                        subtype="action">raise</w> his friend and instructor, <name who="Eadred"
+                        >Eadred</name>, to the bishopric of Durham, which he <w type="descLang"
+                        subtype="adverb">richly</w>
+                    <w type="verb" subtype="action">endowed</w>; nor <w type="verb" subtype="beVerb"
+                        >was</w> he <w type="descLang" subtype="adjective">forgetful</w> of his <w
+                        type="descLang" subtype="adjective">old</w> mistress, <name who="Winifred"
+                        >Winifred</name>, whom he <w type="verb" subtype="action">cherished</w> with
+                    the <w type="descLang" subtype="adjective">greatest</w> tenderness, and <w
+                        type="verb" subtype="action">watched</w> over her <w type="descLang"
+                        subtype="adjective">declining</w> years with the <w type="descLang"
+                        subtype="adjective">dutiful</w> affection of a son.</s>
             </p>
         </body>
         <back xml:id="GuthredsTaleHist">

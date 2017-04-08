@@ -1,38 +1,68 @@
+<?xml-model href="../rnc_ill-kids.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
-    <teiHeader/>
+    <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Historical Tales of Illustrious British Children</title>
+                    <author>Agnes Strickland</author>
+                    <respStmt>
+                        <name>Emily Weiss</name>
+                        <resp>data entry, proof correction, and conversion to TEI-conformant markup</resp>
+                        <name>Katherine Mentecki</name>
+                        <resp>data entry, proof correction, and conversion to TEI-conformant markup</resp>
+                    </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                    <p>
+                        Originally published in 1833 by Nathaniel Hailes in London. Retrieved from Google Books using Calibre under a _____license. Proofed and converted to TEI conformant markup by Emily Weiss and Katherine Mentecki. Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+                    </p>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>Strickland, Agnes. Historical Tales of Illustrious British Children. London: Nathaniel Hailes, 1833. Print.</bibl>
+                </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+                <p>
+                    We did markup on names, descriptive language, and verbs to find connections between male and female characters and their treatment within the texts.
+                </p>
+            </encodingDesc>
+            <profileDesc>
+                <particDesc>
+                    <!-- List of People -->
+                    <!--author-->
+                    <person xml:id="KingEdgar" sex="male">
+                        <persName>King Edgar</persName>
+                    </person>
+                    <person xml:id="PrinceEdward" sex="male">
+                        <persName>Edward</persName>
+                    </person>
+                    <person xml:id="PrinceEthelred" sex="male">
+                        <persName>Ethelred</persName>
+                    </person>
+                    <person xml:id="QueenDowagerElfrida" sex="female">
+                        <persName>Elfrida</persName>
+                    </person>
+                    <person xml:id="ArchbishopDunstan" sex="male">
+                        <persName>Archbishop Dunstan</persName>
+                    </person>
+                    <person xml:id="ArchbishopOswald" sex="male">
+                        <persName>Archbishop Oswald</persName>
+                    </person>
+                    <person xml:id="Ethelbald" sex="male">
+                        <persName>Ethelbald</persName>
+                    </person>
+                    <person xml:id="Wulstan" sex="male">
+                        <persName>Wulstan</persName>
+                    </person>
+                </particDesc>
+            </profileDesc>
+            <revisionDesc/>
+    </teiHeader>
     <text xml:id="RoyalChaseOfWareham">
         <front>
             <docAuthor>Agnes Strickland</docAuthor>
             <docTitle>Historical Tales of Illustrious British Children: The Royal Chase of
                 Wareham</docTitle>
-            <profileDesc>
-                <!--List of People-->
-                <!--author-->
-                <person xml:id="KingEdgar">
-                    <persName>King Edgar</persName>
-                </person>
-                <person xml:id="PrinceEdward">
-                    <persName>Edward</persName>
-                </person>
-                <person xml:id="PrinceEthelred">
-                    <persName>Ethelred</persName>
-                </person>
-                <person xml:id="QueenDowagerElfrida">
-                    <persName>Elfrida</persName>
-                </person>
-                <person xml:id="ArchbishopDunstan">
-                    <persName>Archbishop Dunstan</persName>
-                </person>
-                <person xml:id="ArchbishopOswald">
-                    <persName>Archbishop Oswald</persName>
-                </person>
-                <person xml:id="Ethelbald">
-                    <persName>Ethelbald</persName>
-                </person>
-                <person xml:id="Wulstan">
-                    <persName>Wulstan</persName>
-                </person>
-            </profileDesc>
         </front>
         <body xml:id="RoyalChaseofWarehamStory">
             <title>The Royal Chase of Wareham</title>
@@ -282,8 +312,8 @@
                         type="descLang" subtype="adjective">frequent</w>
                     <w type="verb" subtype="action">repetition</w> the student <w type="verb"
                         subtype="action">committed</w> them to memory, or, according to the <w
-                        type="descLang" subtype="adjective">ancient</w> phrase, <q>"got them by
-                        heart."</q></s>
+                        type="descLang" subtype="adjective">ancient</w> phrase, <q who="unknown">got them by
+                        heart.</q></s>
             </p>
             <p>
                 <s>These impositions <w type="verb" subtype="beVerb">were</w>
@@ -352,35 +382,34 @@
                         type="descLang" subtype="adjective">incessant</w>
                     <w type="verb" subtype="action">pining</w> for the <w type="descLang"
                         subtype="adjective">beloved</w> scenes and companion of his childhood, <w
-                        type="verb" subtype="linking">produced</w> a visible change in his
+                        type="verb" subtype="link">produced</w> a visible change in his
                     health.</s>
                 <s>His <w type="descLang" subtype="adjective">fading</w> cheek, <w type="descLang"
                         subtype="adjective">heavy</w> eye, and <w type="descLang"
                         subtype="adjective">languid</w> appearance, at length <w type="verb"
-                        subtype="linking">attracted</w> the attention of <name
+                        subtype="link">attracted</w> the attention of <name
                         who="ArchbishopDunstan">Dunstan</name>, who, in common with most
-                    ecclesiastics of that period, <w type="verb" subtype="linking">possessed</w> a
+                    ecclesiastics of that period, <w type="verb" subtype="link">possessed</w> a
                         <w type="descLang" subtype="adjective">considerable</w> knowledge of physic,
                     and <w type="verb" subtype="beVerb">was</w>
                     <w type="descLang" subtype="adjective">desirous</w> of <w type="verb"
                         subtype="action">administering</w> to his royal pupil a medicine which he <w
-                        type="verb" subtype="linking">considered</w> might be <w type="descLang"
+                        type="verb" subtype="link">considered</w> might be <w type="descLang"
                         subtype="adjective">efficacious</w> to him.</s>
             </p>
             <p>
-                <q>
-                    <s>"It <w type="verb" subtype="beVerb">is</w> of no avail," <w type="verb"
+                <s>
+                    <q who="PrinceEdward">"It <w type="verb" subtype="beVerb">is</w> of no avail," <w type="verb"
                             subtype="action">said</w>
                         <name who="PrinceEdward">Edward</name>, <w type="verb" subtype="action"
                             >rejecting</w> as he <w type="verb" subtype="action">spoke</w> the <w
                             type="descLang" subtype="adjective">proffered</w> cup, "it <w
                             type="verb" subtype="beVerb">is</w> not a <w type="descLang"
                             subtype="adjective">nauseous</w> compound of drugs that will <w
-                            type="verb" subtype="action">restore</w> me to health.</s>
+                            type="verb" subtype="action">restore</w> me to health.</q></s>
                     <s>It <w type="verb" subtype="beVerb">is</w> the devertisements, the
                         relaxations, and the companionships of my age that I <w type="verb"
                             subtype="action">require</w>."</s>
-                </q>
             </p>
             <p>
                 <s><q>"<w type="verb" subtype="action">Know</w> you not, Oh! King, that as the lord
