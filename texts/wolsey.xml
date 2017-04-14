@@ -2050,8 +2050,8 @@
         </body>
         <back xml:id="WolseyBridgeSummary">
             <title>Historical Summary</title>
-            <p><s>Thomas Wolsey <w type="verb" subtype="beVerb">was</w> the only son of Thomas and
-                    Joan Wolsey, and <w type="verb" subtype="beVerb">was</w> born at Ipswich, in
+            <p><s><name who="ThomasWolsey">Thomas Wolsey</name> <w type="verb" subtype="beVerb">was</w> the only son of <name who="Thomas">Thomas</name> and
+                    <name who="JoanWolsey">Joan Wolsey</name>, and <w type="verb" subtype="beVerb">was</w> born at Ipswich, in
                     August, 1471.</s> <s>His father <w type="verb" subtype="beVerb">was</w> a butcher
                 and grazier.</s> <s>The house in which Wolsey <w type="verb" subtype="beVerb">was</w> born
                     <w type="verb" subtype="beVerb">is</w> still shown, and is situated in the south
@@ -2059,14 +2059,14 @@
                 shambles, or butchery, which lately stood upon the Cornhill, at Ipswich, <w
                     type="verb" subtype="beVerb">was</w> a stall, or stand, with the initials of
                 Wolsey's father carved thereon, and some other insignia which tradition points out
-                as belonging to him.</s> <s>Wolsey's father, though a man of low trade, <w type="verb"
+                as belonging to him.</s> <s><name who="ThomasWolsey">Wolsey</name>'s father, though a man of low trade, <w type="verb"
                     subtype="beVerb">was</w> in opulent circumstances, and connected with some of
                 the most respectable families at Ipswich, either by descent or marriage.</s> <s>His <w
                     type="verb" subtype="link">will</w> is preserved, wherein it appears that he
-                left his lands to his wife Joan, and the rest of his wealth divided between his wife
+                left his lands to his wife <name who="JoanWolsey">Joan</name>, and the rest of his wealth divided between his wife
                 and son, reserving however a handsome bequest to the church of St. Nicholas and the
                 poor of the parish.</s></p>
-            <p><s>There are floating traditions in Suffolk, which intimate that the butcher Wolsey <w
+            <p><s>There are floating traditions in Suffolk, which intimate that the butcher <name who="ThomasWolsey">Wolsey</name> <w
                     type="verb" subtype="beVerb">was</w> desirous that his son <w type="verb"
                     subtype="link">should</w> follow his own trade, and in pursuance of this plan,
                 he <w type="verb" subtype="link">made</w> him assist <w type="verb" subtype="beVerb"
@@ -2082,7 +2082,7 @@
                 then aimed at, he built a bridge at Reydon, which <w type="verb" subtype="beVerb"
                     >is</w> to this day called Wolsey Bridge.</s></p>
             <p><s>It <w type="verb" subtype="beVerb">is</w> a singular thing, that although forced to
-                join at times the inconsistent occupations of a drover and student, that Wolsey <w
+                join at times the inconsistent occupations of a drover and student, that <name who="Thomas">Wolsey</name> <w
                     type="verb" subtype="beVerb">was</w> admitted as a bachelor of arts at Magdalen
                 College at the age of fourteen, from which extraordinary circumstance he was called
                 the Boy Bachelor.</s> <s>It must <w type="verb" subtype="beVerb">be</w> observed, that
@@ -2090,10 +2090,10 @@
                 earlier in former times than <w type="verb" subtype="beVerb">is</w> usual at this
                 era; but to take a degree at the age of fourteen, justly excited universal
                 astonishment throughout the kingdom, in all men who <w type="verb" subtype="link"
-                    >were</w> devoted to, or interested in, learning; and Wolsey was marked as a
+                    >were</w> devoted to, or interested in, learning; and <name who="Thomas">Wolsey</name> was marked as a
                 character likely to rise in the church, which <w type="verb" subtype="beVerb"
                     >was</w> then the only path to high distinction. We must not forget to note
-                here, that <w type="descLang" subtype="adjective">young</w> Wolsey had <w
+                here, that <w type="descLang" subtype="adjective">young</w> <name who="Thomas">Wolsey</name> had <w
                     type="verb" subtype="beVerb">been</w> as promising at Ipswich school as he <w
                     type="verb" subtype="beVerb">was</w> as a student at Magdalen College; so says
                 Lloyd, one of his biographers.</s> <s>The first step to his subsequent greatness in the
@@ -2104,11 +2104,11 @@
                 appreciate them.</s> <s>There were, as matters stood in the middle ages, two roads in the
                 church to great distinction: one was, for a leraned priest to practise great
                 austerity and sanctity, so that he <w type="verb" subtype="beVerb">was</w>
-                considered a saint and revered by all men; and the other, tr devote himself
+                considered a saint and revered by all men; and the other, to devote himself
                 regularly to business as a statesman, and govern church and state as prime minister,
                 which <w type="verb" subtype="beVerb">was</w> done in England by whoever held the
                 office of lord chancellor.</s> <s>The latter path <w type="verb" subtype="beVerb">was</w>
-                chosen by Wolsey, who <w type="verb" subtype="link">had</w> a particular inclination
+                chosen by <name who="Thomas">Wolsey</name>, who <w type="verb" subtype="link">had</w> a particular inclination
                 to a court life, and declared, that <q who="Thomas">"if he <w type="verb" subtype="link"
                         >could</w> set one foot in the court, he <w type="verb" subtype="link"
                         >would</w> soon introduce his whole body."</q></s></p>
@@ -2121,17 +2121,17 @@
                     type="verb" subtype="link">were</w> so great that a journey from Ipswich to
                 London took at least a week, and even in the memory of man, a day and night <w
                     type="verb" subtype="beVerb">was</w> spent on the road when travelling by a
-                stage coach.</s> <s>Therefore, when Wolsey presented himself before Henry the Seventh at
+                stage coach.</s> <s>Therefore, when <name who="Thomas">Wolsey</name> presented himself before Henry the Seventh at
                 the end of three days, that monarch naturally supposed that his envoy <w type="verb"
                     subtype="link">had</w> not yet set out, but <w type="verb" subtype="link"
                     >had</w> returned for fresh instructions, and he began to reproach him for his
-                dilatoriness, when, to his astonishment, Wolsey declared that he <w type="verb"
+                dilatoriness, when, to his astonishment, <name who="Thomas">Wolsey</name> declared that he <w type="verb"
                     subtype="link">had</w> actually <w type="verb" subtype="beVerb">been</w> at
                 Bruges, and performed his mission successfully.</s> <s><q who="KingHenry">Ay, answered the king, but
                     upon farther deliberation, finding that something <w type="verb" subtype="link"
                         >had</w>
                     <w type="verb" subtype="beVerb">been</w> omitted in your instructions, I
-                    despatched a messenger after you with fuller powers.</q></s> <s>To which Wolsey replied,
+                    despatched a messenger after you with fuller powers.</q></s> <s>To which <name who="Thomas">Wolsey</name> replied,
                     <q who="Thomas">that he <w type="verb" subtype="link">had</w> indeed met the messenger on his
                     return, and on communicating with him, found that he <w type="verb"
                         subtype="link">had</w> anticipated the view that Henry <w type="verb"
@@ -2160,7 +2160,7 @@
                 the world, even at the Popedom; but his intrigues to reach this pinnacle of a
                 churchman's ambition, lured him to such imprudent steps as caused the downfall of
                 his mighty power, and a few weeks after he died of grief at Leicester Abbey.</s></p>
-            <p><s>The munificent public works executed by Wolsey, both as prime minister and from his
+            <p><s>The munificent public works executed by <name who="Thomas">Wolsey</name>, both as prime minister and from his
                 own private revenue, are greater perhaps than any subject ever performed.</s> <s>He
                 reendowed and reformed his own university of Oxford, with such magnificence, that he
                     <w type="verb" subtype="beVerb">is</w> almost considered as its founder,
@@ -2179,11 +2179,11 @@
                 to children for the attainment of knowledge: who, after such an example, need <w
                     type="verb" subtype="beVerb">be</w> ashamed of devoting their talents to writing
                 children's books!</s></p>
-            <p><s>This sketch of Wolsey has not shown the dark side of his character, which <w
+            <p><s>This sketch of <name who="Thomas">Wolsey</name> has not shown the dark side of his character, which <w
                     type="verb" subtype="beVerb">was</w> deformed with many faults, and some crimes.</s>
                 <s>Shakspeare has summed up the account of both good and ill, with such skill that
                 volumes cannot impress upon the youthful mind a more accurate comprehension of
-                Wolsey's character, than that given in the dialogue between Catherine of Arragon,
+                <name who="Thomas">Wolsey</name>'s character, than that given in the dialogue between Catherine of Arragon,
                 Henry the Eighth's divorced queen, and Griffith, her chamberlain.</s></p>
             <p><s>CATHERINE.</s></p>
             <p><s>Didst thou not tell me, Griffith, as thou led'st me, That the great child of honour,
