@@ -1,4 +1,5 @@
-<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../schema/rnc_ill-kids.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI>
     <teiHeader>
         <fileDesc>
