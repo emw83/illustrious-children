@@ -82,7 +82,7 @@
                 <person xml:id="ArchbishopOfCanterbury" sex="male">
                     <persName>Archbishop of Canterbury</persName>
                 </person>
-                <person xml:id="Cresacre" sex="unknown">
+                <person xml:id="Cresacre" sex="male">
                     <persName>Cresacre More</persName>
                 </person>
             </particDesc>
@@ -555,42 +555,42 @@
         </body>
         <back xml:id="TheJudgementOfSirThomasMoreSummary">
             <title>Historical Summary</title>
-            <p><s>Sir Thomas More <w type="verb" subtype="beVerb">was</w> the only son of Sir John More, a judge of the king's bench, and
+            <p><s><name who="SirThomasMore">Sir Thomas More</name> <w type="verb" subtype="beVerb">was</w> the only son of Sir John More, a judge of the king's bench, and
             <w type="verb" subtype="beVerb">was</w> born in Milk Street, London, 1480.</s> <s>At a very early period of his life he gave such
                 indications of the talents for which he <w type="verb" subtype="beVerb">was</w> conspicuous, that Cardinal Morton<gloss>This excellent prelate has already
                     been introduced to the juvenile reader, in a preceding tale, under the name of Dr.
                     Morton, Bishop of Ely.</gloss>,
-            Archbishop of Canterbury, in whose household he <w type="verb" subtype="beVerb">was</w> placed, prophetically remarked,
+            <name who="ArchbishopOfCanterbury">Archbishop of Canterbury</name>, in whose household he <w type="verb" subtype="beVerb">was</w> placed, prophetically remarked,
                 <q who="ArchbishopOfCanterbury">"This child, here waiting at table, whosoever shall live to see it, will prove a
                 marvellous man!"</q></s> <s>The young reader must note from this anecdote the peculiar
-            manners of those days.</s> <s>Sir Thomas More <w type="verb" subtype="beVerb">was</w> then a judge's son, and yet he <w type="verb" subtype="beVerb">was</w> servitor
+            manners of those days.</s> <s><name who="SirThomasMore">Sir Thomas More</name> <w type="verb" subtype="beVerb">was</w> then a judge's son, and yet he <w type="verb" subtype="beVerb">was</w> servitor
             at the cardinal's table.</s> <s>In ancient times, the tyro, either in arms or learning, let his
             birth or rank in life <w type="verb" subtype="beVerb">be</w> what it might, during his noviciate, ever waited on his elders,
             and supposed betters in learning or wisdom; and even at the present day in schools and
             establishments of monastic institution, as Eton, Winchester, or Westminster, some faint
             traces may still <w type="verb" subtype="beVerb">be</w> discovered of this antique system, which has now degenerated into
             the capricious and irregular system of fagging.</s></p>
-            <p><s>Sir Thomas More greatly distinguished himself at Oxford, after which he entered the
+            <p><s><name who="SirThomasMore">Sir Thomas More</name> greatly <w type="verb" subtype="action">distinguished</w> himself at Oxford, after which he entered the
                 inns of court, which <w type="verb" subtype="beVerb">were</w> then, whatever they may <w type="verb" subtype="beVerb">be</w> now, the finishing schools of
                 moral worth and high attainment for the young nobles and gentry of England, whether
                 their intention <w type="verb" subtype="beVerb">was</w> to devote themselves to a legal profession, or to arms, or the
-                senate.</s> <s>Young More's destination <w type="verb" subtype="beVerb">was</w> to the former, for we find him called to the
+                senate.</s> <s>Young <name who="SirThomasMore">More</name>'s destination <w type="verb" subtype="beVerb">was</w> to the former, for we find him <w type="verb" subtype="action">called</w> to the
                 bar, when a student at Lincoln's Inn, and he followed his profession with the
-                greatest success.</s> <s>In 1502, he became a member of parliament, and distinguished
+                greatest success.</s> <s>In 1502, he became a member of parliament, and <w type="verb" subtype="action">distinguished</w>
                 himself in such a manner, in opposing a grant for the marriage of Henry the
                 Seventh's daughter to the King of Scotland, James the Fourth, that the king was
-                told, a beardless boy <w type="verb" subtype="link">had</w> prevented its being passed ; in revenge for which, Henry
+                told, a beardless boy <w type="verb" subtype="link">had</w> <w type="verb" subtype="action">prevented</w> its being passed ; in revenge for which, Henry
                 the Seventh <w type="verb" subtype="link">had</w> the meanness to send young More's father, the judge, to the Tower,
                 for some pretended offence, from whence he <w type="verb" subtype="beVerb">was</w> not set at liberty till he was
-                heavily fined.</s> <s>When Henry the Eighth ascended the throne, the fame of young More's
+                heavily fined.</s> <s>When <name who="KingHenry">Henry the Eighth </name>ascended the throne, the fame of young <name who="SirThomasMore">More</name>'s
                 abilities and eloquence having reached his ears, his majesty persuaded him to enter
                 his service, and immediately gave him the situation of master of requests, soon
                 after knighted him, and made him a member of his privy council.</s> <s>His wit and
                 universal talents so effectually gained the favour of his sovereign, that he treated
                 him with extraordinary condescension and familiarity, of which many stories are
-                told.</s> <s>In 1518, Sir Thomas became treasurer of the exchequer, and five years
+                told.</s> <s>In 1518, <name who="SirThomasMore">Sir Thomas</name> became treasurer of the exchequer, and five years
                 afterwards <w type="verb" subtype="beVerb">was</w> chosen speaker of the house of commons ; having filled several other
-                high offices with invariable credit and success, Henry selected him, in 1529, to be
+                high offices with invariable credit and success, <name who="KingHenry">Henry</name> selected him, in 1529, to be
                 the successor of Cardinal Wolsey, as Lord Chancellor, being the first layman that
                 <w type="verb" subtype="link">had</w> ever filled that exalted office.</s></p>
             <p><s>After executing that high charge with singular zeal and impartiality, he resigned it
@@ -599,31 +599,31 @@
                 security, either to his person or his conscience, which might have Wen anticipated;
                 for, having <w type="verb" subtype="beVerb">been</w> uniformly opposed to Henrys divorce from Catherine of Arragon, he
                 rendered himself obnoxious both to his master and the new queen and by refusing to
-                attend Anne Boleyn's coronation, his doom <w type="verb" subtype="beVerb">was</w> sealed.</s> <s>A crisis <w type="verb" subtype="beVerb">was</w> at hand from
+                attend <name who="AnneBoleyn">Anne Boleyn</name>'s coronation, his doom <w type="verb" subtype="beVerb">was</w> sealed.</s> <s>A crisis <w type="verb" subtype="beVerb">was</w> at hand from
                 which no honest man of the Catholic religion could escape.</s> <s>In 1534, the Act of
-                Supremacy appeared, and Sir Thomas More, sincerely attached to the faith of his
+                Supremacy appeared, and <name who="SirThomasMore">Sir Thomas More</name>, sincerely attached to the faith of his
                 ancestors, refused to swerve from it.</s> <s>He <w type="verb" subtype="beVerb">was</w> imprisoned, arraigned of high treason,
                 and on the most scandalous testimony, pronounced guilty.</s> <s>The usual penalty of being
                 hanged, drawn, and quartered, <w type="verb" subtype="beVerb">was</w> commuted into simple decapitation, a boon which
-                Sir Thomas More acknowledged by one of those lively sallies for which he <w type="verb" subtype="beVerb">was</w> as
+                <name who="SirThomasMore">Sir Thomas More</name> acknowledged by one of those lively sallies for which he <w type="verb" subtype="beVerb">was</w> as
                 celebrated as for his graver talents:</s></p>
             <p><s><q who="SirThomasMore">"God forbid," <w type="verb" subtype="action">said</w> he, "the king should use any more such mercy to any of my
                     friends, and God bless my posterity from such pardons."</q></s></p>
             <p><s>He <w type="verb" subtype="beVerb">was</w> beheaded at Tower Hill, on Tuesday, the 6th of July, 1535, being then in his
                 fifty-fifth year, and suffered, not only with fortitude, but with cheerfulness.</s></p>
-            <p><s>Sir Thomas More, amidst all the cares of state, spared time to devote to the
+            <p><s><name who="SirThomasMore">Sir Thomas More</name>, amidst all the cares of state, spared time to devote to the
                 superintendence of the education of his children, and he <w type="verb" subtype="beVerb">was</w> amply rewarded, since
                 his three daughters <w type="verb" subtype="beVerb">were</w> the pride of their sex and their country for their high
                 attainments and many virtues; even his step-daughter, likewise much beloved by him,
                 manifested great excellence of character, and shewed a tender regard for him in his
-                misfortunes.</s> <s>His great-grandson, Cresacre More, wrote the life of his noble
+                misfortunes.</s> <s>His great-grandson, <name who="Cresacre">Cresacre More</name>, wrote the life of his noble
                 progenitor, which is one of the most beautiful biographies ever penned.</s> <s><q who="Cresacre">"It
-                    happened," says Cresacre More, "on a time, that a beggar woman's dog, which she
-                    <w type="verb" subtype="link">had</w> lost, <w type="verb" subtype="beVerb">was</w> presented for a jewel to my Lady More, and she kept it some
+                    happened," says <name who="Cresacre">Cresacre</name> More, "on a time, that a beggar woman's dog, which she
+                    <w type="verb" subtype="link">had</w> lost, <w type="verb" subtype="beVerb">was</w> presented for a jewel to my <name who="LadyMore">Lady More</name>, and she kept it some
                     seven-night very carefully; but at last the beggar <w type="verb" subtype="link">had</w> notice where her dog was,
-                    and presently she came to complain to Sir Thomas, that his lady withheld her dog
+                    and presently she came to complain to <name who="SirThomasMore">Sir Thomas</name>, that his lady withheld her dog
                     from her; presently my lady <w type="verb" subtype="beVerb">was</w> sent for, and the dog brought with her: which
-                    Sir Thomas taking in his hands, caused his wife, because she <w type="verb" subtype="beVerb">was</w> the worthier
+                    <name who="SirThomasMore">Sir Thomas</name> taking in his hands, caused his wife, because she <w type="verb" subtype="beVerb">was</w> the <w type="descLang" subtype="adjective">worthier</w>
                     person, to stand at the upper end of the hall, and the beggar at the lower end,
                     and saying that he sat there to do justice, he bade each of them to call the
                     dog, which when they did, the dog went presently to the beggar, forsaking the
@@ -633,12 +633,12 @@
                     and so all parties <w type="verb" subtype="beVerb">were</w> agreed, every one smiling to see his manner of inquiring
                     out the truth."</q></s></p>
             <p><s>Let all disunited families study with care this beautiful sketch of a household of
-                love, as given by an eye witness, Sir Thomas's friend, thegreat Erasmus; "More
+                love, as given by an eye witness, <name who="SirThomasMore">Sir Thomas</name>'s friend, thegreat Erasmus; "More
                     hath built near London, upon the Thames' side, to wit, at Chelsea, a commodious
                     house, neither mean nor subject to envy, and yet magnificent enough; there he
                     converseth affably with his family, his wife, his son, and daughter-in-law, his
                     three daughters and their husbands, with eleven grandchildren. There is not any
-                    man so loving to his children as he, and he loveth his old wife, as well as if
+                    man so <w type="descLang" subtype="adjective">loving</w> to his children as he, and he loveth his old wife, as well as if
                     she <w type="verb" subtype="beVerb">were</w> a young maid; and such is the excellency of his temper, that whatsover
                     happeneth that could not <w type="verb" subtype="beVerb">be</w> helped, he loveth it as though nothing could have
                     happened more happily.</s> <s>You would say, there <w type="verb" subtype="beVerb">were</w> in that place Plato's academy;
@@ -660,7 +660,7 @@
                 gave his lands to a stranger, and his</s></p>
             <p><s>"Once fair spreading family dissolved."</s></p>
             <p><s>Amidst this most estimable and distinguished family, none shone with greater lustre
-                than Margaret, the eldest daughter and most beloved pupil of Sir Thomas More.</s> <s>She
+                than <name who="MargaretRoper">Margaret</name>, the eldest daughter and most <w type="descLang" subtype="adjective">beloved</w> pupil of <name who="SirThomasMore">Sir Thomas More</name>.</s> <s>She
                 resembled him in person more nearly than the rest of his children, and in the depth
                 and acuteness of her understanding.</s> <s>She <w type="verb" subtype="beVerb">was</w> the dispenser of her father's secret
                 charities, and to her alone he entrusted the knowledge of the severe religious
@@ -669,7 +669,7 @@
                 it would <w type="verb" subtype="beVerb">be</w> a want of judgment to describe in any other words than those of her
                 husband's, Mr. Roper, a most accomplished gentleman, worthy of being the son-in-law
                 of Sir Thomas More:</s></p>
-            <p><s>"When Sir Thomas came from Westminster to the Tower ward again, his daughter, my
+            <p><s>"When <name who="SirThomasMore">Sir Thomas</name> came from Westminster to the Tower ward again, his daughter, my
                     wife, desirous to see her father, whom she thought she should never see in this
                     world after, and also to have his final blessing, gave attendance about the
                     Tower wharf, where she knew he would pass by before he could enter the Tower.</s>
@@ -688,7 +688,7 @@
                     the beholding whereof <w type="verb" subtype="beVerb">was</w> to many of them that <w type="verb" subtype="beVerb">were</w> present thereat so
                     lamentable, that it made them, for very sorrow thereof, to weep and
                 mourn."</s></p>
-            <p><s>The morning before he suffered, Sir Thomas wrote to his dear daughter the following
+            <p><s>The morning before he suffered, <name who="SirThomasMore">Sir Thomas</name> wrote to his <w type="descLang" subtype="adjective">dear</w> daughter the following
                 letter, with a piece of charcoal, in the blank leaf of one of his works. Besides its
                 intrinsic excellence, the allusions it contains to the persons composing his once
                 happy family circle, make it deeply interesting:</s></p>
@@ -708,7 +708,7 @@
                     of; if not, yet I pray you <w type="verb" subtype="beVerb">be</w> good to the other as you may, in her affliction,
                     and to my daughter Joan Alleyn too <gloss>A servant of Mrs. Roper's, his god-daughter</gloss>.</s> <s>Give her, I pray you, some kind answer,
                     for she sued hither to me this day to pray you to <w type="verb" subtype="beVerb">be</w> good to her.</s> <s>I cumber you,
-                    good Margaret, much; but I should <w type="verb" subtype="beVerb">be</w> sorry if it should <w type="verb" subtype="beVerb">be</w> any longer than
+                    good <name who="MargaretRoper">Margaret</name>, much; but I should <w type="verb" subtype="beVerb">be</w> sorry if it should <w type="verb" subtype="beVerb">be</w> any longer than
                     to-morrow, for it is St. Thomas's eve, and the utas of St. Peter, and therefore
                     tomorrow long I to go to God.</s> <s>It <w type="verb" subtype="beVerb">were</w> a day meet and convenient for me.</s> <s>I never
                     liked your manners towards me better than when you kissed me last, for I love
@@ -722,8 +722,8 @@
                     him to <w type="verb" subtype="beVerb">be</w> good, as he hath great cause; and if that the land of mine come into
                     his hand, he brake not my will concerning his sister Dauncey; and our Lord bless
                     Thomas and Austin (his sons), and all that they have."</s></p>
-            <p><s>It <w type="verb" subtype="beVerb">was</w> one of the last requests of Sir Thomas More to Henry the Eighth, that his
-                daughter Margaret might attend his funeral.</s> <s>In defiance of the danger which attended
+            <p><s>It <w type="verb" subtype="beVerb">was</w> one of the last requests of <name who="SirThomasMore">Sir Thomas More</name> to <name who="KingHenry">Henry the Eighth</name>, that his
+                daughter <name who="MargaretRoper">Margaret</name> might attend his funeral.</s> <s>In defiance of the danger which attended
                 the act, she bought the head of her honoured parent, when it <w type="verb" subtype="beVerb">was</w> about to <w type="verb" subtype="beVerb">be</w> thrown
                 into the Thames; and when brought before the privy council, and harshly questioned
                 concerning this act, and why she did it, she replied boldly, <q who="MargaretRoper">"That it might not
@@ -733,7 +733,7 @@
                 existence, likewise engravings from it.</s> <s>In this picture is introduced the portrait
                 of the beggar-girl's dog, on which the accompanying tale is founded.</s></p>
             <p><s>Alice Lady More, although not a pleasant mannered or sweet tempered woman, must have
-                possessed some good qualities, as she <w type="verb" subtype="beVerb">was</w> an excellent stepmother to Sir Thomas's
+                possessed some good qualities, as she <w type="verb" subtype="beVerb">was</w> an excellent stepmother to <name who="SirThomasMore">Sir Thomas</name>'s
                 motherless children, as we learn from some verses of his, translated from the Latin,
                 in which he wrote them, by Archdeacon Wrangham. They <w type="verb" subtype="beVerb">were</w> meant for an epitaph on
                 his first and second wives.</s></p>
@@ -742,7 +742,7 @@
                 son to know: The next,ah, virtue in a step-dame rare, Nursed my sweet infants with
                 a mother's care.</s> <s>With both my years so happily have pass'd, Which most my love I
                 know notfirst or last.</s></p>
-            <p><s>The worthies of Sir Thomas More's family <w type="verb" subtype="beVerb">are</w> not yet enumerated. Mrs. Roper's
+            <p><s>The worthies of <name who="SirThomasMore">Sir Thomas More</name>'s family <w type="verb" subtype="beVerb">are</w> not yet enumerated. <name who="MargaretRoper">Mrs. Roper</name>'s
                 daughter, Mrs. Bazett, <w type="verb" subtype="beVerb">was</w> one of the most accomplished and pious ladies of her
                 time, and translated from the Latin her grandfather's "Exposition of our
                     Saviour's Passion," in a style so like his own, that for some time many
