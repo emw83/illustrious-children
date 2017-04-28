@@ -2,6 +2,11 @@ body {
     background-color: #faf3e6;
     font-family: Georgia, serif;
 }
+#triangle {
+    margin: auto;
+    display: block;
+    width: 25%;
+}
 #triangle_1 {
     margin: auto;
     display: block;
@@ -35,13 +40,18 @@ li a {
 li a:hover {
     background-color: #900C3F;
     }
-img {
+#lucy{
     display: inline-block;
-    padding-top: 5%;
+    padding: 5%;
     vertical-align: top;
     height: 40%;
     width: 30%;
     margin-left: 10%;
+}
+img.headflourish {
+    padding: 0;
+    margin: auto;
+    width: 100%;
 }
 div.body {
     display: inline-block;
@@ -49,12 +59,35 @@ div.body {
     vertical-align: top;
     width: 40%;
 }
+img.endflourish {
+    width: 100%;
+    }
 h1 {
-    text-align: center;
-    font-family: Impact, Charcoal, sans-serif;
-    font-size: xx-large;
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	text-transform: uppercase;
+}
+h3 {
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
 }
 p {
-  height: 30%;
-  padding: 5%;
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+div.main-body {
+    width: 80%;
+    margin: auto;
 }
