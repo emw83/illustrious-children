@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <story name="Wareham">
+        <royal>6</royal>
+        <old>0</old>
+        <young>18</young>
+        <youthful>6</youthful>
+        <little>4</little>
+        <dear>1</dear>
+        <poor>0</poor>
+    </story>
+    <story name="Wolsey">
+        <royal>0</royal>
+        <old>3</old>
+        <young>15</young>
+        <youthful>5</youthful>
+        <little>1</little>
+        <dear>0</dear>
+        <poor>1</poor>
+    </story>
+    <story name="Lucy">
+        <royal>3</royal>
+        <old>4</old>
+        <young>9</young>
+        <youthful>5</youthful>
+        <little>13</little>
+        <dear>12</dear>
+        <poor>0</poor>
+    </story>
+    <story name="Thomas-Moore">
+        <royal>3</royal>
+        <old>2</old>
+        <young>0</young>
+        <youthful>0</youthful>
+        <little>7</little>
+        <dear>4</dear>
+        <poor>12</poor>
+    </story>
+    <story name="Guthred">
+        <royal>11</royal>
+        <old>4</old>
+        <young>7</young>
+        <youthful>5</youthful>
+        <little>3</little>
+        <dear>4</dear>
+        <poor>7</poor>
+    </story>
+</root>

@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="700"
+     height="510"
+     viewBox="-100 -100 200 210">
+   <g transform="translate(-40,5)">
+      <circle cx="0"
+              cy="0"
+              r="100"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="100" y="3" fill="gray" font-size="3">18</text>
+      <circle r="5.2631578947368425"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="5.2631578947368425" y="3" fill="gray" font-size="3">0</text>
+      <circle r="15.789473684210526"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="15.789473684210526" y="3" fill="gray" font-size="3">2</text>
+      <circle r="26.31578947368421"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="26.31578947368421" y="3" fill="gray" font-size="3">4</text>
+      <circle r="36.8421052631579"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="36.8421052631579" y="3" fill="gray" font-size="3">6</text>
+      <circle r="47.36842105263158"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="47.36842105263158" y="3" fill="gray" font-size="3">8</text>
+      <circle r="57.89473684210526"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="57.89473684210526" y="3" fill="gray" font-size="3">10</text>
+      <circle r="68.42105263157895"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="68.42105263157895" y="3" fill="gray" font-size="3">12</text>
+      <circle r="78.94736842105263"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="78.94736842105263" y="3" fill="gray" font-size="3">14</text>
+      <circle r="89.47368421052632"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="89.47368421052632" y="3" fill="gray" font-size="3">16</text>
+      <circle r="100"
+              cx="0"
+              cy="0"
+              stroke="gray"
+              stroke-width="0.2"
+              fill-opacity="0"/>
+      <text x="100" y="3" fill="gray" font-size="3">18</text>
+      <line x1="0"
+            y1="0"
+            x2="30.901699437494745"
+            y2="95.10565162951535"
+            stroke-width="0.2"
+            stroke="gray"/>
+      <text x="31.901699437494745" y="95.10565162951535" font-size="6"/>
+      <line x1="0"
+            y1="0"
+            x2="-80.90169943749473"
+            y2="58.77852522924732"
+            stroke-width="0.2"
+            stroke="gray"/>
+      <text x="-79.90169943749473" y="58.77852522924732" font-size="6"/>
+      <line x1="0"
+            y1="0"
+            x2="-80.90169943749474"
+            y2="-58.7785252292473"
+            stroke-width="0.2"
+            stroke="gray"/>
+      <text x="-79.90169943749474" y="-58.7785252292473" font-size="6"/>
+      <line x1="0"
+            y1="0"
+            x2="30.901699437494724"
+            y2="-95.10565162951536"
+            stroke-width="0.2"
+            stroke="gray"/>
+      <text x="31.901699437494724" y="-95.10565162951536" font-size="6"/>
+      <line x1="0"
+            y1="0"
+            x2="100"
+            y2="-2.4492935982947064E-14"
+            stroke-width="0.2"
+            stroke="gray"/>
+      <text x="101" y="-2.4492935982947064E-14" font-size="6"/>
+      <path id="Wareham"
+            d="M 11.384836634866483 35.038924284558284 L -4.257984180920775 3.0936065910130166 L -80.90169943749474 -58.7785252292473 L 11.384836634866476 -35.03892428455829 L 26.31578947368421 -6.445509469196595E-15 L 3.2528104671047124 10.01112122415951 L -4.257984180920775 3.0936065910130175 Z"
+            stroke="#53777A"
+            stroke-width="0.2"
+            fill="#53777A"
+            fill-opacity=".25"/>
+      <g class="legend" id="Wareham_rect" transform="translate(100,-88)">
+         <rect x="0" y="0" width="5" height="5" fill="#53777A"/>
+         <text x="7" y="4.5" font-size="6" fill="#53777A">Wareham</text>
+      </g>
+      <path id="Wolsey"
+            d="M 1.626405233552355 5.005560612079755 L -17.0319367236831 12.374426364052066 L -68.12774689473241 -49.49770545620825 L 9.758431401314123 -30.033363672478536 L 10.526315789473683 -2.578203787678638E-15 L 1.6264052335523562 5.005560612079755 L -8.51596836184155 6.187213182026035 Z"
+            stroke="#D95B43"
+            stroke-width="0.2"
+            fill="#D95B43"
+            fill-opacity=".25"/>
+      <g class="legend" id="Wolsey_rect" transform="translate(100,-76)">
+         <rect x="0" y="0" width="5" height="5" fill="#D95B43"/>
+         <text x="7" y="4.5" font-size="6" fill="#D95B43">Wolsey</text>
+      </g>
+      <path id="Lucy"
+            d="M 6.50562093420942 20.02224244831902 L -21.289920904603875 15.468032955065084 L -42.57984180920776 -30.936065910130157 L 9.758431401314123 -30.033363672478536 L 73.68421052631578 -1.8047426513750466E-14 L 21.143268036180633 65.07228795703682 L -4.257984180920775 3.0936065910130175 Z"
+            stroke="#C02942"
+            stroke-width="0.2"
+            fill="#C02942"
+            fill-opacity=".25"/>
+      <g class="legend" id="Lucy_rect" transform="translate(100,-64)">
+         <rect x="0" y="0" width="5" height="5" fill="#C02942"/>
+         <text x="7" y="4.5" font-size="6" fill="#C02942">Lucy</text>
+      </g>
+      <path id="Thomas-Moore"
+            d="M 6.50562093420942 20.02224244831902 L -12.773952542762325 9.28081977303905 L -4.257984180920776 -3.0936065910130157 L 1.6264052335523538 -5.005560612079756 L 42.10526315789473 -1.0312815150714552E-14 L 8.132026167761781 25.027803060398774 L -55.35379435197007 40.21688568316923 Z"
+            stroke="#542437"
+            stroke-width="0.2"
+            fill="#542437"
+            fill-opacity=".25"/>
+      <g class="legend"
+         id="Thomas-Moore_rect"
+         transform="translate(100,-52)">
+         <rect x="0" y="0" width="5" height="5" fill="#542437"/>
+         <text x="7" y="4.5" font-size="6" fill="#542437">Thomas-Moore</text>
+      </g>
+      <path id="Guthred"
+            d="M 19.51686280262826 60.066727344957066 L -21.289920904603875 15.468032955065084 L -34.063873447366205 -24.748852728104126 L 9.758431401314123 -30.033363672478536 L 21.052631578947366 -5.156407575357276E-15 L 8.132026167761781 25.027803060398774 L -34.0638734473662 24.74885272810414 Z"
+            stroke="#53777A"
+            stroke-width="0.2"
+            fill="#53777A"
+            fill-opacity=".25"/>
+      <g class="legend" id="Guthred_rect" transform="translate(100,-40)">
+         <rect x="0" y="0" width="5" height="5" fill="#53777A"/>
+         <text x="7" y="4.5" font-size="6" fill="#53777A">Guthred</text>
+      </g>
+   </g>
+</svg>
