@@ -5,6 +5,8 @@
     <xsl:variable name="width" select="$xInterval - 10"/>
     <xsl:variable name="maxHeight" select="-200"/>
     <xsl:variable name="max" select="max(//w)"/>
+    <!-- switch colors for each story -->
+    <xsl:variable name="color" select="'#53777A'"/>
     <xsl:template match="/">
         <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
             <g transform="translate(40, 250)">
@@ -25,7 +27,7 @@
                     <xsl:variable name="pos" select="position()"/>
                     <xsl:variable name="height" select="-(current() div $max) * $maxHeight"/>
                     <rect x="{(position()-1)*$xInterval + 10}" y="-{$height}" width="{$width}"
-                        height="{$height}" fill="#C02942" stroke="black"
+                        height="{$height}" fill="{$color}" stroke="black"
                         stroke-width="1"/>
                     <text x="{(position()-1)*$xInterval + 10 + ($width div 2)}" y="15"
                         text-anchor="middle" font="" font-size="75%"><xsl:value-of select="@adj"/></text>
