@@ -19,9 +19,9 @@
     <xsl:variable name="xShift" as="xs:integer" select="200"/>
     <xsl:variable name="yShift" as="xs:integer" select="10"/>
     <xsl:variable name="radius" as="xs:double" select="100"/>
-    <xsl:variable name="spokeCount" as="xs:integer" select="5"/>
+    <xsl:variable name="spokeCount" as="xs:integer" select="8"/>
     <xsl:variable name="maxValue" as="xs:double" select="max(//story/*)"/>
-    <xsl:variable name="colors" as="xs:string+" select="'#53777A', '#D95B43', '#C02942', '#542437', '#53777A'"/>
+    <xsl:variable name="colors" as="xs:string+" select="'#ECD078', '#D95B43', '#C02942', '#542437', '#53777A'"/>
     <!--                             -->
     <!-- convert fraction to radians -->
     <!--                             -->
@@ -80,7 +80,7 @@
                     <line x1="0" y1="0" x2="{$x2Pos}" y2="{$y2Pos}" stroke-width="{$true1}" stroke="gray"/>
                     <!-- move text slightly left and down from point it labels -->
                     <text x="{$x2Pos + 1}" y="{$y2Pos}" font-size="6">
-                        <xsl:value-of select="$root//stooge[1]/*[current()]/name()"/>
+                        <xsl:value-of select="$root//story[1]/*[current()]/name()"/>
                     </text>
                 </xsl:for-each>
                 <xsl:apply-templates select="//story"/>
