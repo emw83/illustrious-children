@@ -1,3 +1,4 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
 start = TEI
 TEI = element TEI {teiHeader, doc}
 teiHeader = element teiHeader {fileDesc, encodingDesc, profileDesc, revisionDesc}
