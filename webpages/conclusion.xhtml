@@ -3,15 +3,79 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Illustrious Children: Conclusions</title>
-        <link rel="stylesheet" type="text/css" href="ill-kids.css"/>
+        <link rel="stylesheet" type="text/css" href="ill-kids.css" />
     </head>
     <body>
         <div class="navbar"><!--#include virtual="menu.xhtml" --></div>
-        <div class="main-body"><h1>Conclusions</h1></div>
-        <p>The radar chart explores the eight most common adjectives between each tale. In looking at the chart, we can see that the tales with a female as the main character, such as Lucy and Thomas More, rely more heavily on adjectives such as “little,” while tales featuring a male main character more prominently use adjectives that invoke strength and a sense of greatness. Adjectives indicating age, such as “young” and “old” are used commonly across all five tales, and do not seem to have any correlation to gender. Still, the division between the adjectives used in each story is clear; language that indicates meekness and properness appears far more often in stories that focus on female characters, while language indicating status and strength are used in those with male characters.</p>
-        <p>Strickland’s use of different language greatly impacts the tone of each story. While the tales with stronger, “masculine” language seem to have a focus on boys going on an adventure, the stories with “feminine” language are more passive, with events happening to the girls rather than the girls themselves having agency. This also fits into what traits were seen as “common” for each gender at the time the book was written: girls were expected to be pious and domestic, while boys were rambunctious and strong. While Strickland may have focused her research and story-telling on feminist ideals, it is clear that she still relied heavily on the conventions of the time.</p>
-        <p>In examining the bar charts, we can see that while each tale shares many adjectives with the others, there are also many that are unique to each story. We can also look at these adjectives in comparison to each other, to see if they have any commonalities. For example, the two most frequently used adjectives in Guthred are “great” and “royal,” which both indicate strength. We might consider these adjectives as more “masculine,” which is fitting because the main character of Guthred is a young male who becomes king. Lucy, on the other hand, has a greater frequency of traditionally feminine adjectives, such as “little” and “dear.” This indicates that there is a definite correlation between the genders of the characters and the language used to describe them.</p>
-        <p>The bar charts are also useful because they are not limited to only those adjectives which the stories have in common. In being able to see a greater range of word choice, we can explore the themes amongst the language being used across one story in particular, without being impeded by the adjectives that may be in common with the other tales, but do not appear that frequently in that tale alone.</p>
-        <p>Because of the subjectiveness of our research, we did face some limitations in writing our code. We found ourselves picking out adjectives by hand for lack of a better method to find the most frequently used words or the adjectives which most tales had in common. While this method worked fine in the scope of our research, this may become a problem if we decide to analyze similar tales and books in the future. Our work here does pave the way for further research, as we selected only a few stories out of several from <i>Illustrious Children</i>, and Strickland’s other works are structured similarly. We also chose to look only at adjectives for the purposes of this project, but our texts are primed for analysis of verbs and adverbs as well.</p>
+        <div class="main-body">
+            <h1>Conclusions</h1>
+            <h3>Adjective Use</h3>
+            <p>The radar chart explores the eight most common adjectives between each tale. In
+                looking at the chart, we can see that the tales with a female as the main character,
+                such as Lucy and Thomas More, rely more heavily on adjectives such as “little,”
+                while tales featuring a male main character more prominently use adjectives that
+                invoke strength and a sense of greatness. Adjectives indicating age, such as “young”
+                and “old” are used commonly across all five tales, and do not seem to have any
+                correlation to gender. Still, the division between the adjectives used in each story
+                is clear; language that indicates meekness and properness appears far more often in
+                stories that focus on female characters, while language indicating status and
+                strength are used in those with male characters.</p>
+            <p>Strickland’s use of different language greatly impacts the tone of each story. While
+                the tales with stronger, “masculine” language seem to have a focus on boys going on
+                an adventure, the stories with “feminine” language are more passive, with events
+                happening to the girls rather than the girls themselves having agency. This also
+                fits into what traits were seen as “common” for each gender at the time the book was
+                written: girls were expected to be pious and domestic, while boys were rambunctious
+                and strong. While Strickland may have focused her research and story-telling on
+                feminist ideals, it is clear that she still relied heavily on the conventions of the
+                time.</p>
+            <p>In examining the bar charts, we can see that while each tale shares many adjectives
+                with the others, there are also many that are unique to each story. We can also look
+                at these adjectives in comparison to each other, to see if they have any
+                commonalities. For example, the two most frequently used adjectives in Guthred are
+                “great” and “royal,” which both indicate strength. We might consider these
+                adjectives as more “masculine,” which is fitting because the main character of
+                Guthred is a young male who becomes king. Lucy, on the other hand, has a greater
+                frequency of traditionally feminine adjectives, such as “little” and “dear.” This
+                indicates that there is a definite correlation between the genders of the characters
+                and the language used to describe them.</p>
+            <p>The bar charts are also useful because they are not limited to only those adjectives
+                which the stories have in common. In being able to see a greater range of word
+                choice, we can explore the themes amongst the language being used across one story
+                in particular, without being impeded by the adjectives that may be in common with
+                the other tales, but do not appear that frequently in that tale alone.</p>
+            <h3>Limitations</h3>
+            <p>Because of the subjectiveness of our research, we did face some limitations in
+                writing our code. We found ourselves picking out adjectives by hand for lack of a
+                better method to find the most frequently used words or the adjectives which most
+                tales had in common. While this method worked fine in the scope of our research,
+                this may become a problem if we decide to analyze similar tales and books in the
+                future. This limitation also reveals our struggle with XSLT. The adjectives we did
+                collect come not from one, but two XSLT documents, and, try as we might, we simply
+                did not understand how our variables might work in time to publish a more concise
+                process. In the future, more practice with XSLT and xQuery is a must, so that
+                adjectives might be collected, counted, selected and rendered ready for SVG without
+                endless documents and hours of counting.</p>
+            <p>The radar chart is a very helpful chart for visualization, but it is not entirely
+                reliable. Remember that the sizes of the texts are very different, but considering
+                percentage would have made it hard to visually compare the use, as the number of
+                single-use adjectives and nationality descriptions in Guthred, for instance, is
+                incredibly high. Young is also used so many times in the Wolsey story that if its
+                real number were used, it would obscure all the rest of the data. Ideally, if we had
+                time we would either work with statistics or linguistics technology to compare these
+                high frequency adjectives and drop the one-offs, as well as incorporating a break in
+                the numbers on the radar chart to indicate that Wolsey was so far off the charts. </p>
+            <h3>Future Research</h3>
+            <p>Our work here does pave the way for further research, as we selected only a few
+                stories out of several from <i>Illustrious Children</i>, and Strickland’s other
+                works are structured similarly. We also chose to look only at adjectives for the
+                purposes of this project, but our texts are primed for analysis of verbs and adverbs
+                as well. Because this book is just one of many texts that have fallen to obscurity
+                over the years, our work here is especially important. By bringing light to this
+                little-known gem, we can make an argument for why this book is worthwhile, and why
+                it should still be considered relevant amidst a sea of television, movies, games,
+                and plenty of other works of historical fiction.</p>
+            <img class="endflourish" src="separator.png" />
+        </div>
     </body>
 </html>
