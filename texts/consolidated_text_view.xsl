@@ -5,7 +5,9 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>The Judgement of Sir Thomas More</title>
+                <title>
+                    <xsl:apply-templates select="//front/docTitle"/>
+                </title>
             </head>
             <body>
                 <xsl:apply-templates select="//body"/>
