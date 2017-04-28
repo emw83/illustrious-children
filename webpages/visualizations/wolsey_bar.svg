@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
    <g transform="translate(40, 250)">
       <line x1="0"
             y1="0"
-            x2="455"
+            x2="585"
             y2="0"
             stroke="black"
             stroke-width="2"/>
@@ -13,7 +12,7 @@
             y2="-210"
             stroke="black"
             stroke-width="2"/>
-      <text x="227.5" y="40" text-anchor="middle">Adjective</text>
+      <text x="292.5" y="40" text-anchor="middle">Adjective</text>
       <text x="-20"
             y="-100"
             text-anchor="middle"
@@ -79,60 +78,76 @@
             stroke="black"
             stroke-width="1"/>
       <rect x="10"
-            y="-200"
+            y="-17.142857142857142"
             width="55"
-            height="200"
-            fill="#C02942"
+            height="17.142857142857142"
+            fill="#D95B43"
             stroke="black"
             stroke-width="1"/>
-      <text x="37.5" y="15" text-anchor="middle" font-size="75%">dear</text>
+      <text x="37.5" y="15" text-anchor="middle" font-size="75%">elder</text>
       <rect x="75"
-            y="-46.15384615384615"
+            y="-28.57142857142857"
             width="55"
-            height="46.15384615384615"
-            fill="#C02942"
+            height="28.57142857142857"
+            fill="#D95B43"
             stroke="black"
             stroke-width="1"/>
-      <text x="102.5" y="15" text-anchor="middle" font-size="75%">filial</text>
+      <text x="102.5" y="15" text-anchor="middle" font-size="75%">good</text>
       <rect x="140"
-            y="-92.3076923076923"
+            y="-28.57142857142857"
             width="55"
-            height="92.3076923076923"
-            fill="#C02942"
+            height="28.57142857142857"
+            fill="#D95B43"
             stroke="black"
             stroke-width="1"/>
-      <text x="167.5" y="15" text-anchor="middle" font-size="75%">good</text>
+      <text x="167.5" y="15" text-anchor="middle" font-size="75%">good-natured</text>
       <rect x="205"
+            y="-17.142857142857142"
+            width="55"
+            height="17.142857142857142"
+            fill="#D95B43"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="232.5" y="15" text-anchor="middle" font-size="75%">hospitable</text>
+      <rect x="270"
+            y="-17.142857142857142"
+            width="55"
+            height="17.142857142857142"
+            fill="#D95B43"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="297.5" y="15" text-anchor="middle" font-size="75%">malcontent</text>
+      <rect x="335"
+            y="-17.142857142857142"
+            width="55"
+            height="17.142857142857142"
+            fill="#D95B43"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="362.5" y="15" text-anchor="middle" font-size="75%">old</text>
+      <rect x="400"
+            y="-17.142857142857142"
+            width="55"
+            height="17.142857142857142"
+            fill="#D95B43"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="427.5" y="15" text-anchor="middle" font-size="75%">weary</text>
+      <rect x="465"
             y="-200"
             width="55"
             height="200"
-            fill="#C02942"
+            fill="#D95B43"
             stroke="black"
             stroke-width="1"/>
-      <text x="232.5" y="15" text-anchor="middle" font-size="75%">little</text>
-      <rect x="270"
-            y="-61.53846153846154"
+      <text x="492.5" y="15" text-anchor="middle" font-size="75%">young</text>
+      <rect x="530"
+            y="-28.57142857142857"
             width="55"
-            height="61.53846153846154"
-            fill="#C02942"
+            height="28.57142857142857"
+            fill="#D95B43"
             stroke="black"
             stroke-width="1"/>
-      <text x="297.5" y="15" text-anchor="middle" font-size="75%">old</text>
-      <rect x="335"
-            y="-46.15384615384615"
-            width="55"
-            height="46.15384615384615"
-            fill="#C02942"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="362.5" y="15" text-anchor="middle" font-size="75%">royal</text>
-      <rect x="400"
-            y="-138.46153846153845"
-            width="55"
-            height="138.46153846153845"
-            fill="#C02942"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="427.5" y="15" text-anchor="middle" font-size="75%">young</text>
+      <text x="557.5" y="15" text-anchor="middle" font-size="75%">youthful</text>
    </g>
 </svg>

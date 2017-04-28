@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
    <g transform="translate(40, 250)">
       <line x1="0"
             y1="0"
-            x2="715"
+            x2="455"
             y2="0"
             stroke="black"
             stroke-width="2"/>
@@ -13,7 +12,7 @@
             y2="-210"
             stroke="black"
             stroke-width="2"/>
-      <text x="357.5" y="40" text-anchor="middle">Adjective</text>
+      <text x="227.5" y="40" text-anchor="middle">Adjective</text>
       <text x="-20"
             y="-100"
             text-anchor="middle"
@@ -79,92 +78,60 @@
             stroke="black"
             stroke-width="1"/>
       <rect x="10"
-            y="-66.66666666666666"
-            width="55"
-            height="66.66666666666666"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="37.5" y="15" text-anchor="middle" font-size="75%">aged</text>
-      <rect x="75"
-            y="-66.66666666666666"
-            width="55"
-            height="66.66666666666666"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="102.5" y="15" text-anchor="middle" font-size="75%">beloved</text>
-      <rect x="140"
-            y="-150"
-            width="55"
-            height="150"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="167.5" y="15" text-anchor="middle" font-size="75%">blind</text>
-      <rect x="205"
-            y="-66.66666666666666"
-            width="55"
-            height="66.66666666666666"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="232.5" y="15" text-anchor="middle" font-size="75%">dear</text>
-      <rect x="270"
-            y="-66.66666666666666"
-            width="55"
-            height="66.66666666666666"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="297.5" y="15" text-anchor="middle" font-size="75%">faithful</text>
-      <rect x="335"
-            y="-50"
-            width="55"
-            height="50"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="362.5" y="15" text-anchor="middle" font-size="75%">forlorn</text>
-      <rect x="400"
-            y="-100"
-            width="55"
-            height="100"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="427.5" y="15" text-anchor="middle" font-size="75%">good</text>
-      <rect x="465"
-            y="-50"
-            width="55"
-            height="50"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="492.5" y="15" text-anchor="middle" font-size="75%">helpless</text>
-      <rect x="530"
-            y="-116.66666666666667"
-            width="55"
-            height="116.66666666666667"
-            fill="#542437"
-            stroke="black"
-            stroke-width="1"/>
-      <text x="557.5" y="15" text-anchor="middle" font-size="75%">little</text>
-      <rect x="595"
             y="-200"
             width="55"
             height="200"
-            fill="#542437"
+            fill="#C02942"
             stroke="black"
             stroke-width="1"/>
-      <text x="622.5" y="15" text-anchor="middle" font-size="75%">poor</text>
-      <rect x="660"
-            y="-50"
+      <text x="37.5" y="15" text-anchor="middle" font-size="75%">dear</text>
+      <rect x="75"
+            y="-46.15384615384615"
             width="55"
-            height="50"
-            fill="#542437"
+            height="46.15384615384615"
+            fill="#C02942"
             stroke="black"
             stroke-width="1"/>
-      <text x="687.5" y="15" text-anchor="middle" font-size="75%">royal</text>
+      <text x="102.5" y="15" text-anchor="middle" font-size="75%">filial</text>
+      <rect x="140"
+            y="-92.3076923076923"
+            width="55"
+            height="92.3076923076923"
+            fill="#C02942"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="167.5" y="15" text-anchor="middle" font-size="75%">good</text>
+      <rect x="205"
+            y="-200"
+            width="55"
+            height="200"
+            fill="#C02942"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="232.5" y="15" text-anchor="middle" font-size="75%">little</text>
+      <rect x="270"
+            y="-61.53846153846154"
+            width="55"
+            height="61.53846153846154"
+            fill="#C02942"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="297.5" y="15" text-anchor="middle" font-size="75%">old</text>
+      <rect x="335"
+            y="-46.15384615384615"
+            width="55"
+            height="46.15384615384615"
+            fill="#C02942"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="362.5" y="15" text-anchor="middle" font-size="75%">royal</text>
+      <rect x="400"
+            y="-138.46153846153845"
+            width="55"
+            height="138.46153846153845"
+            fill="#C02942"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="427.5" y="15" text-anchor="middle" font-size="75%">young</text>
    </g>
 </svg>
