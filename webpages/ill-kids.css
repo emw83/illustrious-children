@@ -90,3 +90,12 @@ margin:auto;
 width: 100%;
 
 }
+div.text {
+    background-color: #faf3e6;
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-style: normal;
+	font-variant: normal;
+    border-style: double;
+    border-width: 8px;
+    border-color: black;
+}
