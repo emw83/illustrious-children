@@ -78,6 +78,7 @@ h3 {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
+	text-transform: uppercase;
 }
 p {
 	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
